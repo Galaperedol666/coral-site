@@ -1,0 +1,273 @@
+/* ===== Категорії ===== */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.category-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background: #f1f1f1;
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  color: var(--color-text);
+  font-weight: bold;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.category-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.category-card h3 {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+  color: var(--color-accent);
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25), 0 0 12px var(--color-accent);
+}
+
+/* ===== Каталог ===== */
+.catalogue-header {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.catalogue-header h1 {
+  font-size: 2.2rem;
+  color: var(--color-accent);
+  margin-bottom: 0.5rem;
+}
+
+.catalogue-header p {
+  color: #fffdfd;
+  font-size: 1.1rem;
+}
+
+/* ===== Фільтр ===== */
+.filter {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.filter input {
+  padding: 0.5rem;
+  margin: 0 0.5rem;
+  width: 100px;
+}
+
+.filter button {
+  padding: 0.5rem 1rem;
+  background: var(--color-accent);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* ===== Сітка товарів ===== */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-items: center; /* центрує картки в рядку */
+}
+
+/* ===== Картка товару ===== */
+.product-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  padding: 1rem;
+  width: 100%;
+  max-width: 300px; /* обмежує ширину картки */
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 15px var(--color-accent-glow);
+}
+
+.product-img-wrapper {
+  position: relative;
+}
+
+.product-img-wrapper img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+.product-price {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(255, 0, 0, 0.85);
+  color: #fff;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.95rem;
+}
+
+.product-card h3 {
+  margin: 1rem 0 0.5rem;
+  color: var(--color-accent);
+  font-size: 1.2rem;
+}
+
+.product-card p {
+  font-size: 0.95rem;
+  color: var(--color-accent);
+  margin-bottom: 1rem;
+}
+
+.btn-accent {
+  margin-top: auto; /* прибиває кнопку вниз */
+  background: var(--color-accent);
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.btn-accent:hover {
+  background: #000;
+}
+
+/* ===== Модальне вікно ===== */
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.modal-content {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 600px;
+  max-height: 90vh;
+  width: 90%;
+  overflow-y: auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  position: relative;
+  text-align: left;
+}
+
+.modal-content img {
+  width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.modal-content h3 {
+  color: var(--color-accent);
+  margin-bottom: 0.5rem;
+}
+
+.modal-content p {
+  color: #333;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.modal-content ul {
+  margin: 1rem 0;
+  padding-left: 1.2rem;
+  color: #555;
+}
+
+.modal-content #modalColors {
+  margin-bottom: 1rem;
+  font-weight: bold;
+  color: var(--color-accent);
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #999;
+}
+
+/* ===== Футер ===== */
+footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 1.5rem;
+  background: #000;
+  color: #aaa;
+}
+
+/* Dropdown */
+.dropdown {
+  position: relative;
+}
+
+.dropdown > a {
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+  min-width: 180px;
+  z-index: 1000;
+}
+
+.dropdown-menu li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.dropdown-menu li a:hover {
+  background: #f2f2f2;
+}
+
+/* Показати при наведенні */
+.dropdown:hover .dropdown-menu {
+  display: block;
+}

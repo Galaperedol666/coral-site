@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Каталог — Корал | Меблі на замовлення</title>
+    <meta
+      name="description"
+      content="Оберіть категорію меблів: кухні, шафи, дивани, ліжка, комоди, столи, матраци."
+    />
+
+    <meta name="robots" content="index, follow" />
+    <!-- <link rel="canonical" href="https://yourdomain.com/catalogue.html" /> -->
+
+    <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
+    <link
+      rel="preload"
+      href="static/css/style.css"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+    <noscript><link rel="stylesheet" href="static/css/style.css" /></noscript>
+    <link rel="stylesheet" href="static/css/catalogue.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+    <!-- Навігація -->
+    <header>
+      <nav class="navbar">
+        <div class="logo">
+          <a href="index.html">
+            <img src="static/img/Logo.png" alt="Корал" />
+          </a>
+        </div>
+        <!-- бургер -->
+        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+
+        <ul class="nav-links">
+          <li><a href="index.html">Головна</a></li>
+          <li class="dropdown">
+            <a href="catalogue.html" class="active">Каталог ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="catalogue/kitchens.html">Кухні</a></li>
+              <li><a href="catalogue/wardrobes.html">Шафи</a></li>
+              <li><a href="catalogue/commodes.html">Комоди</a></li>
+              <li><a href="catalogue/living.html">Вітальні</a></li>
+              <li><a href="catalogue/shelves.html">Полки</a></li>
+              <li><a href="catalogue/beds.html">Ліжка</a></li>
+              <li><a href="catalogue/sofas.html">Дивани</a></li>
+              <li><a href="catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="catalogue/tables.html">Столи</a></li>
+              <li><a href="catalogue/cabinets.html">Тумби</a></li>
+            </ul>
+          </li>
+          <li><a href="portfolio.html">Портфоліо</a></li>
+          <li><a href="contacts.html">Контакти</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section class="catalogue-header">
+        <h1>Каталог меблів</h1>
+        <p>Оберіть категорію, щоб переглянути товари</p>
+      </section>
+      <!-- Категорії -->
+      <section class="category-grid" id="primary-menu">
+        <!-- Кухні -->
+        <a
+          href="catalogue/kitchens.html"
+          class="category-card"
+          data-slug="kitchens"
+        >
+          <img src="static/img/catalogue/kitchen.jpg" alt="Кухні" />
+          <h3>Кухні</h3>
+        </a>
+
+        <!-- Шафи -->
+        <a
+          href="catalogue/wardrobes.html"
+          class="category-card"
+          data-slug="wardrobes"
+        >
+          <img src="static/img/catalogue/wardrobe.jpg" alt="Шафи" />
+          <h3>Шафи</h3>
+        </a>
+
+        <!-- Комоди -->
+        <a
+          href="catalogue/commodes.html"
+          class="category-card"
+          data-slug="commodes"
+        >
+          <img src="static/img/catalogue/commode.jpg" alt="Комоди" />
+          <h3>Комоди</h3>
+        </a>
+
+        <!-- Вітальні -->
+        <a
+          href="catalogue/living.html"
+          class="category-card"
+          data-slug="living"
+        >
+          <img src="static/img/catalogue/living.jpg" alt="Вітальні" />
+          <h3>Вітальні</h3>
+        </a>
+
+        <!-- Полки -->
+        <a
+          href="catalogue/shelves.html"
+          class="category-card"
+          data-slug="shelves"
+        >
+          <img src="static/img/catalogue/shelve.jpg" alt="Полки" />
+          <h3>Полки</h3>
+        </a>
+
+        <!-- Ліжка -->
+        <a href="catalogue/beds.html" class="category-card" data-slug="beds">
+          <img src="static/img/catalogue/bed.jpg" alt="Ліжка" />
+          <h3>Ліжка</h3>
+        </a>
+
+        <!-- Дивани -->
+        <a href="catalogue/sofas.html" class="category-card" data-slug="sofas">
+          <img src="static/img/catalogue/sofa.jpg" alt="Дивани" />
+          <h3>Дивани</h3>
+        </a>
+
+        <!-- Матраци -->
+        <a
+          href="catalogue/mattresses.html"
+          class="category-card"
+          data-slug="mattresses"
+        >
+          <img src="static/img/catalogue/mattresse.jpg" alt="Матраци" />
+          <h3>Матраци</h3>
+        </a>
+
+        <!-- Столи -->
+        <a
+          href="catalogue/tables.html"
+          class="category-card"
+          data-slug="tables"
+        >
+          <img src="static/img/catalogue/table.jpg" alt="Столи" />
+          <h3>Столи</h3>
+        </a>
+
+        <!-- Тумби -->
+        <a
+          href="catalogue/cabinets.html"
+          class="category-card"
+          data-slug="cabinets"
+        >
+          <img src="static/img/catalogue/cabinet.jpg" alt="Тумби" />
+          <h3>Тумби</h3>
+        </a>
+      </section>
+    </main>
+    <!-- Кнопка "Вгору" -->
+    <div id="scrollTopBtn" class="scroll-top">↑</div>
+    <footer>
+      <p>© 2026 Корал. Всі права захищені.</p>
+    </footer>
+
+    <script src="static/js/main.js" defer></script>
+  </body>
+</html>

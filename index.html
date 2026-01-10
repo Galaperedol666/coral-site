@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- SEO -->
+    <title>Корал — сучасний магазин меблів</title>
+    <meta
+      name="description"
+      content="Корал — сучасний магазин серійних меблів. Також виконуємо індивідуальні замовлення. Каталог, портфоліо, контакти."
+    />
+    <meta
+      name="keywords"
+      content="меблі, шафи, ліжка, дивани, Корал, купити меблі Україна"
+    />
+    <meta name="author" content="Корал" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://yourdomain.com/" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Корал — сучасний магазин меблів" />
+    <meta
+      property="og:description"
+      content="Серійні та індивідуальні меблі. Каталог, портфоліо, контакти."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://yourdomain.com/" />
+    <meta
+      property="og:image"
+      content="https://yourdomain.com/static/img/og-image.jpg"
+    />
+    <meta property="og:locale" content="uk_UA" />
+
+    <!-- Favicon -->
+    <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
+
+    <!-- Preload main CSS to improve performance -->
+    <link
+      rel="preload"
+      href="static/css/style.css"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+    <noscript><link rel="stylesheet" href="static/css/style.css" /></noscript>
+    <link rel="stylesheet" href="static/css/index.css" />
+
+    <!-- Schema.org JSON-LD для SEO -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Корал",
+        "description": "Сучасний магазин серійних та індивідуальних меблів",
+        "url": "https://yourdomain.com",
+        "telephone": "+380956181806",
+        "sameAs": ["https://t.me/+380956181806", "https://wa.me/+380637963936"],
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "UA"
+        }
+      }
+    </script>
+
+    <!-- Google Analytics - замініть на ID вашого сайту -->
+    <!--
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
+    -->
+
+    <!-- Yandex Metrica - замініть на ID вашого сайту -->
+    <!--
+    <script type="text/javascript" >
+      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();
+      for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+      (window, document, "script", "https://mc.yandex.ru/metrica/tag.js", "ym");
+      ym(XXXXXXXX, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true });
+    </script>
+    -->
+    <style>
+      .skip-link {
+        position: absolute;
+        left: -999px;
+        top: auto;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+      }
+      .skip-link:focus {
+        left: 0;
+        top: 0;
+        width: auto;
+        height: auto;
+        padding: 10px;
+        background: #fff;
+        z-index: 9999;
+      }
+    </style>
+  </head>
+  <body>
+    <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+    <!-- Навігація -->
+    <header>
+      <nav class="navbar" role="navigation" aria-label="Головна навігація">
+        <div class="logo">
+          <a href="index.html" aria-label="Перейти на головну сторінку">
+            <img
+              src="static/img/Logo.png"
+              alt="Корал — логотип"
+              decoding="async"
+            />
+          </a>
+        </div>
+        <!-- бургер -->
+        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+
+        <ul class="nav-links">
+          <li>
+            <a href="index.html" class="active" aria-current="page">Головна</a>
+          </li>
+          <li><a href="catalogue.html">Каталог</a></li>
+          <li><a href="portfolio.html">Портфоліо</a></li>
+          <li><a href="contacts.html">Контакти</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Банер -->
+    <section id="home" class="hero">
+      <div class="hero-text">
+        <h1>Корал — меблі та сантехніка для сучасного дому</h1>
+        <p>
+          Готові серійні рішення та індивідуальні проекти для тих, хто цінує
+          якість
+        </p>
+        <a href="catalogue.html" class="btn-accent">Перейти в каталог</a>
+      </div>
+    </section>
+
+    <section id="categories" class="categories">
+      <h2>Категорії меблів</h2>
+      <div class="category-grid">
+        <a href="catalogue/kitchens.html" class="category-card">
+          <img
+            src="static/img/catalogue/kitchen.jpg"
+            alt="Меблі для кухні — шафи та гарнітури"
+            loading="lazy"
+          />
+          <h3>Кухні</h3>
+        </a>
+
+        <a href="catalogue/wardrobes.html" class="category-card">
+          <img
+            src="static/img/catalogue/wardrobe.jpg"
+            alt="Шафи для дому та офісу"
+            loading="lazy"
+          />
+
+          <h3>Шафи</h3>
+        </a>
+
+        <a href="catalogue/sofas.html" class="category-card">
+          <img
+            src="static/img/catalogue/sofa.jpg"
+            alt="Дивани для вітальні та офісу"
+            loading="lazy"
+          />
+
+          <h3>Дивани</h3>
+        </a>
+
+        <a href="catalogue/beds.html" class="category-card">
+          <img
+            src="static/img/catalogue/bed.jpg"
+            alt="Ліжка для спальні"
+            loading="lazy"
+          />
+
+          <h3>Ліжка</h3>
+        </a>
+      </div>
+    </section>
+
+    <!-- Про нас -->
+    <section id="about" class="about">
+      <h2>Про нас</h2>
+      <p>
+        Корал — сучасний магазин меблів та сантехніки для кухні. Ми пропонуємо
+        широкий вибір серійних моделей для дому та офісу, а також виготовляємо
+        меблі під індивідуальне замовлення, щоб кожен інтер’єр був унікальним.
+      </p>
+      <p>
+        Ми дбаємо про комфорт клієнтів: здійснюємо доставку в будь‑який куточок
+        міста та навіть області, забезпечуємо переміщення продукції в помешкання
+        клієнта. Наш спеціаліст по збірці та монтажу допоможе швидко та якісно
+        встановити меблі, щоб ви одразу могли насолоджуватися новим простором.
+      </p>
+    </section>
+
+    <!-- Кнопки месенджерів -->
+    <div class="floating-buttons">
+      <a
+        href="https://t.me/+380956181806"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn-telegram"
+        >Telegram</a
+      >
+      <a
+        href="https://wa.me/+380637963936"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn-whatsapp"
+        >WhatsApp</a
+      >
+      <a
+        href="viber://chat?number=+380956181806"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn-viber"
+        >Viber</a
+      >
+    </div>
+    <!-- Кнопка "Вгору" -->
+    <div id="scrollTopBtn" class="scroll-top" aria-label="Повернутись нагору">
+      ↑
+    </div>
+
+    <!-- Футер -->
+    <footer>
+      <p>© 2026 Корал. Всі права захищені.</p>
+    </footer>
+
+    <script src="static/js/main.js" defer></script>
+  </body>
+</html>

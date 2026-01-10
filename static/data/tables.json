@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Стіл кухонний Метелик Олекса",
+    "desc": "Висота: 75 см Ширина: 85 см Глибина: 60 см Матеріал: ДСП &nbsp;",
+    "images": ["../static/img/catalogue/13-1000x1000.webp"],
+    "price": 1476,
+    "specs": ["Виробник: Алекса"],
+    "colors": []
+  },
+  {
+    "name": "Стіл кухонний прямий Алекса",
+    "desc": "Висота: 75 см Ширина: 80 см Глибина: 60 см Матеріал: ДСП &nbsp;",
+    "images": ["../static/img/catalogue/30-1000x1000.webp"],
+    "price": 1476,
+    "specs": ["Виробник: Алекса"],
+    "colors": []
+  },
+  {
+    "name": "Стіл кухонний розкладний Сота Алекса",
+    "desc": "Висота: 75 см Ширина: 90 см Глибина: 59.5 см Матеріал: ДСП &nbsp;",
+    "images": ["../static/img/catalogue/21-1000x1000.webp"],
+    "price": 2825,
+    "specs": ["Виробник: Алекса"],
+    "colors": []
+  },
+  {
+    "name": "Стіл кухонний Таро Олекса",
+    "desc": "Висота: 75 см Ширина: 90 см Глибина: 59.5 см Матеріал: ДСП &nbsp;",
+    "images": ["../static/img/catalogue/23-1000x1000.webp"],
+    "price": 2719,
+    "specs": ["Виробник: Алекса"],
+    "colors": []
+  },
+  {
+    "name": "Табурет прямий Алекса",
+    "desc": "Висота: 42 см Ширина: 30 см Глибина: 30 см Матеріал: ДСП Край: ПВХ &nbsp;",
+    "images": ["../static/img/catalogue/1-1000x1000.webp"],
+    "price": 384,
+    "specs": ["Виробник: Алекса"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний Пі-Пі-1",
+    "desc": "Стіл письмовий Пі-Пі-1 виконаний у класичному стилі. Містить все необхідне для облаштування робочого місця як вдома так і в офісі: шухляди, тумбу для великих предметів і відкриті полиці. Виконується із ламінованого ДСП. Характеристика виробу: Габаритні розміри: ширина - 1175 мм, висота - 736 мм висота тумби - 956 мм, глибина – 550 мм. Розмір упаковки \"ПІ-ПІ-1\" 955х555х150 мм. Вага – 36 кг. Матеріал ламіноване ДСП. ​​​​​​ Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/Pi-pi-1-4-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-1-3-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-1-6-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-1-5-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-1-2-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-1-1-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-1-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-11-1000x1000.webp"
+    ],
+    "price": 2909,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний Пі-Пі-2",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 1175 мм, висота – 736 + 220 мм, глибина – 600 мм. Розмір упаковки \"ПІ-ПІ-2\" 960х605х150 мм. Вага – 40,6 кг. Матеріал ламіноване ДСП. Стільниця торцювана кромкою АБС-2мм. ​​​​​​ Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/Pi-pi-2-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-2-3-1000x1000.webp",
+      "../static/img/catalogue/pi-pi-2-ch-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-2-1-1000x1000.webp",
+      "../static/img/catalogue/14326188400-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-2-7-1000x1000.webp",
+      "../static/img/catalogue/Pi-pi-2-4-1000x1000.webp"
+    ],
+    "price": 3295,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-11",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 1400 мм, висота - 736 мм, глибина – 600 мм. Розмір пакування \"СКМ-11\" 1400х615х110 мм. Вага – 56 кг. Матеріал ламіноване ДСП. Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SCM-11-4-1000x1000.webp",
+      "../static/img/catalogue/SCM-11-3-1000x1000.webp",
+      "../static/img/catalogue/SCM-11-1-1000x1000.webp",
+      "../static/img/catalogue/SCM-11-5-1000x1000.webp",
+      "../static/img/catalogue/SCM-11-2-1000x1000.webp",
+      "../static/img/catalogue/SCM-11-6-1000x1000.webp",
+      "../static/img/catalogue/ckm-11-ch-1000x1000.webp",
+      "../static/img/catalogue/SCM-11-1000x1000.webp"
+    ],
+    "price": 4667,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-12",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 820 мм, висота - 736 мм, глибина – 600 мм. Розмір пакування \"СКМ-12\" 885х727х70 мм. Вага – 27 кг. Матеріал ламіноване ДСП. Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SCM-12-5-1000x1000.webp",
+      "../static/img/catalogue/SCM-12-1000x1000.webp",
+      "../static/img/catalogue/ckm-12-ch-1000x1000.webp",
+      "../static/img/catalogue/SCM-12-3-1000x1000.webp",
+      "../static/img/catalogue/SCM-12-4-1000x1000.webp",
+      "../static/img/catalogue/SCM-12-7-1000x1000.webp",
+      "../static/img/catalogue/SCM-12-6-1000x1000.webp",
+      "../static/img/catalogue/SCM-12-1-1000x1000.webp"
+    ],
+    "price": 1773,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-2",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 1102 мм, висота – 750 + 116 мм, глибина – 600 мм. Розмір пакування \"СКМ-2\" 930х600х130 мм. Вага – 35,6 кг. Матеріал ламіноване ДСП. ​​​​​​ Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SKM-21-1000x1000.webp",
+      "../static/img/catalogue/SKM-2-1000x1000.webp",
+      "../static/img/catalogue/SKM-22-1000x1000.webp",
+      "../static/img/catalogue/SKM-26-1000x1000.webp",
+      "../static/img/catalogue/SKM-24-1000x1000.webp",
+      "../static/img/catalogue/skm-2-ch-1000x1000.webp",
+      "../static/img/catalogue/SKM-25-1000x1000.webp",
+      "../static/img/catalogue/SKM-23-1000x1000.webp"
+    ],
+    "price": 2584,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-3",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 1418 мм. висота – 751 + 116 мм, глибина – 600 мм. Розмір пакування \"СКМ-3\" 1205х605х100 мм. Вага – 36,1 кг. Матеріал ламіноване ДСП. Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SKM-34-1000x1000.webp",
+      "../static/img/catalogue/SKM-31-1000x1000.webp",
+      "../static/img/catalogue/SKM-3-1000x1000.webp",
+      "../static/img/catalogue/SKM-36-1000x1000.webp",
+      "../static/img/catalogue/ckm-3-ch-1000x1000.webp",
+      "../static/img/catalogue/SKM-33-1000x1000.webp",
+      "../static/img/catalogue/SKM-35-1000x1000.webp",
+      "../static/img/catalogue/SKM-32-1000x1000.webp"
+    ],
+    "price": 2697,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-6",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 1000 мм, висота – 756 + 686 мм, глибина – 598 мм. Розмір пакування \"СКМ-6\" 1020х640х125 мм. Вага – 41,8 кг. Матеріал ламіноване ДСП. Проріз під монітор 584 х 478 мм Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SKM-6-1000x1000.webp",
+      "../static/img/catalogue/SKM-66-1000x1000.webp",
+      "../static/img/catalogue/ckm-6-ch-1000x1000.webp",
+      "../static/img/catalogue/SKM-65-1000x1000.webp",
+      "../static/img/catalogue/SKM-63-1000x1000.webp",
+      "../static/img/catalogue/SKM-64-1000x1000.webp",
+      "../static/img/catalogue/SKM-62-1000x1000.webp",
+      "../static/img/catalogue/SKM-61-1000x1000.webp"
+    ],
+    "price": 3199,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-7",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 1000 мм, висота - 766 мм, глибина – 550 мм. Розмір пакування \"СКМ-7\" 1010х555х120 мм. Вага – 35 кг. Матеріал ламіноване ДСП. Фасади торцьовані кромкою АБС-2мм Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SKM-71-1000x1000.webp",
+      "../static/img/catalogue/SKM-7-1000x1000.webp",
+      "../static/img/catalogue/ckm-7-ch-1000x1000.webp",
+      "../static/img/catalogue/SKM-72-1000x1000.webp",
+      "../static/img/catalogue/SKM-76-1000x1000.webp",
+      "../static/img/catalogue/SKM-74-1000x1000.webp",
+      "../static/img/catalogue/SKM-75-1000x1000.webp",
+      "../static/img/catalogue/SKM-73-1000x1000.webp"
+    ],
+    "price": 3848,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-9",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина-1200 мм, висота-736 мм, глибина-600 мм. Матеріал ламіноване ДСП. Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SKM-9-1000x1000.webp",
+      "../static/img/catalogue/SCM-3-1000x1000.webp",
+      "../static/img/catalogue/SKM-9-5-1000x1000.webp",
+      "../static/img/catalogue/SKM-9-4-1000x1000.webp",
+      "../static/img/catalogue/SKM-9-1-1000x1000.webp",
+      "../static/img/catalogue/skm-9-ch-1000x1000.webp",
+      "../static/img/catalogue/SKM-9-3-1000x1000.webp",
+      "../static/img/catalogue/SKM-9-2-1000x1000.webp"
+    ],
+    "price": 3732,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-2",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина-1200 мм, висота-736+надбудова-116 мм, глибина – 1000 мм. Матеріал ламіноване ДСП. Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SU-2-2-1000x1000.webp",
+      "../static/img/catalogue/SU-2-1-1000x1000.webp",
+      "../static/img/catalogue/SU-2-4-1000x1000.webp",
+      "../static/img/catalogue/SU-2-1000x1000.webp",
+      "../static/img/catalogue/SU-2-3-1000x1000.webp",
+      "../static/img/catalogue/new-su-2-ch-1000x1000.webp",
+      "../static/img/catalogue/SU-2-5-1000x1000.webp",
+      "../static/img/catalogue/SU-2-6-1000x1000.webp"
+    ],
+    "price": 4436,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-3",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 1600 мм, висота – 756 + 116 мм, глибина – 1100 мм. Вага – 59,2 кг. Матеріал ламіноване ДСП. Стільниця торцювана кромкою АБС-2мм Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/SU-3-3-1000x1000.webp",
+      "../static/img/catalogue/SU-3-1000x1000.webp",
+      "../static/img/catalogue/SU-3-1-1000x1000.webp",
+      "../static/img/catalogue/SU-3-4-1000x1000.webp",
+      "../static/img/catalogue/SU-3-2-1000x1000.webp",
+      "../static/img/catalogue/su-3-ch-1000x1000.webp",
+      "../static/img/catalogue/SU-3-5-1000x1000.webp",
+      "../static/img/catalogue/SU-3-6-1000x1000.webp"
+    ],
+    "price": 5458,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл кухонний КС-3",
+    "desc": "Стіл кухонний КС-3, Алекса Висота: 750 мм Ширина: 800 мм Глибина: 600 мм Матеріал: ДСП Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": ["../static/img/catalogue/14-1000x1000.webp"],
+    "price": 1632,
+    "specs": ["Виробник: Алекса"],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Вчитель-3",
+    "desc": "Характеристика виробу: Габаритні розміри: ширина – 1400 мм, висота - 736 мм, глибина – 600 мм. Розмір упаковки \"Учитель-3\" 1405х610х105 мм. Вага – 59 кг. Матеріал ламіноване ДСП. ​​​​​​ Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/uchitel-36-1000x1000.webp",
+      "../static/img/catalogue/uchitel-34-1000x1000.webp",
+      "../static/img/catalogue/uchitel-31-1000x1000.webp",
+      "../static/img/catalogue/uchitel-3-ch-1000x1000.webp",
+      "../static/img/catalogue/uchitel-33-1000x1000.webp",
+      "../static/img/catalogue/uchitel-35-1000x1000.webp",
+      "../static/img/catalogue/uchitel-3-1000x1000.webp",
+      "../static/img/catalogue/uchitel-32-1000x1000.webp"
+    ],
+    "price": 6280,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Декан",
+    "desc": "Письмовий стіл – обов'язковий предмет меблів і для дитини, і для дорослого. Дошкільнику стіл необхідний навчання азам грамоти, малювання, ліплення з пластиліну та інших занять з розвитку моторики. Школяр користується письмовим столом упродовж 11 років навчання. У ящиках столу повинні розміщуватися підручники та зошити, альбоми та приладдя для творчості. Для старшокласників і студентів, можливо, письмовий стіл поступиться місцем в комп'ютерній кімнаті. У будь-якому випадку, асортимент моделей у різних кольорах ламінованого ДСП дозволить купити письмовий стіл, який найкраще підходить для вашого інтер'єру. Характеристика виробу Габаритні розміри: Ширина: 1100 мм. Висота: 736 мм. глибина: 600 мм. Розмір пакування: Декан 1104х684х80 мм. Матеріал: ламіноване ДСП Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/6-1000x1000.webp",
+      "../static/img/catalogue/Dekan-Kompanit-1000x1000.webp",
+      "../static/img/catalogue/2-1000x1000.webp",
+      "../static/img/catalogue/3-1000x1000.webp",
+      "../static/img/catalogue/4-1000x1000.webp",
+      "../static/img/catalogue/5-1000x1000.webp",
+      "../static/img/catalogue/8-1000x1000.webp",
+      "../static/img/catalogue/7-1000x1000.webp"
+    ],
+    "price": 3190,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Декан-3",
+    "desc": "Письмовий стіл – обов'язковий предмет меблів і для дитини, і для дорослого. Дошкільнику стіл необхідний навчання азам грамоти, малювання, ліплення з пластиліну та інших занять з розвитку моторики. Школяр користується письмовим столом упродовж 11 років навчання. У ящиках столу повинні розміщуватися підручники та зошити, альбоми та приладдя для творчості. Для старшокласників і студентів, можливо, письмовий стіл поступиться місцем в комп'ютерній кімнаті. У будь-якому випадку, асортимент моделей у різних кольорах ламінованого ДСП дозволить купити письмовий стіл, який найкраще підходить для вашого інтер'єру. Характеристика виробу Габаритні розміри: Ширина: 1400 мм. Висота: 736 мм. глибина: 600 мм. Розмір пакування: Декан-3 1404х724х80 мм. Матеріал: ламіноване ДСП Компанія&nbsp; \"Amebel \" &nbsp;д одатково надаємо послуги з доставки та збирання меблів у Дніпрі. &nbsp;",
+    "images": [
+      "../static/img/catalogue/26-1000x1000.webp",
+      "../static/img/catalogue/Dekan-3-Kompanit-1000x1000.webp",
+      "../static/img/catalogue/19-1000x1000.webp",
+      "../static/img/catalogue/20-1000x1000.webp",
+      "../static/img/catalogue/21-1000x1000.webp",
+      "../static/img/catalogue/22-1000x1000.webp",
+      "../static/img/catalogue/23-1000x1000.webp",
+      "../static/img/catalogue/24-1000x1000.webp",
+      "../static/img/catalogue/25-1000x1000.webp"
+    ],
+    "price": 4770,
+    "specs": ["Виробник: Компаніт"],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий МО-1",
+    "desc": "Стіл письмовий МО-1 виготовлений з ламінованого ДСП. Стільниця оброблена торцевою кромкою АБС-2 мм. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/MO-16-1000x1000.webp",
+      "../static/img/catalogue/MO-1-1000x1000.webp",
+      "../static/img/catalogue/MO-1+MO-2-1000x1000.webp",
+      "../static/img/catalogue/mo-1-ch-1000x1000.webp",
+      "../static/img/catalogue/MO-12-1000x1000.webp",
+      "../static/img/catalogue/MO-13-1000x1000.webp",
+      "../static/img/catalogue/MO-15-1000x1000.webp",
+      "../static/img/catalogue/MO-11-1000x1000.webp",
+      "../static/img/catalogue/MO-14-1000x1000.webp"
+    ],
+    "price": 1415,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-1000 мм, висота-736 мм, глибина-600 мм."
+    ],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Студент",
+    "desc": "Стіл письмовий Студент виготовлений з ламінованого ДСП. Стільниця оброблена торцюваною кромкою АБС-2 мм. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/Student3-1000x1000.webp",
+      "../static/img/catalogue/Student-1000x1000.webp",
+      "../static/img/catalogue/student-ch-1000x1000.webp",
+      "../static/img/catalogue/Student5-1000x1000.webp",
+      "../static/img/catalogue/Student1-1000x1000.webp",
+      "../static/img/catalogue/Student2-1000x1000.webp",
+      "../static/img/catalogue/Student4-1000x1000.webp",
+      "../static/img/catalogue/Student6-1000x1000.webp"
+    ],
+    "price": 3519,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-1155 мм, висота-736 мм, глибина-550 мм."
+    ],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Студент-2",
+    "desc": "Стіл письмовий Студент-2 виготовлений з ламінованого ДСП. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/Student 22-1000x1000.webp",
+      "../static/img/catalogue/Student 23-1000x1000.webp",
+      "../static/img/catalogue/Student 24-1000x1000.webp",
+      "../static/img/catalogue/Student 21-1000x1000.webp",
+      "../static/img/catalogue/student-2-ch-1000x1000.webp",
+      "../static/img/catalogue/Student 26-1000x1000.webp",
+      "../static/img/catalogue/Student 2-1000x1000.webp",
+      "../static/img/catalogue/Student 25-1000x1000.webp"
+    ],
+    "price": 3933,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-1200 мм, висота-750 мм, глибина-600 мм."
+    ],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Учень",
+    "desc": "Стіл письмовий Учень виготовлений з ламінованого ДСП. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/uchenik-ch-1000x1000.webp",
+      "../static/img/catalogue/Uchenik6-1000x1000.webp",
+      "../static/img/catalogue/Uchenik2-1000x1000.webp",
+      "../static/img/catalogue/Uchenik5-1000x1000.webp",
+      "../static/img/catalogue/Uchenik4-1000x1000.webp",
+      "../static/img/catalogue/Uchenik3-1000x1000.webp",
+      "../static/img/catalogue/Uchenik-1000x1000.webp",
+      "../static/img/catalogue/Uchenik1-1000x1000.webp"
+    ],
+    "price": 2278,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-1150 мм, висота-736 мм, глибина-550 мм."
+    ],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Школяр",
+    "desc": "Стіл письмовий Школяр виготовлений з ламінованого ДСП. Стільниця оброблена торцюваною кромкою АБС-2 мм. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/Shkolnik-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik5-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik4-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik3-1000x1000.webp",
+      "../static/img/catalogue/shkolnik-ch-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik1-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik6-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik2-1000x1000.webp"
+    ],
+    "price": 2180,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-1000 мм, висота-735 мм, глибина-545 мм."
+    ],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Школяр-2",
+    "desc": "Стіл письмовий Школяр-2 виготовлений з ламінованого ДСП. Стільниця оброблена торцюваною кромкою АБС-2 мм. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/Shkolnik-22-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-26-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-23-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-21-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-24-1000x1000.webp",
+      "../static/img/catalogue/shkolnik-2-ch-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-25-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-2-1000x1000.webp"
+    ],
+    "price": 2214,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-1000 мм, висота-736 мм, глибина-545 мм."
+    ],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Школяр-3",
+    "desc": "Стіл письмовий Школяр-3 виготовлений з ламінованого ДСП. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/Shkolnik-3_nut-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-3_olha-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-3_eskiz-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-3_mahon-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-3_venge-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-3_dub-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-3_buk-1000x1000.webp",
+      "../static/img/catalogue/Shkolnik-3_apple-1000x1000.webp"
+    ],
+    "price": 2430,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-1100 мм, висота-750+298 мм, глибина-570 мм."
+    ],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Юніор",
+    "desc": "Стіл письмовий Юніор виготовлений з ламінованого ДСП. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/Junior2-1000x1000.webp",
+      "../static/img/catalogue/Junior-1000x1000.webp",
+      "../static/img/catalogue/Junior5-1000x1000.webp",
+      "../static/img/catalogue/Junior1-1000x1000.webp",
+      "../static/img/catalogue/yunior-1000x1000.webp",
+      "../static/img/catalogue/Junior3-1000x1000.webp",
+      "../static/img/catalogue/Junior6-1000x1000.webp",
+      "../static/img/catalogue/Junior4-1000x1000.webp"
+    ],
+    "price": 1109,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-640 мм, висота-750 мм, глибина-440 мм."
+    ],
+    "colors": []
+  },
+  {
+    "name": "Стіл письмовий Юніор-2",
+    "desc": "Стіл письмовий Юніор-2 виготовлений з ламінованого ДСП. Додатково надаємо послуги з доставки та збирання меблів у Дніпрі.",
+    "images": [
+      "../static/img/catalogue/25-1000x1000.webp",
+      "../static/img/catalogue/24-1000x1000.webp",
+      "../static/img/catalogue/31-1000x1000.webp",
+      "../static/img/catalogue/30-1000x1000.webp",
+      "../static/img/catalogue/29-1000x1000.webp",
+      "../static/img/catalogue/28-1000x1000.webp",
+      "../static/img/catalogue/27-1000x1000.webp",
+      "../static/img/catalogue/26-1000x1000.webp"
+    ],
+    "price": 1175,
+    "specs": [
+      "Виробник: Компаніт",
+      "Габаритні розміри: ширина-900 мм, висота-750 мм, глибина-400 мм."
+    ],
+    "colors": []
+  }
+]

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Комоди — Корал</title>
+    <link rel="icon" href="../static/img/favicon.ico" type="image/x-icon" />
+    <link
+      rel="preload"
+      href="../static/css/style.css"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+    <noscript
+      ><link rel="stylesheet" href="../static/css/style.css"
+    /></noscript>
+    <link rel="stylesheet" href="../static/css/catalogue.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+    <!-- Навігація -->
+    <header>
+      <nav class="navbar">
+        <div class="logo">
+          <a href="../index.html">
+            <img src="../static/img/Logo.png" alt="Корал" />
+          </a>
+        </div>
+        <!-- бургер -->
+        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+
+        <ul class="nav-links">
+          <li><a href="../index.html">Головна</a></li>
+          <li class="dropdown">
+            <a href="../catalogue.html" class="active">Каталог ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="../catalogue/kitchens.html">Кухні</a></li>
+              <li><a href="../catalogue/wardrobes.html">Шафи</a></li>
+              <li>
+                <a href="../catalogue/commodes.html" class="active">Комоди</a>
+              </li>
+              <li><a href="../catalogue/living.html">Вітальні</a></li>
+              <li><a href="../catalogue/shelves.html">Полки</a></li>
+              <li><a href="../catalogue/beds.html">Ліжка</a></li>
+              <li><a href="../catalogue/sofas.html">Дивани</a></li>
+              <li><a href="../catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="../catalogue/tables.html">Столи</a></li>
+              <li><a href="../catalogue/cabinets.html">Тумби</a></li>
+            </ul>
+          </li>
+          <li><a href="../portfolio.html">Портфоліо</a></li>
+          <li><a href="../contacts.html">Контакти</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section class="catalogue-header">
+        <h1>Комоди</h1>
+        <p>Оберіть комод, який підходить саме вам</p>
+      </section>
+
+      <!-- Фільтр по ціні -->
+      <section class="filter">
+        <label>Фільтр по ціні:</label>
+        <input type="number" id="minPrice" placeholder="Від" />
+        <input type="number" id="maxPrice" placeholder="До" />
+        <button onclick="filterByPrice()">Застосувати</button>
+      </section>
+
+      <!-- Контейнер для карток -->
+      <section class="product-grid" id="productGrid"></section>
+
+      <!-- Модальне вікно -->
+      <div id="productModal" class="modal" onclick="closeModal(event)">
+        <div class="modal-content" onclick="event.stopPropagation()">
+          <span class="close" onclick="closeModal()">&times;</span>
+          <div class="modal-body">
+            <img id="modalImg" alt="" />
+            <h3 id="modalName"></h3>
+            <p id="modalDesc"></p>
+            <ul id="modalSpecs"></ul>
+            <div id="modalColors"></div>
+            <button class="btn-accent" onclick="contactManager()">
+              Зв’язок з менеджером
+            </button>
+          </div>
+        </div>
+      </div>
+    </main>
+    <!-- Кнопка "Вгору" -->
+    <div id="scrollTopBtn" class="scroll-top">↑</div>
+    <footer>
+      <p>© 2026 Корал. Всі права захищені.</p>
+    </footer>
+    <script src="../static/js/main.js"></script>
+    <script src="../static/js/commodes.js"></script>
+  </body>
+</html>

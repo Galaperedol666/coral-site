@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Контакти — Корал</title>
+    <meta
+      name="description"
+      content="Контакти магазину меблів Корал. Телефон, месенджери, адреса, форма зворотного зв’язку."
+    />
+    <meta property="og:title" content="Контакти — Корал" />
+    <meta
+      property="og:description"
+      content="Зв’яжіться з нами через месенджери або форму."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://yourdomain.com/contacts.html" />
+    <meta
+      property="og:image"
+      content="https://yourdomain.com/static/img/og-image.jpg"
+    />
+
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://yourdomain.com/contacts.html" />
+
+    <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
+    <link
+      rel="preload"
+      href="static/css/style.css"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+    <noscript><link rel="stylesheet" href="static/css/style.css" /></noscript>
+    <link rel="stylesheet" href="static/css/contacts.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+    <!-- Навігація -->
+    <header>
+      <nav class="navbar" role="navigation" aria-label="Головна навігація">
+        <div class="logo">
+          <a href="index.html" aria-label="Перейти на головну сторінку">
+            <img
+              src="static/img/Logo.png"
+              alt="Корал — логотип"
+              decoding="async"
+            />
+          </a>
+        </div>
+        <!-- бургер -->
+        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+
+        <ul class="nav-links">
+          <li><a href="index.html">Головна</a></li>
+          <li><a href="catalogue.html">Каталог</a></li>
+          <li><a href="portfolio.html">Портфоліо</a></li>
+          <li>
+            <a href="contacts.html" class="active" aria-current="page"
+              >Контакти</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="contacts">
+      <h1>Контакти</h1>
+      <p>Зв’яжіться з нами будь-яким зручним способом:</p>
+
+      <div class="contact-grid">
+        <div class="contact-info">
+          <p>
+            <strong>Телефон:</strong>
+            <a href="tel:+380956181806">+38 (095) 618‑18‑06</a>
+          </p>
+          <p>
+            <strong>Email:</strong>
+            <a href="mailto:dubovikvv@ukr.net">dubovikvv@ukr.net</a>
+          </p>
+          <p><strong>Адреса:</strong> м. Дніпро, вул. Савкіна 2</p>
+        </div>
+
+        <form
+          class="contact-form"
+          action="https://formspree.io/f/mvgwnzgn"
+          method="POST"
+          aria-label="Форма зворотного зв'язку"
+        >
+          <label for="name">Ваше ім’я</label>
+          <input
+            id="name"
+            type="text"
+            name="name"
+            placeholder="Ваше ім’я"
+            required
+          />
+
+          <label for="email">Email</label>
+          <input
+            id="email"
+            type="email"
+            name="email"
+            placeholder="Email"
+            required
+          />
+
+          <label for="message">Ваше повідомлення</label>
+          <textarea
+            id="message"
+            name="message"
+            rows="5"
+            placeholder="Ваше повідомлення"
+            required
+          ></textarea>
+          <button type="submit" class="btn-accent">Надіслати</button>
+        </form>
+      </div>
+      <div class="map-container">
+        <iframe
+          title="Карта — Корал"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1843.0872390962188!2d34.9369621635856!3d48.486614811192126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe17a6d1cf3ab%3A0xb0bb511cb8861de2!2z0LLRg9C70LjRhtGPINCh0LDQstC60ZbQvdCwLCAyLCDQlNC90ZbQv9GA0L4sINCU0L3RltC_0YDQvtC_0LXRgtGA0L7QstGB0YzQutCwINC-0LHQu9Cw0YHRgtGMLCA0OTAwMA!5e0!3m2!1suk!2sua!4v1761063096796!5m2!1suk!2sua"
+          width="100%"
+          height="450"
+          style="border: 0"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
+      </div>
+    </section>
+    <!-- Кнопка "Вгору" -->
+    <div id="scrollTopBtn" class="scroll-top" aria-label="Повернутись нагору">
+      ↑
+    </div>
+
+    <footer>
+      <p>© 2026 Корал. Всі права захищені.</p>
+    </footer>
+
+    <script src="static/js/main.js" defer></script>
+  </body>
+</html>

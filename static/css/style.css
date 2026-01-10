@@ -1,0 +1,206 @@
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.skip-link:focus {
+  left: 0;
+  top: 0;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  background: #fff;
+  color: #000;
+  z-index: 9999;
+}
+
+/* ================== Логотип ================== */
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 30px;
+  display: block;
+  margin: 0; /* на всяк випадок */
+}
+
+/* ================== Змінні теми ================== */
+:root {
+  --color-bg: #111;
+  --color-text: #eee;
+  --color-accent: #e63946;
+  --color-accent-glow: #ff4d5a;
+  --font-main: "Roboto", sans-serif;
+  --font-title: "Oswald", sans-serif;
+}
+
+/* Performance: load Google Fonts with swap to avoid FOIT */
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Roboto:wght@300;400;700&display=swap");
+
+/* ================== Базові стилі ================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-main);
+  background: var(--color-bg) url("../img/textures/dark-texture.jpg") repeat;
+  color: var(--color-text);
+  line-height: 1.6;
+  background-size: cover;
+}
+
+/* Make images responsive by default */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Respect user preference for reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* ================== Навігація ================== */
+.navbar {
+  display: flex;
+  align-items: center; /* вирівнює логотип і меню по центру */
+  justify-content: space-between;
+  padding: 0.6rem 2rem; /* зменшено з 2rem → тепер не роздуває */
+  background: rgba(0, 0, 0, 0.9);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid rgba(5, 5, 5, 0.1); /* стильна лінія */
+}
+.nav-links a.active {
+  color: var(--color-accent);
+  text-shadow: 0 0 8px var(--color-accent-glow);
+  border-bottom: 2px solid var(--color-accent); /* можна додати лінію під активним пунктом */
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: var(--color-accent);
+  text-shadow: 0 0 8px var(--color-accent-glow);
+}
+
+.burger {
+  display: none;
+  font-size: 2rem;
+  color: var(--color-accent);
+  cursor: pointer;
+}
+
+/* ================== Кнопки ================== */
+.btn-accent {
+  background: var(--color-accent);
+  color: #fff;
+  font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s;
+  box-shadow: 0 0 12px var(--color-accent-glow);
+}
+.btn-accent:hover {
+  background: var(--color-accent-glow);
+  box-shadow: 0 0 20px var(--color-accent-glow);
+}
+
+/* ================== Футер ================== */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  background: #000;
+  border-top: 1px solid #222;
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+/* ================== Адаптивність навігації ================== */
+/* ================== Бургер-меню ================== */
+.burger {
+  display: none;
+  font-size: 2rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+/* мобільна адаптація */
+@media (max-width: 768px) {
+  .burger {
+    display: block;
+    color: var(--color-accent);
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    background: #000;
+    position: absolute;
+    top: 60px; /* висота навбару */
+    right: 0;
+    width: 220px;
+    padding: 1rem;
+    border-radius: 0 0 0 8px;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .nav-links a {
+    padding: 0.5rem 0;
+    color: #fff;
+  }
+}
+
+/* ================== Кнопка "Вгору" ================== */
+.scroll-top {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  background: var(--color-accent);
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 0.5rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 0 10px var(--color-accent-glow);
+  display: none;
+  transition: all 0.3s;
+  z-index: 999;
+}
+.scroll-top:hover {
+  background: var(--color-accent-glow);
+  transform: scale(1.1);
+}
