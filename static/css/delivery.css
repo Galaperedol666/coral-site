@@ -1,0 +1,108 @@
+/* Заголовок сторінки */
+.delivery h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--accent-color, #b22222);
+}
+
+/* Заголовки секцій */
+.delivery h2,
+.carry h2,
+.assembly h2,
+.payment h2,
+.contract h2 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: var(--accent-color, #b22222);
+  text-transform: uppercase;
+}
+
+/* Контент */
+.delivery p,
+.carry p,
+.assembly p,
+.payment p,
+.contract p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  color: #000000;
+}
+
+/* Списки */
+.delivery ul,
+.carry ul,
+.assembly ul,
+.payment ul,
+.contract ul {
+  list-style: disc inside;
+  margin-bottom: 1.5rem;
+}
+
+.delivery li,
+.carry li,
+.assembly li,
+.payment li,
+.contract li {
+  margin-bottom: 0.5rem;
+  color: #000000;
+}
+
+/* Секції */
+section.delivery,
+section.carry,
+section.assembly,
+section.payment,
+section.contract {
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 900px;
+  background: #f5f1f1;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(237, 9, 9, 0.4);
+}
+/* ================== Плаваючі кнопки ================== */
+.floating-buttons {
+  position: fixed;
+  right: 20px;
+  bottom: 60px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.floating-buttons a {
+  background: var(--color-accent);
+  color: #fff;
+  padding: 0.6rem 1rem;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: bold;
+  box-shadow: 0 0 10px var(--color-accent-glow);
+  transition: all 0.3s;
+}
+
+.floating-buttons a:hover {
+  background: var(--color-accent-glow);
+  transform: scale(1.05);
+}
+@media (max-width: 768px) {
+  section.delivery,
+  section.carry,
+  section.assembly,
+  section.payment,
+  section.contract {
+    padding: 1rem;
+    margin: 1rem;
+  }
+
+  .delivery h1,
+  .delivery h2,
+  .carry h2,
+  .assembly h2,
+  .payment h2,
+  .contract h2 {
+    font-size: 1.2rem;
+  }
+}

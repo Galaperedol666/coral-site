@@ -22,11 +22,13 @@
 .logo {
   display: flex;
   align-items: center;
+  gap: 12px;
 }
 .logo img {
-  height: 30px;
+  height: 32px;
   display: block;
-  margin: 0;
+  position: relative;
+  top: -7px; /* піднімає картинку на кілька пікселів */
 }
 
 /* ================== Змінні теми ================== */
@@ -281,4 +283,52 @@ footer {
 }
 .modal .next {
   right: 8px;
+}
+/* ================== Години роботи ================== */
+#work-schedule {
+  cursor: pointer;
+  text-align: center;
+  margin: 0 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  transition: max-height 0.4s ease, opacity 0.4s ease;
+  max-height: 200px; /* розгорнутий стан */
+  opacity: 1;
+}
+
+#work-schedule.collapsed {
+  max-height: 24px; /* висота рядка з 🕒 */
+  opacity: 0.7;
+}
+
+#work-schedule.collapsed .base-text,
+#work-schedule.collapsed .status-text {
+  display: none;
+}
+
+#work-schedule .toggle-icon {
+  margin-right: 6px;
+}
+
+#work-schedule .base-text {
+  color: #fff !important;
+}
+
+#work-schedule .status-text.open {
+  color: #4caf50;
+}
+#work-schedule .status-text.closed {
+  color: #f44336;
+}
+
+/* Мобільна адаптація */
+@media (max-width: 768px) {
+  /* Текст ховається тільки якщо є collapsed */
+  #work-schedule.collapsed .base-text,
+  #work-schedule.collapsed .status-text {
+    display: none;
+  }
+  #work-schedule .toggle-icon {
+    display: inline;
+  }
 }

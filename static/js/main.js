@@ -184,3 +184,84 @@ window.sortByPrice = function () {
   gtag("js", new Date());
   gtag("config", "G-9BVTJ058PS");
 })();
+// Графік роботи
+document.addEventListener("DOMContentLoaded", () => {
+  const scheduleEl = document.getElementById("work-schedule");
+  if (!scheduleEl) return;
+
+  const baseTextEl = scheduleEl.querySelector(".base-text");
+  const statusTextEl = scheduleEl.querySelector(".status-text");
+  const toggleIcon = scheduleEl.querySelector(".toggle-icon");
+
+  const workDays = [1, 2, 3, 4, 5, 6]; // Пн–Сб
+  const openHour = 9;
+  const closeHour = 18;
+
+  async function getInternetTime() {
+    try {
+      const res = await fetch(
+        "https://worldtimeapi.org/api/timezone/Europe/Kyiv"
+      );
+      const data = await res.json();
+      return new Date(data.datetime);
+    } catch {
+      return new Date(); // fallback
+    }
+  }
+
+  async function updateSchedule() {
+    const now = await getInternetTime();
+    const day = now.getDay(); // 0 = Нд
+    const hour = now.getHours();
+    const minutes = now.getMinutes();
+
+    baseTextEl.textContent = `Пн–Сб: ${openHour}:00–${closeHour}:00 | Нд: вихідний`;
+
+    let diff, h, m;
+
+    if (workDays.includes(day) && hour >= openHour && hour < closeHour) {
+      // Відкрито
+      diff = closeHour * 60 - (hour * 60 + minutes);
+      h = Math.floor(diff / 60);
+      m = diff % 60;
+      statusTextEl.textContent = `Відкрито ✅ (ще ${h} год ${m} хв)`;
+      statusTextEl.className = "status-text open";
+    } else if (workDays.includes(day) && hour < openHour) {
+      // Ще не відкрито
+      diff = openHour * 60 - (hour * 60 + minutes);
+      h = Math.floor(diff / 60);
+      m = diff % 60;
+      statusTextEl.textContent = `Відкриється через ${h} год ${m} хв ⏳`;
+      statusTextEl.className = "status-text closed";
+    } else {
+      // Закрито
+      if (workDays.includes(day)) {
+        diff = (24 - hour) * 60 - minutes + openHour * 60;
+      } else {
+        // неділя → понеділок 9:00
+        diff = (24 - hour) * 60 - minutes + 24 * 60 + openHour * 60;
+      }
+      h = Math.floor(diff / 60);
+      m = diff % 60;
+      statusTextEl.textContent = `Зачинено ❌ (відкриється через ${h} год ${m} хв)`;
+      statusTextEl.className = "status-text closed";
+    }
+  }
+
+  // Оновлення щохвилини
+  updateSchedule();
+  setInterval(updateSchedule, 60000);
+
+  // Автоматичне згортання при вузькому екрані
+  function checkMobile() {
+    scheduleEl.classList.toggle("collapsed", window.innerWidth < 768);
+  }
+
+  checkMobile();
+  window.addEventListener("resize", checkMobile);
+
+  // Клік по 🕒
+  toggleIcon.addEventListener("click", () => {
+    scheduleEl.classList.toggle("collapsed");
+  });
+});
