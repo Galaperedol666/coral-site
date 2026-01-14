@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Контакти — Корал</title>
+    <title>Контакти — Корал | Меблі на замовлення</title>
     <meta
       name="description"
       content="Контакти магазину меблів Корал. Телефон, месенджери, адреса, форма зворотного зв’язку."
@@ -15,14 +15,14 @@
       content="Зв’яжіться з нами через месенджери або форму."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://yourdomain.com/contacts.html" />
+    <meta property="og:url" content="https://mebel-koral.dp.ua/contacts.html" />
     <meta
       property="og:image"
-      content="https://yourdomain.com/static/img/og-image.jpg"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
     />
 
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://yourdomain.com/contacts.html" />
+    <link rel="canonical" href="https://mebel-koral.dp.ua/contacts.html" />
 
     <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
     <link
@@ -36,6 +36,7 @@
   </head>
   <body>
     <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+
     <!-- Навігація -->
     <header>
       <nav class="navbar" role="navigation" aria-label="Головна навігація">
@@ -49,11 +50,36 @@
           </a>
         </div>
         <!-- бургер -->
-        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+        <button
+          class="burger"
+          aria-expanded="false"
+          aria-label="Меню"
+          aria-controls="nav-links"
+          aria-haspopup="true"
+          type="button"
+        >
+          ☰
+        </button>
 
-        <ul class="nav-links">
+        <ul class="nav-links" id="nav-links">
           <li><a href="index.html">Головна</a></li>
-          <li><a href="catalogue.html">Каталог</a></li>
+          <li class="dropdown">
+            <a href="catalogue.html">Каталог ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="catalogue/kitchens.html">Кухні</a></li>
+              <li><a href="catalogue/wardrobes.html">Шафи</a></li>
+              <li><a href="catalogue/commodes.html">Комоди</a></li>
+              <li><a href="catalogue/living.html">Вітальні</a></li>
+              <li><a href="catalogue/shelves.html">Полки</a></li>
+              <li><a href="catalogue/beds.html">Ліжка</a></li>
+              <li><a href="catalogue/sofas.html">Дивани</a></li>
+              <li><a href="catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="catalogue/tables.html">Столи</a></li>
+              <li><a href="catalogue/cabinets.html">Тумби</a></li>
+              <li><a href="catalogue/chairs.html">Стільці та крісла</a></li>
+              <li><a href="catalogue/hallway.html">Передпокої</a></li>
+            </ul>
+          </li>
           <li><a href="portfolio.html">Портфоліо</a></li>
           <li>
             <a href="contacts.html" class="active" aria-current="page"
@@ -64,75 +90,98 @@
       </nav>
     </header>
 
-    <section class="contacts">
-      <h1>Контакти</h1>
-      <p>Зв’яжіться з нами будь-яким зручним способом:</p>
+    <!-- Контент -->
+    <main id="maincontent">
+      <section class="contacts">
+        <h1>Контакти</h1>
+        <p>Зв’яжіться з нами будь-яким зручним способом:</p>
 
-      <div class="contact-grid">
-        <div class="contact-info">
-          <p>
-            <strong>Телефон:</strong>
-            <a href="tel:+380956181806">+38 (095) 618‑18‑06</a>
-          </p>
-          <p>
-            <strong>Email:</strong>
-            <a href="mailto:dubovikvv@ukr.net">dubovikvv@ukr.net</a>
-          </p>
-          <p><strong>Адреса:</strong> м. Дніпро, вул. Савкіна 2</p>
+        <div class="contact-grid">
+          <div
+            class="contact-info"
+            style="display: grid; grid-template-columns: 100px auto"
+          >
+            <div><strong>Телефон:</strong></div>
+            <div>
+              <div>
+                <a href="tel:+380956181806">+380956181806</a> - Магазин Корал
+              </div>
+
+              <div>
+                <a href="tel:+380637963936">+380637963936</a> - керівник Валерій
+                Петрович
+              </div>
+              <div><a href="tel:+380990510490">+380990510490</a></div>
+            </div>
+
+            <div><strong>Email:</strong></div>
+            <div><a href="mailto:dubovikvv@ukr.net">dubovikvv@ukr.net</a></div>
+
+            <div><strong>Адреса:</strong></div>
+            <div>м. Дніпро, вул. Савкіна 2</div>
+          </div>
+
+          <form
+            class="contact-form"
+            action="https://formspree.io/f/mvgwnzgn"
+            method="POST"
+            aria-label="Форма зворотного зв'язку"
+          >
+            <label for="name">Ваше ім’я</label>
+            <input
+              id="name"
+              type="text"
+              name="name"
+              placeholder="Ваше ім’я"
+              required
+            />
+
+            <label for="email">Email</label>
+            <input
+              id="email"
+              type="email"
+              name="email"
+              placeholder="Email"
+              required
+            />
+
+            <label for="message">Ваше повідомлення</label>
+            <textarea
+              id="message"
+              name="message"
+              rows="5"
+              placeholder="Ваше повідомлення"
+              required
+            ></textarea>
+
+            <button type="submit" class="btn-accent">Надіслати</button>
+          </form>
         </div>
 
-        <form
-          class="contact-form"
-          action="https://formspree.io/f/mvgwnzgn"
-          method="POST"
-          aria-label="Форма зворотного зв'язку"
-        >
-          <label for="name">Ваше ім’я</label>
-          <input
-            id="name"
-            type="text"
-            name="name"
-            placeholder="Ваше ім’я"
-            required
-          />
+        <div class="map-container">
+          <iframe
+            title="Карта — Корал"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1843.0872390962188!2d34.9369621635856!3d48.486614811192126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe17a6d1cf3ab%3A0xb0bb511cb8861de2!2z0LLRg9C70LjRhtGPINCh0LDQstC60ZbQvdCwLCAyLCDQlNC90ZbQv9GA0L4sINCU0L3RltC_0YDQvtC_0LXRgtGA0L7QstGB0YzQutCwINC-0LHQu9Cw0YHRgtGMLCA0OTAwMA!5e0!3m2!1suk!2sua!4v1761063096796!5m2!1suk!2sua"
+            width="100%"
+            height="450"
+            style="border: 0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+      </section>
+    </main>
 
-          <label for="email">Email</label>
-          <input
-            id="email"
-            type="email"
-            name="email"
-            placeholder="Email"
-            required
-          />
-
-          <label for="message">Ваше повідомлення</label>
-          <textarea
-            id="message"
-            name="message"
-            rows="5"
-            placeholder="Ваше повідомлення"
-            required
-          ></textarea>
-          <button type="submit" class="btn-accent">Надіслати</button>
-        </form>
-      </div>
-      <div class="map-container">
-        <iframe
-          title="Карта — Корал"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1843.0872390962188!2d34.9369621635856!3d48.486614811192126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dbe17a6d1cf3ab%3A0xb0bb511cb8861de2!2z0LLRg9C70LjRhtGPINCh0LDQstC60ZbQvdCwLCAyLCDQlNC90ZbQv9GA0L4sINCU0L3RltC_0YDQvtC_0LXRgtGA0L7QstGB0YzQutCwINC-0LHQu9Cw0YHRgtGMLCA0OTAwMA!5e0!3m2!1suk!2sua!4v1761063096796!5m2!1suk!2sua"
-          width="100%"
-          height="450"
-          style="border: 0"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
-        ></iframe>
-      </div>
-    </section>
     <!-- Кнопка "Вгору" -->
-    <div id="scrollTopBtn" class="scroll-top" aria-label="Повернутись нагору">
+    <button
+      id="scrollTopBtn"
+      class="scroll-top"
+      aria-label="Повернутись нагору"
+      type="button"
+    >
       ↑
-    </div>
+    </button>
 
     <footer>
       <p>© 2026 Корал. Всі права захищені.</p>

@@ -1,3 +1,4 @@
+/* ================== Skip link ================== */
 .skip-link {
   position: absolute;
   left: -999px;
@@ -22,11 +23,10 @@
   display: flex;
   align-items: center;
 }
-
 .logo img {
   height: 30px;
   display: block;
-  margin: 0; /* на всяк випадок */
+  margin: 0;
 }
 
 /* ================== Змінні теми ================== */
@@ -38,8 +38,6 @@
   --font-main: "Roboto", sans-serif;
   --font-title: "Oswald", sans-serif;
 }
-
-/* Performance: load Google Fonts with swap to avoid FOIT */
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=Roboto:wght@300;400;700&display=swap");
 
 /* ================== Базові стилі ================== */
@@ -48,7 +46,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: var(--font-main);
   background: var(--color-bg) url("../img/textures/dark-texture.jpg") repeat;
@@ -56,15 +53,11 @@ body {
   line-height: 1.6;
   background-size: cover;
 }
-
-/* Make images responsive by default */
 img {
   max-width: 100%;
   height: auto;
   display: block;
 }
-
-/* Respect user preference for reduced motion */
 @media (prefers-reduced-motion: reduce) {
   * {
     animation: none !important;
@@ -75,47 +68,74 @@ img {
 /* ================== Навігація ================== */
 .navbar {
   display: flex;
-  align-items: center; /* вирівнює логотип і меню по центру */
+  align-items: center;
   justify-content: space-between;
-  padding: 0.6rem 2rem; /* зменшено з 2rem → тепер не роздуває */
+  padding: 0.6rem 2rem;
   background: rgba(0, 0, 0, 0.9);
   position: sticky;
   top: 0;
   z-index: 1000;
-  border-bottom: 1px solid rgba(5, 5, 5, 0.1); /* стильна лінія */
+  border-bottom: 1px solid rgba(5, 5, 5, 0.1);
 }
-.nav-links a.active {
-  color: var(--color-accent);
-  text-shadow: 0 0 8px var(--color-accent-glow);
-  border-bottom: 2px solid var(--color-accent); /* можна додати лінію під активним пунктом */
-}
-
 .nav-links {
   display: flex;
   align-items: center;
   gap: 2rem;
   list-style: none;
-  margin: 0;
-  padding: 0;
 }
-
 .nav-links a {
   color: var(--color-text);
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s;
 }
-
 .nav-links a:hover {
   color: var(--color-accent);
   text-shadow: 0 0 8px var(--color-accent-glow);
 }
-
-.burger {
-  display: none;
-  font-size: 2rem;
+/* Активний пункт */
+.nav-links a.active {
   color: var(--color-accent);
-  cursor: pointer;
+  text-shadow: 0 0 8px var(--color-accent-glow);
+  border-bottom: 2px solid var(--color-accent);
+}
+/* Активна підкатегорія */
+.dropdown-menu a.active {
+  color: var(--color-accent);
+  font-weight: bold;
+  background: rgba(230, 57, 70, 0.1);
+  border-left: 3px solid var(--color-accent);
+}
+
+/* Dropdown */
+.dropdown {
+  position: relative;
+}
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: rgba(0, 0, 0, 0.95);
+  padding: 0.6rem 0.8rem;
+  list-style: none;
+  border-radius: 6px;
+  min-width: 200px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.6);
+  z-index: 1100;
+}
+.dropdown-menu a {
+  display: block;
+  padding: 0.4rem 0.8rem;
+  color: var(--color-text);
+  white-space: nowrap;
+}
+.dropdown-menu a:hover {
+  color: var(--color-accent);
+}
+.dropdown:hover > .dropdown-menu,
+.dropdown.open > .dropdown-menu {
+  display: block;
 }
 
 /* ================== Кнопки ================== */
@@ -145,41 +165,57 @@ footer {
   color: #aaa;
 }
 
-/* ================== Адаптивність навігації ================== */
 /* ================== Бургер-меню ================== */
 .burger {
   display: none;
   font-size: 2rem;
   cursor: pointer;
   user-select: none;
+  color: var(--color-accent);
 }
-
-/* мобільна адаптація */
+.burger,
+.scroll-top {
+  background: transparent;
+  border: none;
+  padding: 0;
+  appearance: none;
+}
 @media (max-width: 768px) {
   .burger {
     display: block;
-    color: var(--color-accent);
   }
-
   .nav-links {
     display: none;
     flex-direction: column;
     background: #000;
     position: absolute;
-    top: 60px; /* висота навбару */
+    top: 60px;
     right: 0;
     width: 220px;
     padding: 1rem;
     border-radius: 0 0 0 8px;
   }
-
   .nav-links.active {
     display: flex;
   }
-
   .nav-links a {
     padding: 0.5rem 0;
     color: #fff;
+  }
+  .dropdown-menu {
+    position: static;
+    background: transparent;
+    box-shadow: none;
+    padding-left: 0.5rem;
+  }
+  .dropdown-menu a {
+    padding-left: 1rem;
+  }
+  .dropdown:hover > .dropdown-menu {
+    display: none;
+  }
+  .dropdown.open > .dropdown-menu {
+    display: block;
   }
 }
 
@@ -203,4 +239,46 @@ footer {
 .scroll-top:hover {
   background: var(--color-accent-glow);
   transform: scale(1.1);
+}
+
+/* ================== Модалки ================== */
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.75);
+  z-index: 2000;
+  padding: 1rem;
+}
+.modal[aria-hidden="false"] {
+  display: flex;
+}
+.modal .slider {
+  position: relative;
+  max-width: 1000px;
+  width: 100%;
+}
+.modal .slider img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.modal .prev,
+.modal .next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: none;
+  padding: 0.6rem 0.8rem;
+  cursor: pointer;
+}
+.modal .prev {
+  left: 8px;
+}
+.modal .next {
+  right: 8px;
 }

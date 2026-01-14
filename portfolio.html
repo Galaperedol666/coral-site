@@ -11,11 +11,14 @@
     />
 
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://yourdomain.com/portfolio.html" />
-    <meta property="og:url" content="https://yourdomain.com/portfolio.html" />
+    <link rel="canonical" href="https://mebel-koral.dp.ua/portfolio.html" />
+    <meta
+      property="og:url"
+      content="https://mebel-koral.dp.ua/portfolio.html"
+    />
     <meta
       property="og:image"
-      content="https://yourdomain.com/static/img/og-image.jpg"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
     />
 
     <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
@@ -30,6 +33,7 @@
   </head>
   <body>
     <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+
     <!-- Навігація -->
     <header>
       <nav class="navbar" role="navigation" aria-label="Головна навігація">
@@ -43,19 +47,48 @@
           </a>
         </div>
         <!-- бургер -->
-        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+        <button
+          class="burger"
+          aria-expanded="false"
+          aria-label="Меню"
+          aria-controls="nav-links"
+          aria-haspopup="true"
+          type="button"
+        >
+          ☰
+        </button>
 
-        <ul class="nav-links">
+        <ul class="nav-links" id="nav-links">
           <li><a href="index.html">Головна</a></li>
-          <li><a href="catalogue.html">Каталог</a></li>
-          <li><a href="portfolio.html" class="active">Портфоліо</a></li>
+          <li class="dropdown">
+            <a href="catalogue.html">Каталог ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="catalogue/kitchens.html">Кухні</a></li>
+              <li><a href="catalogue/wardrobes.html">Шафи</a></li>
+              <li><a href="catalogue/commodes.html">Комоди</a></li>
+              <li><a href="catalogue/living.html">Вітальні</a></li>
+              <li><a href="catalogue/shelves.html">Полки</a></li>
+              <li><a href="catalogue/beds.html">Ліжка</a></li>
+              <li><a href="catalogue/sofas.html">Дивани</a></li>
+              <li><a href="catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="catalogue/tables.html">Столи</a></li>
+              <li><a href="catalogue/cabinets.html">Тумби</a></li>
+              <li><a href="catalogue/chairs.html">Стільці та крісла</a></li>
+              <li><a href="catalogue/hallway.html">Передпокої</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="portfolio.html" class="active" aria-current="page"
+              >Портфоліо</a
+            >
+          </li>
           <li><a href="contacts.html">Контакти</a></li>
         </ul>
       </nav>
     </header>
 
     <!-- Контент -->
-    <main>
+    <main id="maincontent">
       <section class="portfolio-preview">
         <h2>Приклади робіт</h2>
         <div class="portfolio-grid">
@@ -66,7 +99,6 @@
               loading="lazy"
               decoding="async"
             />
-
             <div class="work-info">
               <h3>Кухні</h3>
               <p>Сучасні рішення для кухонь.</p>
@@ -86,7 +118,6 @@
               loading="lazy"
               decoding="async"
             />
-
             <div class="work-info">
               <h3>Шафи</h3>
               <p>Функціональні та стильні рішення.</p>
@@ -106,7 +137,6 @@
               loading="lazy"
               decoding="async"
             />
-
             <div class="work-info">
               <h3>Дитячі меблі</h3>
               <p>Меблі для молодших навчальних закладів.</p>
@@ -126,7 +156,6 @@
               loading="lazy"
               decoding="async"
             />
-
             <div class="work-info">
               <h3>Інтер'єр</h3>
               <p>Меблі в приміщеннях.</p>
@@ -141,14 +170,22 @@
         </div>
       </section>
     </main>
+
     <!-- Кнопка "Вгору" -->
-    <div id="scrollTopBtn" class="scroll-top" aria-label="Повернутись нагору">
+    <button
+      id="scrollTopBtn"
+      class="scroll-top"
+      aria-label="Повернутись нагору"
+      type="button"
+    >
       ↑
-    </div>
+    </button>
+
     <!-- Footer -->
     <footer>
       <p>© 2026 Корал. Всі права захищені.</p>
     </footer>
+
     <script src="static/js/main.js" defer></script>
   </body>
 </html>

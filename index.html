@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <!-- SEO -->
     <title>Корал — сучасний магазин меблів</title>
     <meta
@@ -16,7 +17,7 @@
     />
     <meta name="author" content="Корал" />
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://yourdomain.com/" />
+    <link rel="canonical" href="https://mebel-koral.dp.ua/" />
 
     <!-- Open Graph -->
     <meta property="og:title" content="Корал — сучасний магазин меблів" />
@@ -25,17 +26,30 @@
       content="Серійні та індивідуальні меблі. Каталог, портфоліо, контакти."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://yourdomain.com/" />
+    <meta property="og:url" content="https://mebel-koral.dp.ua/" />
     <meta
       property="og:image"
-      content="https://yourdomain.com/static/img/og-image.jpg"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
     />
     <meta property="og:locale" content="uk_UA" />
+    <meta property="og:site_name" content="Корал" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Корал — сучасний магазин меблів" />
+    <meta
+      name="twitter:description"
+      content="Кухні, шафи, дивани, ліжка під замовлення. Доставка по Україні."
+    />
+    <meta
+      name="twitter:image"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
+    />
 
     <!-- Favicon -->
     <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
 
-    <!-- Preload main CSS to improve performance -->
+    <!-- CSS -->
     <link
       rel="preload"
       href="static/css/style.css"
@@ -45,67 +59,31 @@
     <noscript><link rel="stylesheet" href="static/css/style.css" /></noscript>
     <link rel="stylesheet" href="static/css/index.css" />
 
-    <!-- Schema.org JSON-LD для SEO -->
+    <!-- Schema.org JSON-LD -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "Корал",
         "description": "Сучасний магазин серійних та індивідуальних меблів",
-        "url": "https://yourdomain.com",
+        "url": "https://mebel-koral.dp.ua",
         "telephone": "+380956181806",
         "sameAs": ["https://t.me/+380956181806", "https://wa.me/+380637963936"],
+        "logo": "https://mebel-koral.dp.ua/static/img/Logo.png",
         "address": {
           "@type": "PostalAddress",
+          "addressLocality": "Дніпро",
+          "addressRegion": "Дніпропетровська область",
           "addressCountry": "UA"
-        }
+        },
+        "openingHours": "Mo-Sa 09:00-18:00"
       }
     </script>
-
-    <!-- Google Analytics - замініть на ID вашого сайту -->
-    <!--
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-XXXXXXXXXX');
-    </script>
-    -->
-
-    <!-- Yandex Metrica - замініть на ID вашого сайту -->
-    <!--
-    <script type="text/javascript" >
-      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-      m[i].l=1*new Date();
-      for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-      (window, document, "script", "https://mc.yandex.ru/metrica/tag.js", "ym");
-      ym(XXXXXXXX, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true });
-    </script>
-    -->
-    <style>
-      .skip-link {
-        position: absolute;
-        left: -999px;
-        top: auto;
-        width: 1px;
-        height: 1px;
-        overflow: hidden;
-      }
-      .skip-link:focus {
-        left: 0;
-        top: 0;
-        width: auto;
-        height: auto;
-        padding: 10px;
-        background: #fff;
-        z-index: 9999;
-      }
-    </style>
   </head>
+
   <body>
     <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+
     <!-- Навігація -->
     <header>
       <nav class="navbar" role="navigation" aria-label="Головна навігація">
@@ -118,99 +96,121 @@
             />
           </a>
         </div>
-        <!-- бургер -->
-        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
-
-        <ul class="nav-links">
+        <button
+          class="burger"
+          aria-expanded="false"
+          aria-label="Меню"
+          aria-controls="nav-links"
+          aria-haspopup="true"
+          type="button"
+        >
+          ☰
+        </button>
+        <ul class="nav-links" id="nav-links">
           <li>
             <a href="index.html" class="active" aria-current="page">Головна</a>
           </li>
-          <li><a href="catalogue.html">Каталог</a></li>
+          <li class="dropdown">
+            <a href="catalogue.html">Каталог ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="catalogue/kitchens.html">Кухні</a></li>
+              <li><a href="catalogue/wardrobes.html">Шафи</a></li>
+              <li><a href="catalogue/commodes.html">Комоди</a></li>
+              <li><a href="catalogue/living.html">Вітальні</a></li>
+              <li><a href="catalogue/shelves.html">Полки</a></li>
+              <li><a href="catalogue/beds.html">Ліжка</a></li>
+              <li><a href="catalogue/sofas.html">Дивани</a></li>
+              <li><a href="catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="catalogue/tables.html">Столи</a></li>
+              <li><a href="catalogue/cabinets.html">Тумби</a></li>
+              <li><a href="catalogue/chairs.html">Стільці та крісла</a></li>
+              <li><a href="catalogue/hallway.html">Передпокої</a></li>
+            </ul>
+          </li>
           <li><a href="portfolio.html">Портфоліо</a></li>
           <li><a href="contacts.html">Контакти</a></li>
         </ul>
       </nav>
     </header>
 
-    <!-- Банер -->
-    <section id="home" class="hero">
-      <div class="hero-text">
-        <h1>Корал — меблі та сантехніка для сучасного дому</h1>
+    <main id="maincontent">
+      <!-- Hero -->
+      <section id="home" class="hero">
+        <div class="hero-text">
+          <h1>Корал — меблі та сантехніка для сучасного дому</h1>
+          <p>
+            Готові серійні рішення та індивідуальні проекти для тих, хто цінує
+            якість
+          </p>
+          <a href="catalogue.html" class="btn-accent">Перейти в каталог</a>
+        </div>
+      </section>
+
+      <!-- Категорії -->
+      <section id="categories" class="categories">
+        <h2>Категорії меблів</h2>
+        <div class="category-grid">
+          <a href="catalogue/kitchens.html" class="category-card">
+            <img
+              src="static/img/catalogue/kitchen.jpg"
+              alt="Меблі для кухні — шафи та гарнітури"
+              loading="lazy"
+            />
+            <h3>Кухні</h3>
+          </a>
+          <a href="catalogue/wardrobes.html" class="category-card">
+            <img
+              src="static/img/catalogue/wardrobe.jpg"
+              alt="Шафи для дому та офісу"
+              loading="lazy"
+            />
+            <h3>Шафи</h3>
+          </a>
+          <a href="catalogue/sofas.html" class="category-card">
+            <img
+              src="static/img/catalogue/sofa.jpg"
+              alt="Дивани для вітальні та офісу"
+              loading="lazy"
+            />
+            <h3>Дивани</h3>
+          </a>
+          <a href="catalogue/beds.html" class="category-card">
+            <img
+              src="static/img/catalogue/bed.jpg"
+              alt="Ліжка для спальні"
+              loading="lazy"
+            />
+            <h3>Ліжка</h3>
+          </a>
+        </div>
+      </section>
+
+      <!-- Про нас -->
+      <section id="about" class="about">
+        <h2>Про нас</h2>
         <p>
-          Готові серійні рішення та індивідуальні проекти для тих, хто цінує
-          якість
+          Корал — сучасний магазин меблів та сантехніки для кухні. Ми пропонуємо
+          широкий вибір серійних моделей для дому та офісу, а також виготовляємо
+          меблі під індивідуальне замовлення, щоб кожен інтер’єр був унікальним.
         </p>
-        <a href="catalogue.html" class="btn-accent">Перейти в каталог</a>
-      </div>
-    </section>
+        <p>
+          Ми дбаємо про комфорт клієнтів: здійснюємо доставку в будь‑який
+          куточок міста та навіть області, забезпечуємо переміщення продукції в
+          помешкання клієнта. Наш спеціаліст по збірці та монтажу допоможе
+          швидко та якісно встановити меблі, щоб ви одразу могли насолоджуватися
+          новим простором.
+        </p>
+      </section>
+    </main>
 
-    <section id="categories" class="categories">
-      <h2>Категорії меблів</h2>
-      <div class="category-grid">
-        <a href="catalogue/kitchens.html" class="category-card">
-          <img
-            src="static/img/catalogue/kitchen.jpg"
-            alt="Меблі для кухні — шафи та гарнітури"
-            loading="lazy"
-          />
-          <h3>Кухні</h3>
-        </a>
-
-        <a href="catalogue/wardrobes.html" class="category-card">
-          <img
-            src="static/img/catalogue/wardrobe.jpg"
-            alt="Шафи для дому та офісу"
-            loading="lazy"
-          />
-
-          <h3>Шафи</h3>
-        </a>
-
-        <a href="catalogue/sofas.html" class="category-card">
-          <img
-            src="static/img/catalogue/sofa.jpg"
-            alt="Дивани для вітальні та офісу"
-            loading="lazy"
-          />
-
-          <h3>Дивани</h3>
-        </a>
-
-        <a href="catalogue/beds.html" class="category-card">
-          <img
-            src="static/img/catalogue/bed.jpg"
-            alt="Ліжка для спальні"
-            loading="lazy"
-          />
-
-          <h3>Ліжка</h3>
-        </a>
-      </div>
-    </section>
-
-    <!-- Про нас -->
-    <section id="about" class="about">
-      <h2>Про нас</h2>
-      <p>
-        Корал — сучасний магазин меблів та сантехніки для кухні. Ми пропонуємо
-        широкий вибір серійних моделей для дому та офісу, а також виготовляємо
-        меблі під індивідуальне замовлення, щоб кожен інтер’єр був унікальним.
-      </p>
-      <p>
-        Ми дбаємо про комфорт клієнтів: здійснюємо доставку в будь‑який куточок
-        міста та навіть області, забезпечуємо переміщення продукції в помешкання
-        клієнта. Наш спеціаліст по збірці та монтажу допоможе швидко та якісно
-        встановити меблі, щоб ви одразу могли насолоджуватися новим простором.
-      </p>
-    </section>
-
-    <!-- Кнопки месенджерів -->
+    <!-- Месенджери -->
     <div class="floating-buttons">
       <a
         href="https://t.me/+380956181806"
         target="_blank"
         rel="noopener noreferrer"
         class="btn-telegram"
+        aria-label="Відкрити Telegram"
         >Telegram</a
       >
       <a
@@ -218,6 +218,7 @@
         target="_blank"
         rel="noopener noreferrer"
         class="btn-whatsapp"
+        aria-label="Відкрити WhatsApp"
         >WhatsApp</a
       >
       <a
@@ -225,19 +226,25 @@
         target="_blank"
         rel="noopener noreferrer"
         class="btn-viber"
+        aria-label="Відкрити Viber"
         >Viber</a
       >
     </div>
+
     <!-- Кнопка "Вгору" -->
-    <div id="scrollTopBtn" class="scroll-top" aria-label="Повернутись нагору">
+    <button
+      id="scrollTopBtn"
+      class="scroll-top"
+      aria-label="Повернутись нагору"
+      type="button"
+    >
       ↑
-    </div>
+    </button>
 
     <!-- Футер -->
     <footer>
-      <p>© 2026 Корал. Всі права захищені.</p>
+      <p>© <span id="year"></span> Корал. Всі права захищені</p>
     </footer>
-
     <script src="static/js/main.js" defer></script>
   </body>
 </html>

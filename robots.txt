@@ -1,14 +1,7 @@
-# robots.txt для Coral меблі
-# Дозволити усім ботам
-
 User-agent: *
 Allow: /
-Disallow: /static/
+Disallow: /static/js/
+Disallow: /static/css/
+Disallow: /static/img/temp/
 
-# Google Search Console
-# Замініть на реальний домен
-# Sitemap: https://yourdomain.com/sitemap.xml
-
-# Для індексування зображень
-User-agent: Googlebot-Image
-Allow: /static/img/
+Sitemap: https://mebel-koral.dp.ua/sitemap.xml

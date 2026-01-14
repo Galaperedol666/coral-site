@@ -9,13 +9,12 @@
       name="description"
       content="Приклади дитячих меблів від Корал. Безпека, кольори та функціональність."
     />
-
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://yourdomain.com/kids.html" />
-    <meta property="og:url" content="https://yourdomain.com/kids.html" />
+    <link rel="canonical" href="https://mebel-koral.dp.ua/kids.html" />
+    <meta property="og:url" content="https://mebel-koral.dp.ua/kids.html" />
     <meta
       property="og:image"
-      content="https://yourdomain.com/static/img/og-image.jpg"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
     />
 
     <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
@@ -30,93 +29,139 @@
   </head>
   <body>
     <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+
     <!-- Навігація -->
     <header>
-      <nav class="navbar">
+      <nav class="navbar" role="navigation" aria-label="Головна навігація">
         <div class="logo">
-          <a href="index.html">
-            <img src="static/img/Logo.png" alt="Корал" />
+          <a href="index.html" aria-label="Перейти на головну сторінку">
+            <img
+              src="static/img/Logo.png"
+              alt="Корал — логотип"
+              decoding="async"
+            />
           </a>
         </div>
         <!-- бургер -->
-        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+        <button
+          class="burger"
+          aria-expanded="false"
+          aria-label="Меню"
+          aria-controls="nav-links"
+          aria-haspopup="true"
+          type="button"
+        >
+          ☰
+        </button>
 
-        <ul class="nav-links">
+        <ul class="nav-links" id="nav-links">
           <li><a href="index.html">Головна</a></li>
-          <li><a href="catalogue.html">Каталог</a></li>
+          <li class="dropdown">
+            <a href="catalogue.html" aria-current="page">Каталог ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="catalogue/kitchens.html">Кухні</a></li>
+              <li><a href="catalogue/wardrobes.html">Шафи</a></li>
+              <li><a href="catalogue/commodes.html">Комоди</a></li>
+              <li><a href="catalogue/living.html">Вітальні</a></li>
+              <li><a href="catalogue/shelves.html">Полки</a></li>
+              <li><a href="catalogue/beds.html">Ліжка</a></li>
+              <li><a href="catalogue/sofas.html">Дивани</a></li>
+              <li><a href="catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="catalogue/tables.html">Столи</a></li>
+              <li><a href="catalogue/cabinets.html">Тумби</a></li>
+              <li><a href="catalogue/chairs.html">Стільці та крісла</a></li>
+              <li><a href="catalogue/hallway.html">Передпокої</a></li>
+            </ul>
+          </li>
           <li><a href="portfolio.html" class="active">Портфоліо</a></li>
           <li><a href="contacts.html">Контакти</a></li>
         </ul>
       </nav>
     </header>
 
-    <section class="portfolio-preview">
-      <h2>Індивідуальні дитячі меблі</h2>
-      <div class="portfolio-grid">
-        <!-- 12 карток -->
-        <div class="work-card">
-          <img
-            src="static/img/portfolio/kids/project1-thumb.jpg"
-            alt="Кімната Tetris"
-          />
-          <div class="work-info">
-            <h3>Tetris</h3>
-            <p>Меблі для шкіл і соціальних установ</p>
-            <button class="btn-accent" data-gallery="kids1">Детальніше</button>
+    <!-- Контент -->
+    <main id="maincontent">
+      <section class="portfolio-preview">
+        <h2>Індивідуальні дитячі меблі</h2>
+        <div class="portfolio-grid">
+          <!-- Картка 1 -->
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/kids/project1-thumb.jpg"
+              alt="Кімната Tetris"
+              loading="lazy"
+              decoding="async"
+            />
+            <div class="work-info">
+              <h3>Tetris</h3>
+              <p>Меблі для шкіл і соціальних установ</p>
+              <button class="btn-accent" data-gallery="kids1">
+                Детальніше
+              </button>
+            </div>
           </div>
-        </div>
 
-        <!-- Модалка приклад для kids1 -->
-        <div
-          class="modal"
-          id="kids1"
-          aria-hidden="true"
-          role="dialog"
-          aria-modal="true"
-        >
-          <div class="modal-content" role="document">
-            <div class="slider">
-              <div class="slides">
-                <img
-                  src="static/img/portfolio/kids/project1-1.jpg"
-                  alt="Kids project 1 view 1"
-                  loading="lazy"
-                  decoding="async"
-                />
-                <img
-                  src="static/img/portfolio/kids/project1-2.jpg"
-                  alt="Kids project 1 view 2"
-                  loading="lazy"
-                  decoding="async"
-                />
-                <img
-                  src="static/img/portfolio/kids/project1-3.jpg"
-                  alt="Kids project 1 view 3"
-                  loading="lazy"
-                  decoding="async"
-                />
-                <img
-                  src="static/img/portfolio/kids/project1-4.jpg"
-                  alt="Kids project 1 view 4"
-                  loading="lazy"
-                  decoding="async"
-                />
-                <img
-                  src="static/img/portfolio/kids/project1-5.jpg"
-                  alt="Kids project 1 view 5"
-                  loading="lazy"
-                  decoding="async"
-                />
+          <!-- Модалка для kids1 -->
+          <div
+            class="modal"
+            id="kids1"
+            aria-hidden="true"
+            role="dialog"
+            aria-modal="true"
+          >
+            <div class="modal-content" role="document">
+              <div class="slider">
+                <div class="slides">
+                  <img
+                    src="static/img/portfolio/kids/project1-1.jpg"
+                    alt="Kids project 1 view 1"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  <img
+                    src="static/img/portfolio/kids/project1-2.jpg"
+                    alt="Kids project 1 view 2"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  <img
+                    src="static/img/portfolio/kids/project1-3.jpg"
+                    alt="Kids project 1 view 3"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  <img
+                    src="static/img/portfolio/kids/project1-4.jpg"
+                    alt="Kids project 1 view 4"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  <img
+                    src="static/img/portfolio/kids/project1-5.jpg"
+                    alt="Kids project 1 view 5"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </div>
+                <button class="prev" aria-label="Попереднє">‹</button>
+                <button class="next" aria-label="Наступне">›</button>
               </div>
-              <button class="prev" aria-label="Попереднє">‹</button>
-              <button class="next" aria-label="Наступне">›</button>
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </main>
+
     <!-- Кнопка "Вгору" -->
-    <div id="scrollTopBtn" class="scroll-top">↑</div>
+    <button
+      id="scrollTopBtn"
+      class="scroll-top"
+      aria-label="Повернутись нагору"
+      type="button"
+    >
+      ↑
+    </button>
+
     <footer>
       <p>© 2026 Корал. Всі права захищені.</p>
     </footer>

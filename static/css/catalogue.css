@@ -271,3 +271,9 @@ footer {
 .dropdown:hover .dropdown-menu {
   display: block;
 }
+/* Підсвічування Каталогу, якщо активна будь-яка підкатегорія */
+.nav-links .dropdown:has(.dropdown-menu a.active) > a {
+  color: var(--color-accent);
+  text-shadow: 0 0 8px var(--color-accent-glow);
+  border-bottom: 2px solid var(--color-accent);
+}

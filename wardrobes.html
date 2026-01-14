@@ -11,11 +11,14 @@
     />
 
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://yourdomain.com/wardrobes.html" />
-    <meta property="og:url" content="https://yourdomain.com/wardrobes.html" />
+    <link rel="canonical" href="https://mebel-koral.dp.ua/wardrobes.html" />
+    <meta
+      property="og:url"
+      content="https://mebel-koral.dp.ua/wardrobes.html"
+    />
     <meta
       property="og:image"
-      content="https://yourdomain.com/static/img/og-image.jpg"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
     />
 
     <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
@@ -30,111 +33,144 @@
   </head>
   <body>
     <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+
     <!-- Навігація -->
     <header>
-      <nav class="navbar">
+      <nav class="navbar" role="navigation" aria-label="Головна навігація">
         <div class="logo">
-          <a href="index.html">
-            <img src="static/img/Logo.png" alt="Корал" />
+          <a href="index.html" aria-label="Перейти на головну сторінку">
+            <img
+              src="static/img/Logo.png"
+              alt="Корал — логотип"
+              decoding="async"
+            />
           </a>
         </div>
         <!-- бургер -->
-        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+        <button
+          class="burger"
+          aria-expanded="false"
+          aria-label="Меню"
+          aria-controls="nav-links"
+          aria-haspopup="true"
+          type="button"
+        >
+          ☰
+        </button>
 
-        <ul class="nav-links">
+        <ul class="nav-links" id="nav-links">
           <li><a href="index.html">Головна</a></li>
-          <li><a href="catalogue.html">Каталог</a></li>
+          <li class="dropdown">
+            <a href="catalogue.html">Каталог ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="catalogue/kitchens.html">Кухні</a></li>
+              <li>
+                <a href="catalogue/wardrobes.html" aria-current="page">Шафи</a>
+              </li>
+              <li><a href="catalogue/commodes.html">Комоди</a></li>
+              <li><a href="catalogue/living.html">Вітальні</a></li>
+              <li><a href="catalogue/shelves.html">Полки</a></li>
+              <li><a href="catalogue/beds.html">Ліжка</a></li>
+              <li><a href="catalogue/sofas.html">Дивани</a></li>
+              <li><a href="catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="catalogue/tables.html">Столи</a></li>
+              <li><a href="catalogue/cabinets.html">Тумби</a></li>
+              <li><a href="catalogue/chairs.html">Стільці</a></li>
+              <li><a href="catalogue/hallway.html">Передпокої</a></li>
+            </ul>
+          </li>
           <li><a href="portfolio.html" class="active">Портфоліо</a></li>
           <li><a href="contacts.html">Контакти</a></li>
         </ul>
       </nav>
     </header>
 
-    <section class="portfolio-preview">
-      <h2>Індивідуальні шафи на замовлення</h2>
-      <div class="portfolio-grid">
-        <!-- 12 карток -->
-        <div class="work-card">
-          <img
-            src="static/img/portfolio/wardrobes/project1-thumb.jpg"
-            alt="Шафа Loft"
-          />
-          <div class="work-info">
-            <h3>1</h3>
-            <button class="btn-accent" data-gallery="wardrobe1">
-              Детальніше
-            </button>
+    <!-- Контент -->
+    <main id="maincontent">
+      <section class="portfolio-preview">
+        <h2>Індивідуальні шафи на замовлення</h2>
+        <div class="portfolio-grid">
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/wardrobes/project1-thumb.jpg"
+              alt="Шафа Loft"
+            />
+            <div class="work-info">
+              <h3>1</h3>
+              <button class="btn-accent" data-gallery="wardrobe1">
+                Детальніше
+              </button>
+            </div>
+          </div>
+
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/wardrobes/project2-thumb.jpg"
+              alt="Шафа Modern"
+            />
+            <div class="work-info">
+              <h3>2</h3>
+              <button class="btn-accent" data-gallery="wardrobe2">
+                Детальніше
+              </button>
+            </div>
+          </div>
+
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/wardrobes/project3-thumb.jpg"
+              alt="Шафа Classic"
+            />
+            <div class="work-info">
+              <h3>3</h3>
+              <button class="btn-accent" data-gallery="wardrobe3">
+                Детальніше
+              </button>
+            </div>
+          </div>
+
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/wardrobes/project4-thumb.jpg"
+              alt="Шафа Sliding"
+            />
+            <div class="work-info">
+              <h3>4</h3>
+              <button class="btn-accent" data-gallery="wardrobe4">
+                Детальніше
+              </button>
+            </div>
+          </div>
+
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/wardrobes/project5-thumb.jpg"
+              alt="Шафа Mirror"
+            />
+            <div class="work-info">
+              <h3>5</h3>
+              <button class="btn-accent" data-gallery="wardrobe5">
+                Детальніше
+              </button>
+            </div>
+          </div>
+
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/wardrobes/project6-thumb.jpg"
+              alt="Шафа Corner"
+            />
+            <div class="work-info">
+              <h3>6</h3>
+              <button class="btn-accent" data-gallery="wardrobe6">
+                Детальніше
+              </button>
+            </div>
           </div>
         </div>
-
-        <div class="work-card">
-          <img
-            src="static/img/portfolio/wardrobes/project2-thumb.jpg"
-            alt="Шафа Modern"
-          />
-          <div class="work-info">
-            <h3>2</h3>
-            <button class="btn-accent" data-gallery="wardrobe2">
-              Детальніше
-            </button>
-          </div>
-        </div>
-
-        <div class="work-card">
-          <img
-            src="static/img/portfolio/wardrobes/project3-thumb.jpg"
-            alt="Шафа Classic"
-          />
-          <div class="work-info">
-            <h3>3</h3>
-            <button class="btn-accent" data-gallery="wardrobe3">
-              Детальніше
-            </button>
-          </div>
-        </div>
-
-        <div class="work-card">
-          <img
-            src="static/img/portfolio/wardrobes/project4-thumb.jpg"
-            alt="Шафа Sliding"
-          />
-          <div class="work-info">
-            <h3>4</h3>
-            <button class="btn-accent" data-gallery="wardrobe4">
-              Детальніше
-            </button>
-          </div>
-        </div>
-
-        <div class="work-card">
-          <img
-            src="static/img/portfolio/wardrobes/project5-thumb.jpg"
-            alt="Шафа Mirror"
-          />
-          <div class="work-info">
-            <h3>5</h3>
-            <button class="btn-accent" data-gallery="wardrobe5">
-              Детальніше
-            </button>
-          </div>
-        </div>
-
-        <div class="work-card">
-          <img
-            src="static/img/portfolio/wardrobes/project6-thumb.jpg"
-            alt="Шафа Corner"
-          />
-          <div class="work-info">
-            <h3>6</h3>
-            <button class="btn-accent" data-gallery="wardrobe6">
-              Детальніше
-            </button>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Модалка приклад для wardrobe1 -->
+      </section>
+    </main>
+    <!-- Модалки -->
     <div
       class="modal"
       id="wardrobe1"
@@ -169,7 +205,7 @@
         </div>
       </div>
     </div>
-    <!-- Модалка приклад для wardrobe1 -->
+
     <div
       class="modal"
       id="wardrobe2"
@@ -180,16 +216,25 @@
       <div class="modal-content" role="document">
         <div class="slider">
           <div class="slides">
-            <img src="static/img/portfolio/wardrobes/project2-1.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project2-2.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project2-3.jpg" alt="" />
+            <img
+              src="static/img/portfolio/wardrobes/project2-1.jpg"
+              alt="Wardrobe project 2 view 1"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project2-2.jpg"
+              alt="Wardrobe project 2 view 2"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project2-3.jpg"
+              alt="Wardrobe project 2 view 3"
+            />
           </div>
           <button class="prev" aria-label="Попереднє">‹</button>
           <button class="next" aria-label="Наступне">›</button>
         </div>
       </div>
     </div>
-    <!-- Модалка приклад для wardrobe1 -->
+
     <div
       class="modal"
       id="wardrobe3"
@@ -200,16 +245,25 @@
       <div class="modal-content" role="document">
         <div class="slider">
           <div class="slides">
-            <img src="static/img/portfolio/wardrobes/project3-1.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project3-2.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project3-3.jpg" alt="" />
+            <img
+              src="static/img/portfolio/wardrobes/project3-1.jpg"
+              alt="Wardrobe project 3 view 1"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project3-2.jpg"
+              alt="Wardrobe project 3 view 2"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project3-3.jpg"
+              alt="Wardrobe project 3 view 3"
+            />
           </div>
           <button class="prev" aria-label="Попереднє">‹</button>
           <button class="next" aria-label="Наступне">›</button>
         </div>
       </div>
     </div>
-    <!-- Модалка приклад для wardrobe1 -->
+
     <div
       class="modal"
       id="wardrobe4"
@@ -220,16 +274,25 @@
       <div class="modal-content" role="document">
         <div class="slider">
           <div class="slides">
-            <img src="static/img/portfolio/wardrobes/project4-1.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project4-2.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project4-3.jpg" alt="" />
+            <img
+              src="static/img/portfolio/wardrobes/project4-1.jpg"
+              alt="Wardrobe project 4 view 1"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project4-2.jpg"
+              alt="Wardrobe project 4 view 2"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project4-3.jpg"
+              alt="Wardrobe project 4 view 3"
+            />
           </div>
           <button class="prev" aria-label="Попереднє">‹</button>
           <button class="next" aria-label="Наступне">›</button>
         </div>
       </div>
     </div>
-    <!-- Модалка приклад для wardrobe1 -->
+
     <div
       class="modal"
       id="wardrobe5"
@@ -240,16 +303,25 @@
       <div class="modal-content" role="document">
         <div class="slider">
           <div class="slides">
-            <img src="static/img/portfolio/wardrobes/project5-1.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project5-2.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project5-3.jpg" alt="" />
+            <img
+              src="static/img/portfolio/wardrobes/project5-1.jpg"
+              alt="Wardrobe project 5 view 1"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project5-2.jpg"
+              alt="Wardrobe project 5 view 2"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project5-3.jpg"
+              alt="Wardrobe project 5 view 3"
+            />
           </div>
           <button class="prev" aria-label="Попереднє">‹</button>
           <button class="next" aria-label="Наступне">›</button>
         </div>
       </div>
     </div>
-    <!-- Модалка приклад для wardrobe1 -->
+
     <div
       class="modal"
       id="wardrobe6"
@@ -260,17 +332,35 @@
       <div class="modal-content" role="document">
         <div class="slider">
           <div class="slides">
-            <img src="static/img/portfolio/wardrobes/project6-1.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project6-2.jpg" alt="" />
-            <img src="static/img/portfolio/wardrobes/project6-3.jpg" alt="" />
+            <img
+              src="static/img/portfolio/wardrobes/project6-1.jpg"
+              alt="Wardrobe project 6 view 1"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project6-2.jpg"
+              alt="Wardrobe project 6 view 2"
+            />
+            <img
+              src="static/img/portfolio/wardrobes/project6-3.jpg"
+              alt="Wardrobe project 6 view 3"
+            />
           </div>
           <button class="prev" aria-label="Попереднє">‹</button>
           <button class="next" aria-label="Наступне">›</button>
         </div>
       </div>
     </div>
+
     <!-- Кнопка "Вгору" -->
-    <div id="scrollTopBtn" class="scroll-top">↑</div>
+    <button
+      id="scrollTopBtn"
+      class="scroll-top"
+      aria-label="Повернутись нагору"
+      type="button"
+    >
+      ↑
+    </button>
+
     <footer>
       <p>© 2026 Корал. Всі права захищені.</p>
     </footer>

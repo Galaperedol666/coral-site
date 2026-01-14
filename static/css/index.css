@@ -95,7 +95,7 @@ body {
 .floating-buttons {
   position: fixed;
   right: 20px;
-  bottom: 20px;
+  bottom: 60px;
   display: flex;
   flex-direction: row;
   gap: 10px;

@@ -4,29 +4,70 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Тумби — Корал</title>
+    <title>Тумби — Корал | Меблі на замовлення</title>
+    <meta
+      name="description"
+      content="Каталог тумб від Корал. Оберіть тумбу, яка підходить саме вам."
+    />
+    <meta name="robots" content="index, follow" />
+    <link
+      rel="canonical"
+      href="https://mebel-koral.dp.ua/catalogue/cabinets.html"
+    />
+    <meta
+      property="og:url"
+      content="https://mebel-koral.dp.ua/catalogue/cabinets.html"
+    />
+    <meta
+      property="og:image"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
+    />
+
     <link rel="icon" href="../static/img/favicon.ico" type="image/x-icon" />
-    <link rel="preload" href="../static/css/style.css" as="style" onload="this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="../static/css/style.css"></noscript>
+    <link
+      rel="preload"
+      href="../static/css/style.css"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+    <noscript
+      ><link rel="stylesheet" href="../static/css/style.css"
+    /></noscript>
     <link rel="stylesheet" href="../static/css/catalogue.css" />
   </head>
   <body>
     <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+
     <!-- Навігація -->
     <header>
-      <nav class="navbar">
+      <nav class="navbar" role="navigation" aria-label="Головна навігація">
         <div class="logo">
-          <a href="../index.html">
-            <img src="../static/img/Logo.png" alt="Корал" />
+          <a href="../index.html" aria-label="Перейти на головну сторінку">
+            <img
+              src="../static/img/Logo.png"
+              alt="Корал — логотип"
+              decoding="async"
+            />
           </a>
         </div>
         <!-- бургер -->
-        <div class="burger" aria-expanded="false" aria-label="Меню">☰</div>
+        <button
+          class="burger"
+          aria-expanded="false"
+          aria-label="Меню"
+          aria-controls="nav-links"
+          aria-haspopup="true"
+          type="button"
+        >
+          ☰
+        </button>
 
-        <ul class="nav-links">
+        <ul class="nav-links" id="nav-links">
           <li><a href="../index.html">Головна</a></li>
           <li class="dropdown">
-            <a href="../catalogue.html" class="active">Каталог ▾</a>
+            <a href="../catalogue.html" class="active" aria-current="page"
+              >Каталог ▾</a
+            >
             <ul class="dropdown-menu">
               <li><a href="../catalogue/kitchens.html">Кухні</a></li>
               <li><a href="../catalogue/wardrobes.html">Шафи</a></li>
@@ -38,8 +79,15 @@
               <li><a href="../catalogue/mattresses.html">Матраци</a></li>
               <li><a href="../catalogue/tables.html">Столи</a></li>
               <li>
-                <a href="../catalogue/cabinets.html" class="active">Тумби</a>
+                <a
+                  href="../catalogue/cabinets.html"
+                  class="active"
+                  aria-current="page"
+                  >Тумби</a
+                >
               </li>
+              <li><a href="../catalogue/chairs.html">Стільці та крісла</a></li>
+              <li><a href="../catalogue/hallway.html">Передпокої</a></li>
             </ul>
           </li>
           <li><a href="../portfolio.html">Портфоліо</a></li>
@@ -48,7 +96,8 @@
       </nav>
     </header>
 
-    <main>
+    <!-- Основний контент -->
+    <main id="maincontent">
       <section class="catalogue-header">
         <h1>Тумби</h1>
         <p>Оберіть тумбу, яка підходить саме вам</p>
@@ -56,10 +105,19 @@
 
       <!-- Фільтр по ціні -->
       <section class="filter">
-        <label>Фільтр по ціні:</label>
+        <label for="minPrice">Фільтр по ціні:</label>
         <input type="number" id="minPrice" placeholder="Від" />
         <input type="number" id="maxPrice" placeholder="До" />
         <button onclick="filterByPrice()">Застосувати</button>
+      </section>
+
+      <!-- Фільтр сортування -->
+      <section class="filter">
+        <label for="sortPrice">Сортувати за ціною:</label>
+        <select id="sortPrice" onchange="sortByPrice()">
+          <option value="asc">За зростанням</option>
+          <option value="desc">За зменшенням</option>
+        </select>
       </section>
 
       <!-- Контейнер для карток -->
@@ -82,12 +140,22 @@
         </div>
       </div>
     </main>
+
     <!-- Кнопка "Вгору" -->
-    <div id="scrollTopBtn" class="scroll-top">↑</div>
+    <button
+      id="scrollTopBtn"
+      class="scroll-top"
+      aria-label="Повернутись нагору"
+      type="button"
+    >
+      ↑
+    </button>
+
     <footer>
-      <p>© 2026 Корал. Всі права захищені.</p>
+      <p>© <span id="year">2026</span> Корал. Всі права захищені.</p>
     </footer>
-    <script src="../static/js/main.js"></script>
-    <script src="../static/js/cabinets.js"></script>
+
+    <script src="../static/js/main.js" defer></script>
+    <script src="../static/js/cabinets.js" defer></script>
   </body>
 </html>

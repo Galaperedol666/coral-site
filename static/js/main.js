@@ -1,16 +1,16 @@
-// ===== Burger menu toggle =====
+// ===== DOM Ready =====
 document.addEventListener("DOMContentLoaded", () => {
+  // ===== Burger menu toggle =====
   const burger = document.querySelector(".burger");
   const nav = document.querySelector(".nav-links");
-
   if (burger && nav) {
+    nav.setAttribute("aria-hidden", String(!nav.classList.contains("active")));
     burger.addEventListener("click", () => {
       const expanded = burger.getAttribute("aria-expanded") === "true";
       burger.setAttribute("aria-expanded", String(!expanded));
       nav.classList.toggle("active");
+      nav.setAttribute("aria-hidden", String(expanded));
     });
-
-    // Close nav on link click (mobile UX)
     nav.querySelectorAll("a").forEach((link) => {
       link.addEventListener("click", () => nav.classList.remove("active"));
     });
@@ -28,23 +28,16 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  // ===== Category card click-through to catalogue with filter hint =====
+  // ===== Category card click-through =====
   document.querySelectorAll(".category-card").forEach((card) => {
+    if (card.tagName && card.tagName.toLowerCase() === "a") return;
+    card.setAttribute("tabindex", "0");
     card.addEventListener("click", () => {
       const title = card.querySelector("h3")?.textContent?.trim();
-      if (title) {
-        window.location.href = `catalogue.html?category=${encodeURIComponent(
-          title
-        )}`;
-      } else {
-        window.location.href = "catalogue.html";
-      }
+      window.location.href = title
+        ? `catalogue.html?category=${encodeURIComponent(title)}`
+        : "catalogue.html";
     });
-  });
-
-  // ===== Keyboard accessibility for category cards =====
-  document.querySelectorAll(".category-card").forEach((card) => {
-    card.setAttribute("tabindex", "0");
     card.addEventListener("keydown", (e) => {
       if (e.key === "Enter" || e.key === " ") {
         e.preventDefault();
@@ -53,38 +46,12 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  // ===== Safe external links (messengers) open in new tab =====
+  // ===== Safe external links =====
   document
     .querySelectorAll('.floating-buttons a[target="_blank"]')
-    .forEach((link) => {
-      link.setAttribute("rel", "noopener noreferrer");
-    });
-});
+    .forEach((link) => link.setAttribute("rel", "noopener noreferrer"));
 
-// ===== Global price filter (matches HTML: onclick="filterByPrice()") =====
-window.filterByPrice = function () {
-  const minInput = document.getElementById("minPrice");
-  const maxInput = document.getElementById("maxPrice");
-  const grid = document.getElementById("productGrid");
-
-  if (!minInput || !maxInput || !grid) return;
-
-  const min = parseInt(minInput.value) || 0;
-  const max = parseInt(maxInput.value) || Infinity;
-
-  grid.querySelectorAll(".product-card").forEach((card) => {
-    const priceEl = card.querySelector(".product-price");
-    if (!priceEl) {
-      card.style.display = "none";
-      return;
-    }
-    const price = parseInt(priceEl.textContent.replace(/\D/g, "")) || 0;
-    card.style.display = price >= min && price <= max ? "block" : "none";
-  });
-};
-// Відкрити модалку (портфоліо), слайдери та scroll-to-top після завантаження DOM
-document.addEventListener("DOMContentLoaded", () => {
-  // Відкрити модалку (портфоліо)
+  // ===== Portfolio modals =====
   document.querySelectorAll("[data-gallery]").forEach((btn) => {
     btn.addEventListener("click", () => {
       const id = btn.getAttribute("data-gallery");
@@ -95,19 +62,14 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   });
-
-  // Закрити при кліку по бекдропу (поза .modal-content)
   document.querySelectorAll(".modal").forEach((modal) => {
     modal.addEventListener("click", (e) => {
       if (e.target === modal) {
         modal.style.display = "none";
         modal.setAttribute("aria-hidden", "true");
-        document.documentElement.style.overflow = "";
       }
     });
   });
-
-  // Додатково: закрити по Esc (доступність)
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") {
       document
@@ -116,11 +78,10 @@ document.addEventListener("DOMContentLoaded", () => {
           modal.style.display = "none";
           modal.setAttribute("aria-hidden", "true");
         });
-      document.documentElement.style.overflow = "";
     }
   });
 
-  // Слайдер для кожної модалки (портфоліо)
+  // ===== Slider inside modals =====
   document.querySelectorAll(".slider").forEach((slider) => {
     const slides = slider.querySelectorAll("img");
     if (!slides.length) return;
@@ -153,18 +114,73 @@ document.addEventListener("DOMContentLoaded", () => {
   const scrollBtn = document.getElementById("scrollTopBtn");
   if (scrollBtn) {
     window.addEventListener("scroll", () => {
-      if (window.scrollY > 300) {
-        scrollBtn.style.display = "block";
-      } else {
-        scrollBtn.style.display = "none";
-      }
+      scrollBtn.style.display = window.scrollY > 300 ? "block" : "none";
     });
-
-    scrollBtn.addEventListener("click", () => {
-      window.scrollTo({
-        top: 0,
-        behavior: "smooth",
-      });
-    });
+    scrollBtn.addEventListener("click", () =>
+      window.scrollTo({ top: 0, behavior: "smooth" })
+    );
   }
+
+  // ===== Dynamic year in footer =====
+  const yearEl = document.getElementById("year");
+  if (yearEl) yearEl.textContent = new Date().getFullYear();
 });
+
+// ===== Global price filter =====
+window.filterByPrice = function () {
+  const minInput = document.getElementById("minPrice");
+  const maxInput = document.getElementById("maxPrice");
+  const grid = document.getElementById("productGrid");
+  if (!minInput || !maxInput || !grid) return;
+
+  const min = parseInt(minInput.value) || 0;
+  const max = parseInt(maxInput.value) || Infinity;
+
+  grid.querySelectorAll(".product-card").forEach((card) => {
+    const priceEl = card.querySelector(".product-price");
+    if (!priceEl) {
+      card.style.display = "none";
+      return;
+    }
+    const price = parseInt(priceEl.textContent.replace(/\D/g, "")) || 0;
+    card.style.display = price >= min && price <= max ? "block" : "none";
+  });
+};
+
+// ===== Global price sort =====
+window.sortByPrice = function () {
+  const sortSelect = document.getElementById("sortPrice");
+  const grid = document.getElementById("productGrid");
+  if (!sortSelect || !grid) return;
+
+  const sortOrder = sortSelect.value;
+  const cards = Array.from(grid.querySelectorAll(".product-card"));
+
+  cards.sort((a, b) => {
+    const priceA = parseInt(
+      a.querySelector(".product-price")?.textContent.replace(/\D/g, "") || 0
+    );
+    const priceB = parseInt(
+      b.querySelector(".product-price")?.textContent.replace(/\D/g, "") || 0
+    );
+    return sortOrder === "asc" ? priceA - priceB : priceB - priceA;
+  });
+
+  cards.forEach((card) => grid.appendChild(card));
+};
+
+// ===== Google Analytics (optional centralization) =====
+(function () {
+  const gtagScript = document.createElement("script");
+  gtagScript.async = true;
+  gtagScript.src = "https://www.googletagmanager.com/gtag/js?id=G-9BVTJ058PS";
+  document.head.appendChild(gtagScript);
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  window.gtag = gtag;
+  gtag("js", new Date());
+  gtag("config", "G-9BVTJ058PS");
+})();
