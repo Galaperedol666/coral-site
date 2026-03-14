@@ -1,0 +1,2347 @@
+[
+  {
+    "name": "Стіл журнальний Джаз",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b126.jpg",
+      "/static/img/catalogue/bg5003.jpg",
+      "/static/img/catalogue/bg5369.jpg",
+      "/static/img/catalogue/bg4090.jpg",
+      "/static/img/catalogue/bg4084.jpg",
+      "/static/img/catalogue/bg4085.jpg",
+      "/static/img/catalogue/bg4089.jpg",
+      "/static/img/catalogue/bg4088.jpg",
+      "/static/img/catalogue/bg4087.jpg",
+      "/static/img/catalogue/bg4086.jpg"
+    ],
+    "price": "1011 грн",
+    "specs": [
+      "висота, мм: 450",
+      "ширина, мм: 904",
+      "глибина, мм: 454",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Соната",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b131.jpg",
+      "/static/img/catalogue/bg5378.jpg",
+      "/static/img/catalogue/bg2331.jpg",
+      "/static/img/catalogue/bg5012.jpg",
+      "/static/img/catalogue/bg822.jpg",
+      "/static/img/catalogue/bg823.jpg",
+      "/static/img/catalogue/bg826.jpg",
+      "/static/img/catalogue/bg824.jpg",
+      "/static/img/catalogue/bg825.jpg",
+      "/static/img/catalogue/bg827.jpg",
+      "/static/img/catalogue/bg828.jpg"
+    ],
+    "price": "1719 грн",
+    "specs": [
+      "висота, мм: 532",
+      "ширина, мм: 1000",
+      "глибина, мм: 600",
+      "вага, кг: 16",
+      "розмір упаковки, мм: 985х595х85",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Твіст",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b134.jpg",
+      "/static/img/catalogue/bg5381.jpg",
+      "/static/img/catalogue/bg2334.jpg",
+      "/static/img/catalogue/bg5014.jpg",
+      "/static/img/catalogue/bg841.jpg",
+      "/static/img/catalogue/bg842.jpg",
+      "/static/img/catalogue/bg843.jpg",
+      "/static/img/catalogue/bg844.jpg",
+      "/static/img/catalogue/bg845.jpg",
+      "/static/img/catalogue/bg846.jpg",
+      "/static/img/catalogue/bg847.jpg"
+    ],
+    "price": "1294 грн",
+    "specs": [
+      "висота, мм: 546",
+      "ширина, мм: 1000",
+      "глибина, мм: 600",
+      "вага, кг: 13,8",
+      "розмір упаковки, мм: 1000х590х65",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Танго",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b138.jpg",
+      "/static/img/catalogue/bg5379.jpg",
+      "/static/img/catalogue/bg2338.jpg",
+      "/static/img/catalogue/bg5013.jpg",
+      "/static/img/catalogue/bg869.jpg",
+      "/static/img/catalogue/bg870.jpg",
+      "/static/img/catalogue/bg871.jpg",
+      "/static/img/catalogue/bg872.jpg",
+      "/static/img/catalogue/bg873.jpg",
+      "/static/img/catalogue/bg874.jpg",
+      "/static/img/catalogue/bg875.jpg"
+    ],
+    "price": "1567 грн",
+    "specs": [
+      "висота, мм: 534",
+      "ширина, мм: 900",
+      "глибина, мм: 580",
+      "вага, кг: 17",
+      "розмір упаковки, мм: 905х580х70",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Рінг",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b140.jpg",
+      "/static/img/catalogue/bg5377.jpg",
+      "/static/img/catalogue/bg2340.jpg",
+      "/static/img/catalogue/bg5011.jpg",
+      "/static/img/catalogue/bg883.jpg",
+      "/static/img/catalogue/bg884.jpg",
+      "/static/img/catalogue/bg885.jpg",
+      "/static/img/catalogue/bg886.jpg",
+      "/static/img/catalogue/bg887.jpg",
+      "/static/img/catalogue/bg888.jpg",
+      "/static/img/catalogue/bg889.jpg"
+    ],
+    "price": "1286 грн",
+    "specs": [
+      "висота, мм: 484",
+      "ширина, мм: 697",
+      "глибина, мм: 697",
+      "вага, кг: 8,6",
+      "розмір упаковки, мм: 700х700х60",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Каприз",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b141.jpg",
+      "/static/img/catalogue/bg5373.jpg",
+      "/static/img/catalogue/bg2341.jpg",
+      "/static/img/catalogue/bg5007.jpg",
+      "/static/img/catalogue/bg890.jpg",
+      "/static/img/catalogue/bg891.jpg",
+      "/static/img/catalogue/bg892.jpg",
+      "/static/img/catalogue/bg893.jpg",
+      "/static/img/catalogue/bg894.jpg",
+      "/static/img/catalogue/bg895.jpg",
+      "/static/img/catalogue/bg896.jpg"
+    ],
+    "price": "1359 грн",
+    "specs": [
+      "висота, мм: 526",
+      "ширина, мм: 580",
+      "глибина, мм: 900",
+      "вага, кг: 16",
+      "розмір упаковки, мм: 905х577х70",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Венеція-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b142.jpg",
+      "/static/img/catalogue/bg5368.jpg",
+      "/static/img/catalogue/bg2342.jpg",
+      "/static/img/catalogue/bg5002.jpg",
+      "/static/img/catalogue/bg897.jpg",
+      "/static/img/catalogue/bg898.jpg",
+      "/static/img/catalogue/bg899.jpg",
+      "/static/img/catalogue/bg900.jpg",
+      "/static/img/catalogue/bg901.jpg",
+      "/static/img/catalogue/bg902.jpg",
+      "/static/img/catalogue/bg903.jpg"
+    ],
+    "price": "1335 грн",
+    "specs": [
+      "висота, мм: 484",
+      "ширина, мм: 900",
+      "глибина, мм: 595",
+      "вага, кг: 8,6",
+      "розмір упаковки, мм: 905х605х50",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Венеція",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b143.jpg",
+      "/static/img/catalogue/bg5367.jpg",
+      "/static/img/catalogue/bg2343.jpg",
+      "/static/img/catalogue/bg5001.jpg",
+      "/static/img/catalogue/bg904.jpg",
+      "/static/img/catalogue/bg905.jpg",
+      "/static/img/catalogue/bg906.jpg",
+      "/static/img/catalogue/bg907.jpg",
+      "/static/img/catalogue/bg908.jpg",
+      "/static/img/catalogue/bg909.jpg",
+      "/static/img/catalogue/bg910.jpg"
+    ],
+    "price": "1117 грн",
+    "specs": [
+      "висота, мм: 484",
+      "ширина, мм: 900",
+      "глибина, мм: 595",
+      "вага, кг: 8,2",
+      "розмір упаковки, мм: 905х605х50",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Вена",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b146.jpg",
+      "/static/img/catalogue/bg5365.jpg",
+      "/static/img/catalogue/bg2346.jpg",
+      "/static/img/catalogue/bg4999.jpg",
+      "/static/img/catalogue/bg924.jpg",
+      "/static/img/catalogue/bg925.jpg",
+      "/static/img/catalogue/bg926.jpg",
+      "/static/img/catalogue/bg927.jpg",
+      "/static/img/catalogue/bg928.jpg",
+      "/static/img/catalogue/bg929.jpg",
+      "/static/img/catalogue/bg930.jpg"
+    ],
+    "price": "1314 грн",
+    "specs": [
+      "висота, мм: 706",
+      "ширина, мм: 750",
+      "глибина, мм: 400",
+      "вага, кг: 11",
+      "розмір упаковки, мм: 640х400х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Мадрид",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b147.jpg",
+      "/static/img/catalogue/bg5374.jpg",
+      "/static/img/catalogue/bg2347.jpg",
+      "/static/img/catalogue/bg5008.jpg",
+      "/static/img/catalogue/bg931.jpg",
+      "/static/img/catalogue/bg932.jpg",
+      "/static/img/catalogue/bg933.jpg",
+      "/static/img/catalogue/bg934.jpg",
+      "/static/img/catalogue/bg935.jpg",
+      "/static/img/catalogue/bg936.jpg",
+      "/static/img/catalogue/bg937.jpg"
+    ],
+    "price": "939 грн",
+    "specs": [
+      "висота, мм: 500",
+      "ширина, мм: 600",
+      "глибина, мм: 600",
+      "вага, кг: 10",
+      "розмір упаковки, мм: 600х600х50",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "МС Тумба ТВ 4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b417.jpg",
+      "/static/img/catalogue/bg5421.jpg",
+      "/static/img/catalogue/bg5097.jpg",
+      "/static/img/catalogue/bg2049.jpg",
+      "/static/img/catalogue/bg2051.jpg",
+      "/static/img/catalogue/bg2054.jpg",
+      "/static/img/catalogue/bg2055.jpg",
+      "/static/img/catalogue/bg2050.jpg",
+      "/static/img/catalogue/bg2052.jpg",
+      "/static/img/catalogue/bg2053.jpg"
+    ],
+    "price": "2036 грн",
+    "specs": [
+      "висота, мм: 526",
+      "ширина, мм: 900",
+      "глибина, мм: 464",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "МС Тумба ТВ 5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b419.jpg",
+      "/static/img/catalogue/bg5422.jpg",
+      "/static/img/catalogue/bg5098.jpg",
+      "/static/img/catalogue/bg2062.jpg",
+      "/static/img/catalogue/bg2063.jpg",
+      "/static/img/catalogue/bg2066.jpg",
+      "/static/img/catalogue/bg2068.jpg",
+      "/static/img/catalogue/bg2064.jpg",
+      "/static/img/catalogue/bg2065.jpg",
+      "/static/img/catalogue/bg2067.jpg"
+    ],
+    "price": "3033 грн",
+    "specs": [
+      "висота, мм: 526",
+      "ширина, мм: 1300",
+      "глибина, мм: 464",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Беліз",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b431.jpg",
+      "/static/img/catalogue/bg5354.jpg",
+      "/static/img/catalogue/bg4620.jpg",
+      "/static/img/catalogue/bg4622.jpg",
+      "/static/img/catalogue/bg4624.jpg",
+      "/static/img/catalogue/bg4621.jpg",
+      "/static/img/catalogue/bg4625.jpg",
+      "/static/img/catalogue/bg4626.jpg",
+      "/static/img/catalogue/bg4623.jpg",
+      "/static/img/catalogue/bg4627.jpg"
+    ],
+    "price": "2496 грн",
+    "specs": [
+      "висота, мм: 500",
+      "ширина, мм: 1170",
+      "глибина, мм: 400",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Одеса",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b432.jpg",
+      "/static/img/catalogue/bg5360.jpg",
+      "/static/img/catalogue/bg2150.jpg",
+      "/static/img/catalogue/bg2153.jpg",
+      "/static/img/catalogue/bg4925.jpg",
+      "/static/img/catalogue/bg2152.jpg",
+      "/static/img/catalogue/bg2151.jpg",
+      "/static/img/catalogue/bg2154.jpg",
+      "/static/img/catalogue/bg2149.jpg",
+      "/static/img/catalogue/bg2155.jpg"
+    ],
+    "price": "4141 грн",
+    "specs": [
+      "висота, мм: 484",
+      "ширина, мм: 1700",
+      "глибина, мм: 400",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Кельн",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b433.jpg",
+      "/static/img/catalogue/bg5358.jpg",
+      "/static/img/catalogue/bg4628.jpg",
+      "/static/img/catalogue/bg4629.jpg",
+      "/static/img/catalogue/bg4630.jpg",
+      "/static/img/catalogue/bg4631.jpg",
+      "/static/img/catalogue/bg4633.jpg",
+      "/static/img/catalogue/bg4632.jpg",
+      "/static/img/catalogue/bg4634.jpg"
+    ],
+    "price": "2986 грн",
+    "specs": [
+      "висота, мм: 430",
+      "ширина, мм: 1400",
+      "глибина, мм: 420",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Рио",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b434.jpg",
+      "/static/img/catalogue/bg5363.jpg",
+      "/static/img/catalogue/bg4636.jpg",
+      "/static/img/catalogue/bg4635.jpg",
+      "/static/img/catalogue/bg4639.jpg",
+      "/static/img/catalogue/bg4638.jpg",
+      "/static/img/catalogue/bg4637.jpg",
+      "/static/img/catalogue/bg4640.jpg",
+      "/static/img/catalogue/bg4641.jpg"
+    ],
+    "price": "1269 грн",
+    "specs": [
+      "висота, мм: 376",
+      "ширина, мм: 900",
+      "глибина, мм: 450",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Вінниця",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b436.jpg",
+      "/static/img/catalogue/bg2182.jpg",
+      "/static/img/catalogue/bg5355.jpg",
+      "/static/img/catalogue/bg3253.jpg",
+      "/static/img/catalogue/bg3251.jpg",
+      "/static/img/catalogue/bg4922.jpg",
+      "/static/img/catalogue/bg3250.jpg",
+      "/static/img/catalogue/bg3252.jpg",
+      "/static/img/catalogue/bg3254.jpg",
+      "/static/img/catalogue/bg3255.jpg"
+    ],
+    "price": "2444 грн",
+    "specs": [
+      "висота, мм: 430",
+      "ширина, мм: 1200",
+      "глибина, мм: 352",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Мадрид 2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b454.jpg",
+      "/static/img/catalogue/bg5375.jpg",
+      "/static/img/catalogue/bg2619.jpg",
+      "/static/img/catalogue/bg2618.jpg",
+      "/static/img/catalogue/bg2621.jpg",
+      "/static/img/catalogue/bg2616.jpg",
+      "/static/img/catalogue/bg5009.jpg",
+      "/static/img/catalogue/bg2620.jpg",
+      "/static/img/catalogue/bg2615.jpg",
+      "/static/img/catalogue/bg2617.jpg"
+    ],
+    "price": "1149 грн",
+    "specs": [
+      "висота, мм: 500",
+      "ширина, мм: 900",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Мадрид 3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b455.jpg",
+      "/static/img/catalogue/bg5376.jpg",
+      "/static/img/catalogue/bg2625.jpg",
+      "/static/img/catalogue/bg2622.jpg",
+      "/static/img/catalogue/bg2623.jpg",
+      "/static/img/catalogue/bg2627.jpg",
+      "/static/img/catalogue/bg5010.jpg",
+      "/static/img/catalogue/bg2628.jpg",
+      "/static/img/catalogue/bg2626.jpg",
+      "/static/img/catalogue/bg2624.jpg"
+    ],
+    "price": "1150 грн",
+    "specs": [
+      "висота, мм: 500",
+      "ширина, мм: 800",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Тандем",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b456.jpg",
+      "/static/img/catalogue/bg5380.jpg",
+      "/static/img/catalogue/bg2631.jpg",
+      "/static/img/catalogue/bg2629.jpg",
+      "/static/img/catalogue/bg2630.jpg",
+      "/static/img/catalogue/bg2633.jpg",
+      "/static/img/catalogue/bg2634.jpg",
+      "/static/img/catalogue/bg2632.jpg",
+      "/static/img/catalogue/bg2635.jpg"
+    ],
+    "price": "1817 грн",
+    "specs": [
+      "висота, мм: 480",
+      "ширина, мм: 1000",
+      "глибина, мм: 580",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Венера",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b457.jpg",
+      "/static/img/catalogue/bg5366.jpg",
+      "/static/img/catalogue/bg2636.jpg",
+      "/static/img/catalogue/bg2642.jpg",
+      "/static/img/catalogue/bg2638.jpg",
+      "/static/img/catalogue/bg2637.jpg",
+      "/static/img/catalogue/bg5000.jpg",
+      "/static/img/catalogue/bg2640.jpg",
+      "/static/img/catalogue/bg2639.jpg",
+      "/static/img/catalogue/bg2641.jpg"
+    ],
+    "price": "1127 грн",
+    "specs": [
+      "висота, мм: 497",
+      "ширина, мм: 800",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Америка-L",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b47.jpg",
+      "/static/img/catalogue/bg4926.jpg",
+      "/static/img/catalogue/bg2294.jpg",
+      "/static/img/catalogue/bg287.jpg",
+      "/static/img/catalogue/bg288.jpg",
+      "/static/img/catalogue/bg289.jpg",
+      "/static/img/catalogue/bg290.jpg",
+      "/static/img/catalogue/bg291.jpg",
+      "/static/img/catalogue/bg292.jpg"
+    ],
+    "price": "2490 грн",
+    "specs": [
+      "висота, мм: 636",
+      "ширина, мм: 910",
+      "глибина, мм: 445",
+      "вага, кг: 22,4",
+      "розмір упаковки, мм: 920х450х120",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ NEW Амбасадор",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b49.jpg",
+      "/static/img/catalogue/bg5351.jpg",
+      "/static/img/catalogue/bg2296.jpg",
+      "/static/img/catalogue/bg4915.jpg",
+      "/static/img/catalogue/bg299.jpg",
+      "/static/img/catalogue/bg300.jpg",
+      "/static/img/catalogue/bg301.jpg",
+      "/static/img/catalogue/bg302.jpg",
+      "/static/img/catalogue/bg303.jpg",
+      "/static/img/catalogue/bg304.jpg"
+    ],
+    "price": "1920 грн",
+    "specs": [
+      "висота, мм: 652",
+      "ширина, мм: 700",
+      "глибина, мм: 430",
+      "вага, кг: 20,8",
+      "розмір упаковки, мм: 735х430х108",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "МГ-1 Модульна Стінка 1",
+    "desc": "",
+    "images": ["/static/img/catalogue/m515.jpg"],
+    "price": "15126 грн",
+    "specs": []
+  },
+  {
+    "name": "МГ-1 Модульна Стінка 2",
+    "desc": "",
+    "images": ["/static/img/catalogue/m516.jpg"],
+    "price": "12689 грн",
+    "specs": []
+  },
+  {
+    "name": "МГ-2 Модульна Стінка",
+    "desc": "",
+    "images": ["/static/img/catalogue/m517.jpg"],
+    "price": "11948 грн",
+    "specs": []
+  },
+  {
+    "name": "МГ-3 Модульна Стінка",
+    "desc": "",
+    "images": ["/static/img/catalogue/m518.jpg"],
+    "price": "8331 грн",
+    "specs": []
+  },
+  {
+    "name": "МГ-4 Модульна Стінка 1",
+    "desc": "",
+    "images": ["/static/img/catalogue/m519.jpg"],
+    "price": "3765 грн",
+    "specs": []
+  },
+  {
+    "name": "МГ-4 Модульна Стінка 2",
+    "desc": "",
+    "images": ["/static/img/catalogue/m520.jpg"],
+    "price": "2771 грн",
+    "specs": []
+  },
+  {
+    "name": "Тумба під ТВ Хортиця",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b55.jpg",
+      "/static/img/catalogue/bg5364.jpg",
+      "/static/img/catalogue/bg2302.jpg",
+      "/static/img/catalogue/bg4920.jpg",
+      "/static/img/catalogue/bg336.jpg",
+      "/static/img/catalogue/bg337.jpg",
+      "/static/img/catalogue/bg338.jpg",
+      "/static/img/catalogue/bg339.jpg",
+      "/static/img/catalogue/bg340.jpg",
+      "/static/img/catalogue/bg341.jpg"
+    ],
+    "price": "3213 грн",
+    "specs": [
+      "висота, мм: 702",
+      "ширина, мм: 1050",
+      "глибина, мм: 520",
+      "вага, кг: 30",
+      "розмір упаковки, мм: 1055х520х120",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Джаз-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b556.jpg",
+      "/static/img/catalogue/bg5370.jpg",
+      "/static/img/catalogue/bg4091.jpg",
+      "/static/img/catalogue/bg4092.jpg",
+      "/static/img/catalogue/bg5004.jpg",
+      "/static/img/catalogue/bg4093.jpg",
+      "/static/img/catalogue/bg4095.jpg",
+      "/static/img/catalogue/bg4094.jpg",
+      "/static/img/catalogue/bg4096.jpg",
+      "/static/img/catalogue/bg4097.jpg"
+    ],
+    "price": "1303 грн",
+    "specs": [
+      "висота, мм: 520",
+      "ширина, мм: 904",
+      "глибина, мм: 454",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Джаз-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b557.jpg",
+      "/static/img/catalogue/bg5005.jpg",
+      "/static/img/catalogue/bg5371.jpg",
+      "/static/img/catalogue/bg4098.jpg",
+      "/static/img/catalogue/bg4103.jpg",
+      "/static/img/catalogue/bg4100.jpg",
+      "/static/img/catalogue/bg4101.jpg",
+      "/static/img/catalogue/bg4102.jpg",
+      "/static/img/catalogue/bg4099.jpg",
+      "/static/img/catalogue/bg4104.jpg"
+    ],
+    "price": "1167 грн",
+    "specs": [
+      "висота, мм: 520",
+      "ширина, мм: 804",
+      "глибина, мм: 454",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Джаз-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b558.jpg",
+      "/static/img/catalogue/bg5372.jpg",
+      "/static/img/catalogue/bg4105.jpg",
+      "/static/img/catalogue/bg4108.jpg",
+      "/static/img/catalogue/bg5006.jpg",
+      "/static/img/catalogue/bg4107.jpg",
+      "/static/img/catalogue/bg4111.jpg",
+      "/static/img/catalogue/bg4109.jpg",
+      "/static/img/catalogue/bg4106.jpg",
+      "/static/img/catalogue/bg4110.jpg"
+    ],
+    "price": "932 грн",
+    "specs": [
+      "висота, мм: 450",
+      "ширина, мм: 804",
+      "глибина, мм: 454",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний \"Лофт\"-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b559.jpg",
+      "/static/img/catalogue/bg5328.jpg",
+      "/static/img/catalogue/bg4112.jpg",
+      "/static/img/catalogue/bg4113.jpg",
+      "/static/img/catalogue/bg4117.jpg",
+      "/static/img/catalogue/bg4115.jpg",
+      "/static/img/catalogue/bg4997.jpg",
+      "/static/img/catalogue/bg4114.jpg",
+      "/static/img/catalogue/bg4116.jpg",
+      "/static/img/catalogue/bg4118.jpg"
+    ],
+    "price": "2142 грн",
+    "specs": [
+      "висота, мм: 428",
+      "ширина, мм: 800",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний \"Лофт\"-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b560.jpg",
+      "/static/img/catalogue/bg5329.jpg",
+      "/static/img/catalogue/bg4123.jpg",
+      "/static/img/catalogue/bg4119.jpg",
+      "/static/img/catalogue/bg4121.jpg",
+      "/static/img/catalogue/bg4998.jpg",
+      "/static/img/catalogue/bg4125.jpg",
+      "/static/img/catalogue/bg4124.jpg",
+      "/static/img/catalogue/bg4122.jpg",
+      "/static/img/catalogue/bg4120.jpg"
+    ],
+    "price": "2116 грн",
+    "specs": [
+      "висота, мм: 426",
+      "ширина, мм: 800",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Плазма",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b59.jpg",
+      "/static/img/catalogue/bg5361.jpg",
+      "/static/img/catalogue/bg3245.jpg",
+      "/static/img/catalogue/bg3244.jpg",
+      "/static/img/catalogue/bg3246.jpg",
+      "/static/img/catalogue/bg4924.jpg",
+      "/static/img/catalogue/bg3249.jpg",
+      "/static/img/catalogue/bg3247.jpg",
+      "/static/img/catalogue/bg3248.jpg"
+    ],
+    "price": "2936 грн",
+    "specs": [
+      "висота, мм: 430",
+      "ширина, мм: 1202",
+      "глибина, мм: 380",
+      "вага, кг: 26",
+      "розмір упаковки, мм: 1205х395х105",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Америка",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b63.jpg",
+      "/static/img/catalogue/bg5352.jpg",
+      "/static/img/catalogue/bg2310.jpg",
+      "/static/img/catalogue/bg4919.jpg",
+      "/static/img/catalogue/bg1938.jpg",
+      "/static/img/catalogue/bg1939.jpg",
+      "/static/img/catalogue/bg1940.jpg",
+      "/static/img/catalogue/bg1941.jpg",
+      "/static/img/catalogue/bg1942.jpg",
+      "/static/img/catalogue/bg1943.jpg"
+    ],
+    "price": "2527 грн",
+    "specs": [
+      "висота, мм: 643",
+      "ширина, мм: 800",
+      "глибина, мм: 440",
+      "вага, кг: 26",
+      "розмір упаковки, мм: 860х440х115",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Вітальня Мілана",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b64.jpg",
+      "/static/img/catalogue/bg5350.jpg",
+      "/static/img/catalogue/bg2898.jpg",
+      "/static/img/catalogue/bg5220.jpg",
+      "/static/img/catalogue/bg2901.jpg",
+      "/static/img/catalogue/bg2894.jpg",
+      "/static/img/catalogue/bg2895.jpg",
+      "/static/img/catalogue/bg2897.jpg",
+      "/static/img/catalogue/bg2896.jpg",
+      "/static/img/catalogue/bg2899.jpg",
+      "/static/img/catalogue/bg2900.jpg"
+    ],
+    "price": "4208 грн",
+    "specs": [
+      "висота, мм: 1600",
+      "ширина, мм: 1500",
+      "глибина, мм: 387",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Дуб сонома/Нимфея альба, Нимфея Альба",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1180х387х88",
+      "размер упаковки ч.2, мм: 1486х385х80"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Амбасадор",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b66.jpg",
+      "/static/img/catalogue/bg2311.jpg",
+      "/static/img/catalogue/bg4916.jpg",
+      "/static/img/catalogue/bg1944.jpg",
+      "/static/img/catalogue/bg1945.jpg",
+      "/static/img/catalogue/bg1946.jpg",
+      "/static/img/catalogue/bg1947.jpg",
+      "/static/img/catalogue/bg1948.jpg",
+      "/static/img/catalogue/bg1949.jpg"
+    ],
+    "price": "1991 грн",
+    "specs": [
+      "висота, мм: 643",
+      "ширина, мм: 700",
+      "глибина, мм: 430",
+      "вага, кг: 21,8",
+      "розмір упаковки, мм: 725х430х105",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під ТВ Монтеррей",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b73.jpg",
+      "/static/img/catalogue/bg5359.jpg",
+      "/static/img/catalogue/bg2315.jpg",
+      "/static/img/catalogue/bg4917.jpg",
+      "/static/img/catalogue/bg447.jpg",
+      "/static/img/catalogue/bg448.jpg",
+      "/static/img/catalogue/bg449.jpg",
+      "/static/img/catalogue/bg450.jpg",
+      "/static/img/catalogue/bg451.jpg",
+      "/static/img/catalogue/bg452.jpg"
+    ],
+    "price": "2796 грн",
+    "specs": [
+      "висота, мм: 643",
+      "ширина, мм: 900",
+      "глибина, мм: 405",
+      "вага, кг: 23",
+      "розмір упаковки, мм: 940х450х90",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл журнальний трансформер",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b746.jpg",
+      "/static/img/catalogue/bg6001.jpg",
+      "/static/img/catalogue/bg6020.jpg",
+      "/static/img/catalogue/bg6008.jpg",
+      "/static/img/catalogue/bg6007.jpg",
+      "/static/img/catalogue/bg6013.jpg",
+      "/static/img/catalogue/bg6018.jpg",
+      "/static/img/catalogue/bg6010.jpg",
+      "/static/img/catalogue/bg6012.jpg",
+      "/static/img/catalogue/bg6017.jpg",
+      "/static/img/catalogue/bg6002.jpg",
+      "/static/img/catalogue/bg6000.jpg",
+      "/static/img/catalogue/bg6015.jpg",
+      "/static/img/catalogue/bg6019.jpg",
+      "/static/img/catalogue/bg6009.jpg",
+      "/static/img/catalogue/bg6011.jpg",
+      "/static/img/catalogue/bg6014.jpg",
+      "/static/img/catalogue/bg6016.jpg",
+      "/static/img/catalogue/bg6003.jpg",
+      "/static/img/catalogue/bg6006.jpg",
+      "/static/img/catalogue/bg6005.jpg",
+      "/static/img/catalogue/bg6004.jpg"
+    ],
+    "price": "2697 грн",
+    "specs": [
+      "висота, мм: 420/630",
+      "ширина, мм: 984",
+      "глибина, мм: 504/780",
+      "вага, кг: 23.5",
+      "розмір упаковки, мм: 982х502х80",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Венге темный, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+
+  {
+    "name": "Тумба Алекса Індастріал / Німфеа Альба",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-spalnya-aleksa-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/tumba-aleksa-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/tumba-aleksa-svit-mebliv-700x700.png",
+      "/static/img/catalogue/spalnya-aleksa-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-aleksa-svit-mebliv-700x700.png"
+    ],
+    "price": "1602 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 55 см",
+      "Висота: 50,5 см",
+      "Глибина: 40 см",
+      "Корпус: Індастріал",
+      "Фасад: Німфеа Альба",
+      "Комплектація: Модель обладнана висувними шухлядами на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Амелія Білий / Білий глянець",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-ameliya-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-ameliya-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-amelia-svit-mebliv-2-700x700.png"
+    ],
+    "price": "1739 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 50 см",
+      "Висота: 45 см",
+      "Глибина: 40,8 см",
+      "Корпус: Білий",
+      "Фасад: Білий глянець",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Пенал Ешлі 1Д 1В Сосна водевіль",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/penal-1d-1v-ashley-main-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-eshli-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/ms-eshli-3-700x700.jpg",
+      "/static/img/catalogue/penal-1d-1v-ashley-6-700x700.jpg",
+      "/static/img/catalogue/penal-1d-1v-ashley-5-700x700.jpg",
+      "/static/img/catalogue/penal-1d-1v-ashley-4-700x700.jpg",
+      "/static/img/catalogue/eshli-prays-700x700.jpg"
+    ],
+    "price": "8327 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 81,5 см",
+      "Висота: 205 см",
+      "Глибина: 37,5 см",
+      "Корпус: Сосна водевіль",
+      "Фасад: Сосна водевіль",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба 3ДСк  Каліста",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/calista-tumba-3dsk-700x700.jpg",
+      "/static/img/catalogue/17346931126371992-700x700.png"
+    ],
+    "price": "4730 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 155 см",
+      "Висота: 93,5 см",
+      "Глибина: 43,6 см",
+      "Корпус: Дуб Аппалачі / Антрацит",
+      "Фасад: Дуб Аппалачі",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба навісна Каліста",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/calista-tumba-navisna-700x700.jpg",
+      "/static/img/catalogue/17346931221817141-700x700.png"
+    ],
+    "price": "1638 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 53 см",
+      "Глибина: 60 см",
+      "Корпус: Дуб Аппалачі / Антрацит",
+      "Фасад: Дуб Аппалачі",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Каміла Графіт / Дуб Артизан",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-kamila-hrafit-dub-artizan-700x700.jpg",
+      "/static/img/catalogue/tumba-kamila-hrafit-dub-artizan-skhema-700x700.jpg",
+      "/static/img/catalogue/spalnya-kamila-hrafit-dub-artizan-700x700.jpeg"
+    ],
+    "price": "1489 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 50 см",
+      "Висота: 53,5 см",
+      "Глибина: 40,5 см",
+      "Корпус: Графіт",
+      "Фасад: Дуб артизан / Графіт",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 1 шт (висувна)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Кармен Нова Горіх /Піно горіх, лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-karmen-nova-horikh-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/tumba-karmen-novaya-orekh-mir-mebeli-700x700.jpeg",
+      "/static/img/catalogue/lizhko-karmen-nova-horikh-svit-mebliv-2-700x700.jpeg",
+      "/static/img/catalogue/lizhko-karmen-nova-horikh-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-horikh-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-horikh-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-novaya-orekh-mir-mebeli-700x700.png"
+    ],
+    "price": "3542 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 53 см",
+      "Висота: 48,5 см",
+      "Глибина: 40 см",
+      "Корпус: Піно горіх",
+      "Фасад: Піно горіх, лак, художній друк",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Кармен Нова Піно / Піно лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-karmen-nova-pyno-svyt-meblyv-700x700.jpeg",
+      "/static/img/catalogue/lizhko-karmen-nova-pino-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/tumba-karmen-nova-shema-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-pyno-svyt-meblyv-700x700.jpeg",
+      "/static/img/catalogue/spalnya_karmen-svit-mebliv-700x700.png"
+    ],
+    "price": "3542 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 53 см",
+      "Висота: 48,5 см",
+      "Глибина: 40 см",
+      "Корпус: Піно",
+      "Фасад: Піно лак, художній друк",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Кім Дуб артизан / Білий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/-tumba-spalnya-kim-dub-sonoma-bilyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-kim-dub-sonoma-bilyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-kim-svit-mebliv-prais-700x700.png"
+    ],
+    "price": "745 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 42,5 см",
+      "Висота: 52 см",
+      "Глибина: 40,5 см",
+      "Корпус: Дуб артизан",
+      "Фасад: Дуб артизан / Білий",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Кількість шухляд: 1 шт (висувна)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Кім Венге магія / Дуб молочний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-kim-venge-700x700.jpg",
+      "/static/img/catalogue/spalnya-kim-dub-molochnyy-venhe-mahiya-svit-mebliv-700x700.jpg"
+    ],
+    "price": "832 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 42,5 см",
+      "Висота: 52 см",
+      "Глибина: 40,5 см",
+      "Корпус: Венге магія",
+      "Фасад: Венге магія / Дуб молочний",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Кількість шухляд: 1 шт (висувна)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Круїз Білий/Дакар",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-kruyiz-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/tumba-kruyiz-bilyy-dakar-4-700x700.jpg",
+      "/static/img/catalogue/tumba-kruyiz-bilyy-dakar-6-700x700.jpeg",
+      "/static/img/catalogue/tumba-kruyiz-bilyy-dakar-2-700x700.jpeg",
+      "/static/img/catalogue/spalnya-kruyiz-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/kruyiz-bilyy-dakar-700x700.jpeg",
+      "/static/img/catalogue/kruyiz-bilyy-dakar-2-700x700.png"
+    ],
+    "price": "1254 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 45,4 см",
+      "Висота: 42,7 см",
+      "Глибина: 40,4 см",
+      "Корпус: Білий",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Бар Лаціо Каштан / Прованс темний з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/bar-latsio-kashtan-provans-temnyy-patyna-700x700.jpeg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-4-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-latsio-kashtan-provans-temnyy-patyna-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-5-700x700.jpg",
+      "/static/img/catalogue/bar-lazio-kashtan-700x700.jpg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-3-700x700.jpg"
+    ],
+    "price": "19800 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 159,5 см",
+      "Висота: 123 см",
+      "Глибина: 48 см",
+      "Корпус: Каштан",
+      "Фасад: Прованс темний, патина",
+      "Комплектація: Елементи з висувними шухлядами на направляючих повного висування. Комплектується підсвіткою",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Кількість полиць: 5 шт",
+      "Кількість дверцят: 3 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Бар Лаціо Сатин",
+    "desc": "",
+    "images": ["/static/img/catalogue/bar-lazio-sateen-700x700.jpg"],
+    "price": "19800 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 159,5 см",
+      "Висота: 123 см",
+      "Глибина: 48 см",
+      "Корпус: Сатин",
+      "Фасад: Сатин",
+      "Комплектація: Модель обладнана висувними шухлядами на направляючих повного висування. Комплектується підсвіткою",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Кількість полиць: 5 шт",
+      "Кількість дверцят: 3 шт",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Комод ТВ Лаціо 1.8 Каштан / Прованс темний з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/komod-tv-1.8-latsio-kashtan-provans-temnyy-patyna-700x700.jpeg",
+      "/static/img/catalogue/tv-komod-latsio-kashtan-provans-temnyy-1-700x700.jpeg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-3-700x700.jpg"
+    ],
+    "price": "15046 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 188,5 см",
+      "Висота: 82,5 см",
+      "Глибина: 48 см",
+      "Корпус: Каштан",
+      "Фасад: Прованс темний, патина",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 2 шт",
+      "Кількість дверцят: 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина Лаціо 1Д Сатин",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vitrine-1d-lazio-satin-700x700.jpg",
+      "/static/img/catalogue/17397862053306975-scaled-700x700.jpg"
+    ],
+    "price": "16759 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 84,6 см",
+      "Висота: 223,6 см",
+      "Глибина: 49,5 см",
+      "Корпус: Сатин",
+      "Фасад: Сатин",
+      "Комплектація: Модель комплектується підсвіткою",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина Лаціо ДШ Сатин",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vitrine-dsh-lazio-satin-700x700.jpg",
+      "/static/img/catalogue/shema-vitrina-1dsh-latsio-bilyy-provans-svitlyy-700x700.jpeg"
+    ],
+    "price": "17145 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 84,6 см",
+      "Висота: 223,6 см",
+      "Глибина: 49,5 см",
+      "Корпус: Сатин",
+      "Фасад: Сатин",
+      "Комплектація: Модель комплектується підсвіткою. Елементи з висувними шухлядами на направляючих повного висування",
+      "Кількість шухляд: 1 шт (висувна)",
+      "Кількість полиць: 5 шт",
+      "Кількість дверцят: 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина Лаціо 1Д Каштан / Прованс темний з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vitryna-1d-latsio-kashtan-provans-temnyy-patyna-700x700.jpeg",
+      "/static/img/catalogue/modulna-systema-latsio-kashtan-provans-temnyy-patyna-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/vitrine-1d-lazio-4-700x700.jpg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-4-700x700.jpg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-3-700x700.jpg"
+    ],
+    "price": "16759 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 84,6 см",
+      "Висота: 223,6 см",
+      "Глибина: 49,5 см",
+      "Корпус: Каштан",
+      "Фасад: Прованс темний, патина",
+      "Комплектація: Модель комплектується підсвіткою",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина Лаціо ДШ Каштан / Прованс темний з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vitryna-sh-latsio-kashtan-provans-temnyy-patyna-700x700.jpeg",
+      "/static/img/catalogue/modulna-systema-latsio-kashtan-provans-temnyy-patyna-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-5-700x700.jpg",
+      "/static/img/catalogue/vitrine-dsh-lazio-3-700x700.jpg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-3-700x700.jpg"
+    ],
+    "price": "17145 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 84,6 см",
+      "Висота: 223,6 см",
+      "Глибина: 49,5 см",
+      "Корпус: Каштан",
+      "Фасад: Прованс темний, патина",
+      "Комплектація: Модель комплектується підсвіткою. Елементи з висувними шухлядами на направляючих повного висування",
+      "Кількість шухляд: 1 шт (висувна)",
+      "Кількість полиць: 5 шт",
+      "Кількість дверцят: 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Лілея нова Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-lileya-nova-artvud-antratsyt-700x700.jpeg",
+      "/static/img/catalogue/spalnya-artvud-antratsyt-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lileya-nova-artvud-antratsyt-svit-mebliv-1-700x700.png"
+    ],
+    "price": "1149 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 45,4 см",
+      "Висота: 42,7 см",
+      "Глибина: 40,4 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Лілея нова Дуб гранж колоніальний/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-lileya-nova-dub-hranzh-kolonialnyy-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lileya-nova-dub-hranzh-kolonialnyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lileya-nova-dub-hranzh-kolonialnyy-700x700.png"
+    ],
+    "price": "1149 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 45,4 см",
+      "Висота: 42,7 см",
+      "Глибина: 40,4 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина Ліворно 1Д Білий / Прованс світлий з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vitryna-u-vitalnyu-livorno-1d-korpus-bilyy-fasad-provans-svitlyy-z-patynoyu-700x700.jpg",
+      "/static/img/catalogue/ms-livorno-bilyy-provans-svitlyy-patina-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/ms-livorno-bilyy-provans-svitlyy-patina-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/vitryna-u-vitalnyu-livorno-1d-korpus-bilyy-fasad-provans-svitlyy-z-patynoyu-3-700x700.jpg",
+      "/static/img/catalogue/vitryna-u-vitalnyu-livorno-1d-korpus-bilyy-fasad-provans-svitlyy-z-patynoyu-1-700x700.jpg",
+      "/static/img/catalogue/vitryna-u-vitalnyu-livorno-1d-korpus-bilyy-fasad-provans-svitlyy-z-patynoyu-2-700x700.jpg"
+    ],
+    "price": "18283 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 79 см",
+      "Висота: 237 см",
+      "Глибина: 48 см",
+      "Корпус: Білий",
+      "Фасад: Прованс світлий, патина",
+      "Комплектація: Модель комплектується підсвіткою",
+      "Кількість полиць: 6 шт",
+      "Кількість дверцят: 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина Ліворно 1Д Каштан / Прованс темний з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vitryna-1d-kashtan-livorno-700x700.jpeg",
+      "/static/img/catalogue/ms-livorno-kashtan-provans-temnyy-svit-mebliv-1-700x700.jpg",
+      "/static/img/catalogue/ms-livorno-kashtan-provans-temnyy-svit-mebliv-3-700x700.jpg",
+      "/static/img/catalogue/vitryna-u-vitalnyu-livorno-1d-korpus-dsp-kashtan-1-700x700.jpeg",
+      "/static/img/catalogue/vitryna-u-vitalnyu-livorno-1d-korpus-dsp-kashtan-2-700x700.jpeg",
+      "/static/img/catalogue/vitryna-u-vitalnyu-livorno-1d-korpus-dsp-kashtan-700x700.jpeg",
+      "/static/img/catalogue/ms-livorno-kashtan-prays-700x700.png"
+    ],
+    "price": "18283 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ, Скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 79 см",
+      "Висота: 237 см",
+      "Глибина: 48 см",
+      "Корпус: Каштан",
+      "Фасад: Прованс темний, патина",
+      "Комплектація: Модель комплектується підсвіткою",
+      "Кількість полиць: 6 шт",
+      "Кількість дверцят: 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Марія Дуб борас / Біле золото",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-maria-main-700x700.jpg",
+      "/static/img/catalogue/spalnya-katrin-horikh-patina-700x700.jpeg",
+      "/static/img/catalogue/spalnya-maria-dub-boros-bile-zoloto-700x700.png"
+    ],
+    "price": "1558 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 45,4 см",
+      "Висота: 46,5 см",
+      "Глибина: 40 см",
+      "Корпус: Дуб борас",
+      "Фасад: Біле золото",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Ніколь Білий / Біле дерево, патина",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-nikol-bilyy-bile-derevo-patyna-700x700.jpeg",
+      "/static/img/catalogue/tumba-nikol-bile-derevo-2-700x700.jpeg",
+      "/static/img/catalogue/tumba-nikol-bile-derevo-700x700.png",
+      "/static/img/catalogue/tumba-nikol-bile-derevo-3-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bile-derevo-700x700.png",
+      "/static/img/catalogue/spalnya-nikol-bilyy-bile-derevo-patyna-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bile-derevo-2-700x700.png"
+    ],
+    "price": "1681 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 46 см",
+      "Висота: 52 см",
+      "Глибина: 44 см",
+      "Корпус: Білий",
+      "Фасад: Біле дерево, патина",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Пенал 1Д1В Ешлі Дуб ендгрей/ Бетон темний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17322775968706316-700x700.jpg",
+      "/static/img/catalogue/penal-1d-1v-ashley-4-700x700.jpg",
+      "/static/img/catalogue/penal-1d-1v-ashley-5-700x700.jpg"
+    ],
+    "price": "8327 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 81,5 см",
+      "Висота: 205 см",
+      "Глибина: 37,5 см",
+      "Корпус: Дуб ендгрей необроблений/Бетон темний",
+      "Фасад: Дуб ендгрей необроблений",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Ромбо Артвуд світлий / Білий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-prylizhkova-spalnya-rombo-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/tumba-prylizhkova-spalnya-rombo-svit-mebliv-2-700x700.jpeg",
+      "/static/img/catalogue/-spalnya-rombo-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-rombo-svit-mebliv-1-700x700.png"
+    ],
+    "price": "1399 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 55 см",
+      "Висота: 50 см",
+      "Глибина: 40 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Білий",
+      "Комплектація: Модель обладнана висувними шухлядами на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Б'янко 2Д Скло Білий / Дуб сонома",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/picture-24958-700x700.jpg",
+      "/static/img/catalogue/213128_2019_05_05-18_09_52-700x700.png",
+      "/static/img/catalogue/bianco-shkaf-2sk-white-3-700x700.jpg",
+      "/static/img/catalogue/bianco-shkaf-2sk-white-700x700.jpg",
+      "/static/img/catalogue/bianco-shkaf-2sk-white-2-700x700.jpg",
+      "/static/img/catalogue/bianco-shkaf-2sk-700x700.jpg"
+    ],
+    "price": "6774 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ, скло",
+      "Вставки: ДСП",
+      "Фурнітура: Пластик",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 80,1  см",
+      "Висота: 185 см",
+      "Глибина: 40 см",
+      "Корпус: Білий",
+      "Фасад: Білий, глянець",
+      "Вставки: Дуб сонома",
+      "Ручки: Алюміній",
+      "Комплектація: Модель комплектується підсвіткою",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Соня Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-sonya-antratsyt-artvud-svitlyy-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sonya-artvud-svitlyy-antratsyt-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sona-artwood-antracit-svit-mebliv-700x700.jpg"
+    ],
+    "price": "822 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 40 см",
+      "Висота: 42 см",
+      "Глибина: 40 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Соня Венге магія / Дуб молочний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-sonya-venge-main-700x700.jpg",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-700x700.png"
+    ],
+    "price": "872 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 40 см",
+      "Висота: 42 см",
+      "Глибина: 40 см",
+      "Корпус: Венге магія",
+      "Фасад: Венге магія / Дуб молочний",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Б'янко 2Д Скло Білий / Дуб Сонома",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/fm9kmrmpnzdok3ukrooydurtmahbv7ywsgw4geba-700x700.jpg",
+      "/static/img/catalogue/213127_2019_05_05-18_14_56-700x700.png",
+      "/static/img/catalogue/213126_2019_05_05-18_13_41-700x700.png",
+      "/static/img/catalogue/bianco-tumba-2d-sk-white-700x700.jpg",
+      "/static/img/catalogue/tluc5qgkd00dzbhudlbzxhmsmjbzsv8u40stsely-700x700.png"
+    ],
+    "price": "4640 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ, скло",
+      "Вставки: ДСП",
+      "Фурнітура: Пластик",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 80 см",
+      "Висота: 114 см",
+      "Глибина: 40 см",
+      "Корпус: Білий",
+      "Фасад: Білий, глянець",
+      "Вставки: Дуб сонома",
+      "Ручки: Алюміній",
+      "Комплектація: Модель комплектується підсвіткою",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Б'янко 2ДШ Білий / Дуб сонома",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/byanko_2dh-600x600-700x700.jpg",
+      "/static/img/catalogue/-2023-08-31-182245-700x700.jpg",
+      "/static/img/catalogue/bianco-tumba-2dsh-white-700x700.jpg",
+      "/static/img/catalogue/bianco-tumba-2dsh-700x700.jpg"
+    ],
+    "price": "4143 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Вставки: ДСП",
+      "Фурнітура: Пластик",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 80  см",
+      "Висота: 114 см",
+      "Глибина: 40 см",
+      "Корпус: Білий",
+      "Фасад: Білий, глянець",
+      "Вставки: Дуб сонома",
+      "Ручки: Алюміній",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Кількість шухляд: 1 шт",
+      "Кількість полиць: 2 шт",
+      "Кількість дверцят: 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Фріда Дуб ліворно/Чорний",
+    "desc": "",
+    "images": ["/static/img/catalogue/tumba-frida-livorno-700x700.jpg"],
+    "price": "1438 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 40 см",
+      "Висота: 52,5 см",
+      "Глибина: 42 см",
+      "Корпус: Чорний",
+      "Фасад: Дуб ліворно",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Лотос Дуб гранж колоніальний / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-prylizhkova-lotos-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/spalnya-lotos-dsp-dub-hranzh-antratsyt-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lotos-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lotos-dsp-dub-hranzh-antratsyt-700x700.png"
+    ],
+    "price": "905 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 40 см",
+      "Висота: 51 см",
+      "Глибина: 40,5 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Саванна Дуб крафт сірий/Блакитна лагуна",
+    "desc": "",
+    "images": ["/static/img/catalogue/tumba-savanna-blue-lagoon-700x700.jpg"],
+    "price": "1677 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 35,5 см",
+      "Висота: 72 см",
+      "Глибина: 43 см",
+      "Корпус: Дуб крафт сірий",
+      "Фасад: Блакитна лагуна",
+      "Комплектація: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Саванна Дуб крафт сірий/Льон",
+    "desc": "",
+    "images": ["/static/img/catalogue/dytyacha-savanna-lenin-5-700x700.jpg"],
+    "price": "1677 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 35,5 см",
+      "Висота: 72 см",
+      "Глибина: 43 см",
+      "Корпус: Дуб крафт сірий",
+      "Фасад: Льон",
+      "Комплектація: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "ТВ-тумба Каліста",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/calista-tv-tumba-700x700.jpg",
+      "/static/img/catalogue/1734693100277231-700x700.png"
+    ],
+    "price": "3125 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 190 см",
+      "Висота: 47,8 см",
+      "Глибина: 43,8 см",
+      "Корпус: Дуб Аппалачі / Антрацит",
+      "Фасад: Дуб Аппалачі",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "ТВ-тумба Фріда Дуб ліворно/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tv-tumba-frida-livorno-700x700.jpg",
+      "/static/img/catalogue/17322762067675899-700x700.jpg"
+    ],
+    "price": "5038 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 230 см",
+      "Висота: 53 см",
+      "Глибина: 42 см",
+      "Корпус: Чорний",
+      "Фасад: Дуб ліворно",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "ТВ-тумба Фріда Тоффі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/frida-toffi-2-700x700.jpg",
+      "/static/img/catalogue/17407420402832501-700x700.png"
+    ],
+    "price": "6006 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 230 см",
+      "Висота: 53 см",
+      "Глибина: 42 см",
+      "Корпус: Тоффі",
+      "Фасад: Тоффі",
+      "Ручки: Дуб сонома",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Остін 1",
+    "desc": "",
+    "images": ["/static/img/catalogue/vitalnya-austin-1-main-700x700.jpg"],
+    "price": "8903 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 2600 мм",
+      "Висота: 1835 мм",
+      "Глибина: 420 мм",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний",
+      "Комплектація: Вітрина, ТВ-тумба, полиця, тумба Ск",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Дакота",
+    "desc": "",
+    "images": ["/static/img/catalogue/17397971654947989-700x700.jpg"],
+    "price": "11050 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 244 см",
+      "Висота: 237,5 см",
+      "Глибина: 40 см",
+      "Корпус: Горіх Ніцца",
+      "Фасад: Графіт / Витончений сірий камінь",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Фабіана",
+    "desc": "",
+    "images": ["/static/img/catalogue/vitalnya-fabiana-main-700x700.jpg"],
+    "price": "15750 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Корпус: Венге магія",
+      "Фасад: Дуб сонома",
+      "Комплектація: Шафа для одягу, шафа для білизни, ТВ-тумба, вітрина (надбудова)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Каліста",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/calista-1-700x700.jpg",
+      "/static/img/catalogue/calista-2-700x700.jpg",
+      "/static/img/catalogue/calista-tv-tumba-700x700.jpg",
+      "/static/img/catalogue/calista-stol-700x700.jpg",
+      "/static/img/catalogue/calista-tumba-3dsk-700x700.jpg",
+      "/static/img/catalogue/calista-tumba-navisna-700x700.jpg",
+      "/static/img/catalogue/calista-polka-navisna-700x700.jpg"
+    ],
+    "price": "12272 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 265 см",
+      "Висота: 203 см",
+      "Глибина: 44 см",
+      "Корпус: Дуб Аппалачі / Антрацит",
+      "Фасад: Дуб Аппалачі",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Лора 2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/1732281721210830-700x700.png",
+      "/static/img/catalogue/17322817308258529-700x700.png",
+      "/static/img/catalogue/17346944293267829-700x700.png"
+    ],
+    "price": "8941 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 240 см",
+      "Висота: 202,4 см",
+      "Глибина: 45 см",
+      "Корпус: Дуб Ліворно / Тоффі",
+      "Фасад: Дуб Ліворно / Тоффі",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Мадера",
+    "desc": "",
+    "images": ["/static/img/catalogue/vitalnya-madera-main-700x700.jpg"],
+    "price": "8286 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 227 см",
+      "Висота: 189 см",
+      "Глибина: 45,5 см",
+      "Корпус: Венге магія",
+      "Фасад: Дуб молочний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Орландо 1",
+    "desc": "",
+    "images": ["/static/img/catalogue/vitalnya-orlando-1-main-700x700.jpg"],
+    "price": "2994 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Корпус: Дуб артизан / Німфеа Альба",
+      "Фасад: Німфеа Альба",
+      "Комплектація: Полиці, ТВ-тумба",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Оскар",
+    "desc": "",
+    "images": ["/static/img/catalogue/vitalnya-oscar-main-700x700.jpg"],
+    "price": "17319 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 360 см",
+      "Висота: 206 см",
+      "Глибина: 52 см",
+      "Корпус: Венге магія",
+      "Фасад: Дуб молочний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальня Токіо",
+    "desc": "",
+    "images": ["/static/img/catalogue/vitalnya-tokyo-main-700x700.jpg"],
+    "price": "12758 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Корпус: Німфеа Альба",
+      "Фасад: Білий, глянець",
+      "Комплектація: ТВ-тумба, тумба 1Д, тумба 1Д Ск, тумба 2Д Ск, полиця",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина навісна Зара",
+    "desc": "",
+    "images": ["/static/img/catalogue/vitrina-zara-700x700.jpg"],
+    "price": "2543 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 42,5 см",
+      "Висота: 115 см",
+      "Глибина: 37 см",
+      "Накладки: Шовкографія",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Комплектація: Дверцята зі смужками обладнані системою Push to open",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "ТВ Тумба Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tv-tumba-vivaldi-700x700.jpeg",
+      "/static/img/catalogue/modulnaya-systema-vivaldi-prais-700x700.jpg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-vivaldi-svit-mebliv-700x700.jpeg"
+    ],
+    "price": "12191 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 163 см",
+      "Висота: 56 см",
+      "Глибина: 52 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Комплектація: Тумба обладнана висувним ящиком на направляючих повного висування",
+      "Кількість шухляд: 1 шт (висувних)",
+      "Кількість дверцят: 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-vivaldi-main-700x700.jpg",
+      "/static/img/catalogue/vitryna-tumba-modulnaya-systema-vivaldy-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-vivaldi-svit-mebliv-2-700x700.jpeg",
+      "/static/img/catalogue/tumba-vivaldi-2-700x700.jpg",
+      "/static/img/catalogue/modulnaya-systema-vivaldi-prais-700x700.jpg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/tumba-vivaldi-700x700.jpg"
+    ],
+    "price": "16560 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 168,5 см",
+      "Висота: 85 см",
+      "Глибина: 50,5 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Комплектація: Тумба обладнана висувним ящиком на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітальная Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": ["/static/img/catalogue/vitalna-vivaldi-2-700x700.jpg"],
+    "price": "47512 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, скло",
+      "Товщина ДСП: 1,6 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Комплектація: Висувні шухляди на направляючих повного висування, підсвітка",
+      "Кількість елементів: 3 одиниці",
+      "Перелік елементів: ТВ Тумба , вітрина 1Д - 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина Вівальді 1Д  Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vitryna-1d-vivaldi-700x700.jpeg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/vitryna-tumba-modulnaya-systema-vivaldy-700x700.jpg",
+      "/static/img/catalogue/vytryna-ms-vivaldy-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-vivaldi-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/modulnaya-systema-vivaldi-prais-700x700.jpg"
+    ],
+    "price": "18849 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 74 см",
+      "Висота: 218 см",
+      "Глибина: 52 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Комплектація: Модель комплектується підсвіткою",
+      "Кількість полиць: 4 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вітрина на тумбу Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vitrina-na-tumbu-vivaldi-golovna-700x700.jpg",
+      "/static/img/catalogue/vitrina-na-tumbu-vivaldi-10-700x700.jpg",
+      "/static/img/catalogue/vitrina-na-tumbu-vivaldi-4-700x700.jpg",
+      "/static/img/catalogue/vitryna-na-tumbu-vivaldi-1-700x700.jpg",
+      "/static/img/catalogue/modulnaya-systema-vivaldi-prais-700x700.jpg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/vitrina-na-tumbu-vivaldi-shema-700x700.jpg"
+    ],
+    "price": "21398 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 168 см",
+      "Висота: 138 см",
+      "Глибина: 52 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Комплектація: Підсвітка",
+      "Кількість полиць: 9 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Вівіан Артвуд світлий / Індастріал",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-spalnya-vivian-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-vivian-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/spalnya-vivian-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-vivian-svit-mebliv-4-700x700.png",
+      "/static/img/catalogue/spalnya-vivian-svit-mebliv-2-700x700.png"
+    ],
+    "price": "1508 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 55 см",
+      "Висота: 50 см",
+      "Глибина: 40 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Індастріал",
+      "Комплектація: Модель обладнана висувними шухлядами на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба 3Д Зара",
+    "desc": "",
+    "images": ["/static/img/catalogue/zara-comod-3d-700x700.jpg"],
+    "price": "3927 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 135 см",
+      "Висота: 83 см",
+      "Глибина: 42 см",
+      "Накладки: Шовкографія",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування. Дверцята зі смужками обладнані системою Push to open.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба 3Д3Ш Зара",
+    "desc": "",
+    "images": ["/static/img/catalogue/zara-tumba-3d3s-700x700.jpg"],
+    "price": "6157 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 83 см",
+      "Глибина: 42 см",
+      "Накладки: Шовкографія",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування. Дверцята зі смужками обладнані системою Push to open.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба 4Д Зара",
+    "desc": "",
+    "images": ["/static/img/catalogue/zara-tumba-4d-700x700.jpg"],
+    "price": "5198 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 83 см",
+      "Глибина: 42 см",
+      "Накладки: Шовкографія",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування. Дверцята зі смужками обладнані системою Push to open.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "ТВ-тумба Зара 1.8",
+    "desc": "",
+    "images": ["/static/img/catalogue/zara-tv-tumba-1.8-700x700.jpg"],
+    "price": "3013 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 42,5 см",
+      "Глибина: 42 см",
+      "Накладки: Шовкографія",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування. Дверцята зі смужками обладнані системою Push to open.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "ТВ-тумба Зара 2.3",
+    "desc": "",
+    "images": ["/static/img/catalogue/zara-tv-tumba-2.3-700x700.jpg"],
+    "price": "4020 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 230 см",
+      "Висота: 42,5 см",
+      "Глибина: 42 см",
+      "Накладки: Шовкографія",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування. Дверцята зі смужками обладнані системою Push to open.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Жасмін Білий / Білий, лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-jasmin-main-700x700.jpg",
+      "/static/img/catalogue/spalnya-zhasmin-bilyy-lak-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/tumba-zhasmin-skhema-venetsiya-nova-pino-bezh-1-700x700.jpeg",
+      "/static/img/catalogue/tumba-zhasmin-skhema-venetsiya-nova-pino-bezh-700x700.jpeg",
+      "/static/img/catalogue/jasmin-svit-mebliv-2-700x700.png"
+    ],
+    "price": "1539 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Довжина: 50 см",
+      "Висота: 47 см",
+      "Глибина: 43 см",
+      "Корпус: Білий",
+      "Фасад: Білий, лак, художній друк",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 1 шт (висувна)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

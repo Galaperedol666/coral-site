@@ -1,0 +1,2374 @@
+[
+  {
+    "name": "Кухонний куточок Туніс",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b268.jpg",
+      "/static/img/catalogue/bg5631.jpg",
+      "/static/img/catalogue/bg2430.jpg",
+      "/static/img/catalogue/bg1712.jpg",
+      "/static/img/catalogue/bg1713.jpg",
+      "/static/img/catalogue/bg1714.jpg",
+      "/static/img/catalogue/bg1715.jpg",
+      "/static/img/catalogue/bg1716.jpg",
+      "/static/img/catalogue/bg1717.jpg"
+    ],
+    "price": "5127 грн",
+    "specs": [
+      "висота, мм: 820",
+      "ширина, мм: 1500",
+      "глибина, мм: 1200",
+      "вага, кг: 24,6",
+      "колір ДСП: Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 870х725х90",
+      "размер упаковки ч.2, мм: 1030х485х80",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Софія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b269.jpg",
+      "/static/img/catalogue/bg5632.jpg",
+      "/static/img/catalogue/bg2431.jpg",
+      "/static/img/catalogue/bg1718.jpg",
+      "/static/img/catalogue/bg1719.jpg",
+      "/static/img/catalogue/bg1720.jpg",
+      "/static/img/catalogue/bg1721.jpg",
+      "/static/img/catalogue/bg1722.jpg",
+      "/static/img/catalogue/bg1723.jpg"
+    ],
+    "price": "3987 грн",
+    "specs": [
+      "висота, мм: 800",
+      "ширина, мм: 1500",
+      "глибина, мм: 1100",
+      "вага, кг: 28,4",
+      "колір ДСП: Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1345х630х65",
+      "размер упаковки ч.2, мм: 1000х402х132",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Сирія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b270.jpg",
+      "/static/img/catalogue/bg5633.jpg",
+      "/static/img/catalogue/bg2432.jpg",
+      "/static/img/catalogue/bg1724.jpg",
+      "/static/img/catalogue/bg1725.jpg",
+      "/static/img/catalogue/bg1726.jpg",
+      "/static/img/catalogue/bg1727.jpg",
+      "/static/img/catalogue/bg1728.jpg",
+      "/static/img/catalogue/bg1729.jpg",
+      "/static/img/catalogue/bg1730.jpg"
+    ],
+    "price": "4052 грн",
+    "specs": [
+      "висота, мм: 870",
+      "ширина, мм: 1512",
+      "глибина, мм: 1112",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 900х620х85",
+      "вага, кг: 23,6",
+      "размер упаковки ч.2, мм: 875х475х140",
+      "вага, кг: 12",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Канада",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b271.jpg",
+      "/static/img/catalogue/bg5634.jpg",
+      "/static/img/catalogue/bg2433.jpg",
+      "/static/img/catalogue/bg1731.jpg",
+      "/static/img/catalogue/bg1732.jpg",
+      "/static/img/catalogue/bg1733.jpg",
+      "/static/img/catalogue/bg1734.jpg",
+      "/static/img/catalogue/bg1735.jpg",
+      "/static/img/catalogue/bg1736.jpg",
+      "/static/img/catalogue/bg1737.jpg"
+    ],
+    "price": "4920 грн",
+    "specs": [
+      "висота, мм: 820",
+      "ширина, мм: 1612",
+      "глибина, мм: 1212",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 980х610х69",
+      "вага, кг: 19,4",
+      "размер упаковки ч.2, мм: 1150х440х145",
+      "вага, кг: 16",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Данія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b272.jpg",
+      "/static/img/catalogue/bg5635.jpg",
+      "/static/img/catalogue/bg2703.jpg",
+      "/static/img/catalogue/bg2705.jpg",
+      "/static/img/catalogue/bg2706.jpg",
+      "/static/img/catalogue/bg2702.jpg",
+      "/static/img/catalogue/bg2704.jpg",
+      "/static/img/catalogue/bg2707.jpg"
+    ],
+    "price": "4065 грн",
+    "specs": [
+      "висота, мм: 820",
+      "ширина, мм: 1500",
+      "глибина, мм: 1100",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 970х660х70",
+      "вага, кг: 21,21",
+      "размер упаковки ч.2, мм: 965х375х140",
+      "вага, кг: 12,4",
+      "размер упаковки ч.3, мм: 490х480х360",
+      "вага, кг: 5,5",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Мальта",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b273.jpg",
+      "/static/img/catalogue/bg5636.jpg",
+      "/static/img/catalogue/bg2435.jpg",
+      "/static/img/catalogue/bg1745.jpg",
+      "/static/img/catalogue/bg1746.jpg",
+      "/static/img/catalogue/bg1747.jpg",
+      "/static/img/catalogue/bg1748.jpg",
+      "/static/img/catalogue/bg1749.jpg",
+      "/static/img/catalogue/bg1750.jpg",
+      "/static/img/catalogue/bg1751.jpg"
+    ],
+    "price": "3182 грн",
+    "specs": [
+      "висота, мм: 820",
+      "ширина, мм: 1512",
+      "глибина, мм: 1112",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 880х625х52",
+      "вага, кг: 14",
+      "размер упаковки ч.2, мм: 890х475х105",
+      "вага, кг: 11,6",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Італія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b274.jpg",
+      "/static/img/catalogue/bg5637.jpg",
+      "/static/img/catalogue/bg2436.jpg",
+      "/static/img/catalogue/bg1752.jpg",
+      "/static/img/catalogue/bg1753.jpg",
+      "/static/img/catalogue/bg1754.jpg",
+      "/static/img/catalogue/bg1755.jpg",
+      "/static/img/catalogue/bg1756.jpg",
+      "/static/img/catalogue/bg1757.jpg",
+      "/static/img/catalogue/bg1758.jpg"
+    ],
+    "price": "3940 грн",
+    "specs": [
+      "висота, мм: 795",
+      "ширина, мм: 1612",
+      "глибина, мм: 1212",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 980х655х65",
+      "вага, кг: 19,2",
+      "размер упаковки ч.2, мм: 1260х440х180",
+      "вага, кг: 14,6",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Аргентина",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b275.jpg",
+      "/static/img/catalogue/bg5638.jpg",
+      "/static/img/catalogue/bg2437.jpg",
+      "/static/img/catalogue/bg1759.jpg",
+      "/static/img/catalogue/bg1760.jpg",
+      "/static/img/catalogue/bg1761.jpg",
+      "/static/img/catalogue/bg1762.jpg",
+      "/static/img/catalogue/bg1763.jpg",
+      "/static/img/catalogue/bg1764.jpg",
+      "/static/img/catalogue/bg1765.jpg"
+    ],
+    "price": "6607 грн",
+    "specs": [
+      "висота, мм: 798",
+      "ширина, мм: 1678",
+      "глибина, мм: 1280",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1060х750х73",
+      "вага, кг: 27",
+      "размер упаковки ч.2, мм: 1260х440х180",
+      "вага, кг: 19,5",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Дакар",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b276.jpg",
+      "/static/img/catalogue/bg5639.jpg",
+      "/static/img/catalogue/bg2438.jpg",
+      "/static/img/catalogue/bg1766.jpg",
+      "/static/img/catalogue/bg1767.jpg",
+      "/static/img/catalogue/bg1768.jpg",
+      "/static/img/catalogue/bg1769.jpg",
+      "/static/img/catalogue/bg1770.jpg",
+      "/static/img/catalogue/bg1771.jpg",
+      "/static/img/catalogue/bg1772.jpg"
+    ],
+    "price": "3592 грн",
+    "specs": [
+      "висота, мм: 880",
+      "ширина, мм: 1500",
+      "глибина, мм: 1100",
+      "вага, кг: 10,8",
+      "розмір упаковки, мм: 988х430х135",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Еквадор",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b277.jpg",
+      "/static/img/catalogue/bg5640.jpg",
+      "/static/img/catalogue/bg2439.jpg",
+      "/static/img/catalogue/bg1773.jpg",
+      "/static/img/catalogue/bg1774.jpg",
+      "/static/img/catalogue/bg1775.jpg",
+      "/static/img/catalogue/bg1776.jpg",
+      "/static/img/catalogue/bg1777.jpg",
+      "/static/img/catalogue/bg1778.jpg",
+      "/static/img/catalogue/bg1779.jpg"
+    ],
+    "price": "4254 грн",
+    "specs": [
+      "висота, мм: 800",
+      "ширина, мм: 1200",
+      "глибина, мм: 1200",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 820х645х68",
+      "вага, кг: 18,6",
+      "размер упаковки ч.2, мм: 690х568х115",
+      "вага, кг: 10,4",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Марсель",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b278.jpg",
+      "/static/img/catalogue/bg5641.jpg",
+      "/static/img/catalogue/bg2440.jpg",
+      "/static/img/catalogue/bg1780.jpg",
+      "/static/img/catalogue/bg1781.jpg",
+      "/static/img/catalogue/bg1782.jpg",
+      "/static/img/catalogue/bg1783.jpg",
+      "/static/img/catalogue/bg1784.jpg",
+      "/static/img/catalogue/bg1785.jpg",
+      "/static/img/catalogue/bg1786.jpg"
+    ],
+    "price": "4961 грн",
+    "specs": [
+      "висота, мм: 820",
+      "ширина, мм: 1500",
+      "глибина, мм: 1200",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 870х735х100",
+      "вага, кг: 30,5",
+      "размер упаковки ч.2, мм: 1010х470х84",
+      "вага, кг: 9",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Родос",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b279.jpg",
+      "/static/img/catalogue/bg5642.jpg",
+      "/static/img/catalogue/bg2441.jpg",
+      "/static/img/catalogue/bg1787.jpg",
+      "/static/img/catalogue/bg1788.jpg",
+      "/static/img/catalogue/bg1789.jpg",
+      "/static/img/catalogue/bg1790.jpg",
+      "/static/img/catalogue/bg1791.jpg",
+      "/static/img/catalogue/bg1792.jpg",
+      "/static/img/catalogue/bg1793.jpg"
+    ],
+    "price": "3767 грн",
+    "specs": [
+      "висота, мм: 845",
+      "ширина, мм: 1500",
+      "глибина, мм: 1100",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 968х636х70",
+      "вага, кг: 22,5",
+      "размер упаковки ч.2, мм: 967х370х160",
+      "вага, кг: 12",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Корсика",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b280.jpg",
+      "/static/img/catalogue/bg5643.jpg",
+      "/static/img/catalogue/bg2442.jpg",
+      "/static/img/catalogue/bg1794.jpg",
+      "/static/img/catalogue/bg1795.jpg",
+      "/static/img/catalogue/bg1796.jpg",
+      "/static/img/catalogue/bg1797.jpg",
+      "/static/img/catalogue/bg1798.jpg",
+      "/static/img/catalogue/bg1799.jpg",
+      "/static/img/catalogue/bg1800.jpg",
+      "/static/img/catalogue/bg1937.jpg"
+    ],
+    "price": "4533 грн",
+    "specs": [
+      "висота, мм: 833",
+      "ширина, мм: 1600",
+      "глибина, мм: 1200",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 970х655х68",
+      "вага, кг: 21,3",
+      "размер упаковки ч.2, мм: 1132х410х145",
+      "вага, кг: 14,2",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний куточок Кіпр",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b281.jpg",
+      "/static/img/catalogue/bg5644.jpg",
+      "/static/img/catalogue/bg2443.jpg",
+      "/static/img/catalogue/bg1801.jpg",
+      "/static/img/catalogue/bg1802.jpg",
+      "/static/img/catalogue/bg1803.jpg",
+      "/static/img/catalogue/bg1804.jpg",
+      "/static/img/catalogue/bg1805.jpg",
+      "/static/img/catalogue/bg1806.jpg",
+      "/static/img/catalogue/bg1936.jpg"
+    ],
+    "price": "3867 грн",
+    "specs": [
+      "ширина, мм: 1512",
+      "глибина, мм: 1112",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 880х643х65",
+      "вага, кг: 18",
+      "размер упаковки ч.2, мм: 883х475х140",
+      "вага, кг: 12,8",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Табурет-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b282.jpg",
+      "/static/img/catalogue/bg5403.jpg",
+      "/static/img/catalogue/bg2405.jpg",
+      "/static/img/catalogue/bg1807.jpg",
+      "/static/img/catalogue/bg1808.jpg",
+      "/static/img/catalogue/bg1809.jpg",
+      "/static/img/catalogue/bg1810.jpg",
+      "/static/img/catalogue/bg1811.jpg",
+      "/static/img/catalogue/bg1812.jpg",
+      "/static/img/catalogue/bg1813.jpg"
+    ],
+    "price": "814 грн",
+    "specs": [
+      "висота, мм: 420",
+      "ширина, мм: 360",
+      "глибина, мм: 330",
+      "вага, кг: 5,2",
+      "розмір упаковки, мм: 410х330х110",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Табурет-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b283.jpg",
+      "/static/img/catalogue/bg5402.jpg",
+      "/static/img/catalogue/bg2406.jpg",
+      "/static/img/catalogue/bg1814.jpg",
+      "/static/img/catalogue/bg1815.jpg",
+      "/static/img/catalogue/bg1816.jpg",
+      "/static/img/catalogue/bg1817.jpg",
+      "/static/img/catalogue/bg1818.jpg",
+      "/static/img/catalogue/bg1819.jpg",
+      "/static/img/catalogue/bg1820.jpg",
+      "/static/img/catalogue/bg1821.jpg"
+    ],
+    "price": "486 грн",
+    "specs": [
+      "висота, мм: 420",
+      "ширина, мм: 360",
+      "глибина, мм: 290",
+      "вага, кг: 3,4",
+      "розмір упаковки, мм: 410х305х90",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Табурет-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b284.jpg",
+      "/static/img/catalogue/bg5401.jpg",
+      "/static/img/catalogue/bg2407.jpg",
+      "/static/img/catalogue/bg1822.jpg",
+      "/static/img/catalogue/bg1823.jpg",
+      "/static/img/catalogue/bg1824.jpg",
+      "/static/img/catalogue/bg1825.jpg",
+      "/static/img/catalogue/bg1826.jpg",
+      "/static/img/catalogue/bg1827.jpg",
+      "/static/img/catalogue/bg1828.jpg",
+      "/static/img/catalogue/bg1829.jpg"
+    ],
+    "price": "486 грн",
+    "specs": [
+      "висота, мм: 420",
+      "ширина, мм: 360",
+      "глибина, мм: 290",
+      "вага, кг: 3,4",
+      "розмір упаковки, мм: 410х305х90",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b285.jpg",
+      "/static/img/catalogue/bg5346.jpg",
+      "/static/img/catalogue/bg2385.jpg",
+      "/static/img/catalogue/bg4966.jpg",
+      "/static/img/catalogue/bg1830.jpg",
+      "/static/img/catalogue/bg1832.jpg",
+      "/static/img/catalogue/bg1831.jpg",
+      "/static/img/catalogue/bg1833.jpg",
+      "/static/img/catalogue/bg1834.jpg",
+      "/static/img/catalogue/bg1835.jpg",
+      "/static/img/catalogue/bg1836.jpg"
+    ],
+    "price": "1730 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 600",
+      "глибина, мм: 1000",
+      "вага, кг: 17",
+      "розмір упаковки, мм: 1000х600х48",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b286.jpg",
+      "/static/img/catalogue/bg5343.jpg",
+      "/static/img/catalogue/bg2386.jpg",
+      "/static/img/catalogue/bg4967.jpg",
+      "/static/img/catalogue/bg1837.jpg",
+      "/static/img/catalogue/bg1838.jpg",
+      "/static/img/catalogue/bg1839.jpg",
+      "/static/img/catalogue/bg1840.jpg",
+      "/static/img/catalogue/bg1841.jpg",
+      "/static/img/catalogue/bg1842.jpg",
+      "/static/img/catalogue/bg1843.jpg"
+    ],
+    "price": "1821 грн",
+    "specs": [
+      "висота, мм: 732",
+      "ширина, мм: 900",
+      "глибина, мм: 590",
+      "в розкладеному вигляді, мм: ширина-1180,высота-716,глубина-590",
+      "вага, кг: 22,6",
+      "розмір упаковки, мм: 900х590х85",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b287.jpg",
+      "/static/img/catalogue/bg5342.jpg",
+      "/static/img/catalogue/bg2387.jpg",
+      "/static/img/catalogue/bg4968.jpg",
+      "/static/img/catalogue/bg1844.jpg",
+      "/static/img/catalogue/bg1845.jpg",
+      "/static/img/catalogue/bg1846.jpg",
+      "/static/img/catalogue/bg1847.jpg",
+      "/static/img/catalogue/bg1848.jpg",
+      "/static/img/catalogue/bg1849.jpg",
+      "/static/img/catalogue/bg1850.jpg"
+    ],
+    "price": "1390 грн",
+    "specs": [
+      "висота, мм: 732",
+      "ширина, мм: 900",
+      "глибина, мм: 600",
+      "вага, кг: 15,9",
+      "розмір упаковки, мм: 1000х600х85",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b288.jpg",
+      "/static/img/catalogue/bg5338.jpg",
+      "/static/img/catalogue/bg2388.jpg",
+      "/static/img/catalogue/bg4969.jpg",
+      "/static/img/catalogue/bg1851.jpg",
+      "/static/img/catalogue/bg1852.jpg",
+      "/static/img/catalogue/bg1853.jpg",
+      "/static/img/catalogue/bg1854.jpg",
+      "/static/img/catalogue/bg1855.jpg",
+      "/static/img/catalogue/bg1856.jpg",
+      "/static/img/catalogue/bg1857.jpg"
+    ],
+    "price": "1413 грн",
+    "specs": [
+      "висота, мм: 716",
+      "ширина, мм: 900",
+      "глибина, мм: 598",
+      "вага, кг: 15,4",
+      "розмір упаковки, мм: 905х600х50",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b289.jpg",
+      "/static/img/catalogue/bg5344.jpg",
+      "/static/img/catalogue/bg2389.jpg",
+      "/static/img/catalogue/bg1858.jpg",
+      "/static/img/catalogue/bg1859.jpg",
+      "/static/img/catalogue/bg1860.jpg",
+      "/static/img/catalogue/bg1861.jpg",
+      "/static/img/catalogue/bg1862.jpg",
+      "/static/img/catalogue/bg1863.jpg"
+    ],
+    "price": "2372 грн",
+    "specs": [
+      "висота, мм: 732",
+      "ширина, мм: 590",
+      "глибина, мм: 900",
+      "вага, кг: 26",
+      "розмір упаковки, мм: 910х588х97",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП",
+      "в развернутому вигляді, мм: ширина-900, высота-716, глубина-1180"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b290.jpg",
+      "/static/img/catalogue/bg5345.jpg",
+      "/static/img/catalogue/bg2390.jpg",
+      "/static/img/catalogue/bg4970.jpg",
+      "/static/img/catalogue/bg1864.jpg",
+      "/static/img/catalogue/bg1865.jpg",
+      "/static/img/catalogue/bg1866.jpg",
+      "/static/img/catalogue/bg1867.jpg",
+      "/static/img/catalogue/bg1868.jpg",
+      "/static/img/catalogue/bg1869.jpg",
+      "/static/img/catalogue/bg1870.jpg"
+    ],
+    "price": "2759 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 700",
+      "глибина, мм: 1200",
+      "в розкладеному вигляді, мм: 1640",
+      "вага, кг: 24,2",
+      "розмір упаковки, мм: 762х700х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Комплект с уголком Аравия Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m382.jpg"],
+    "price": "7445 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Аргентина Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m383.jpg"],
+    "price": "9693 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Дакар Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m384.jpg"],
+    "price": "6790 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Италия Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m385.jpg"],
+    "price": "6257 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Канада Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m386.jpg"],
+    "price": "7074 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Кипр Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m387.jpg"],
+    "price": "7104 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Мальта Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m389.jpg"],
+    "price": "6137 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Марсель Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m390.jpg"],
+    "price": "7996 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Родос Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m391.jpg"],
+    "price": "5295 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Сирия Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m392.jpg"],
+    "price": "7726 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с уголком Эквадор Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m393.jpg"],
+    "price": "10591 грн",
+    "specs": []
+  },
+  {
+    "name": "Табурет-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b464.jpg",
+      "/static/img/catalogue/bg5404.jpg",
+      "/static/img/catalogue/bg2492.jpg",
+      "/static/img/catalogue/bg2488.jpg",
+      "/static/img/catalogue/bg2489.jpg",
+      "/static/img/catalogue/bg2494.jpg",
+      "/static/img/catalogue/bg2491.jpg",
+      "/static/img/catalogue/bg2493.jpg",
+      "/static/img/catalogue/bg2490.jpg"
+    ],
+    "price": "555 грн",
+    "specs": [
+      "висота, мм: 414",
+      "ширина, мм: 320",
+      "глибина, мм: 290",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Табурет-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b465.jpg",
+      "/static/img/catalogue/bg5405.jpg",
+      "/static/img/catalogue/bg2500.jpg",
+      "/static/img/catalogue/bg2499.jpg",
+      "/static/img/catalogue/bg2495.jpg",
+      "/static/img/catalogue/bg2496.jpg",
+      "/static/img/catalogue/bg2497.jpg",
+      "/static/img/catalogue/bg2501.jpg",
+      "/static/img/catalogue/bg2498.jpg"
+    ],
+    "price": "568 грн",
+    "specs": [
+      "висота, мм: 414",
+      "ширина, мм: 360",
+      "глибина, мм: 290",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Табурет-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b466.jpg",
+      "/static/img/catalogue/bg5406.jpg",
+      "/static/img/catalogue/bg2502.jpg",
+      "/static/img/catalogue/bg2503.jpg",
+      "/static/img/catalogue/bg2508.jpg",
+      "/static/img/catalogue/bg2506.jpg",
+      "/static/img/catalogue/bg2507.jpg",
+      "/static/img/catalogue/bg2504.jpg",
+      "/static/img/catalogue/bg2505.jpg"
+    ],
+    "price": "770 грн",
+    "specs": [
+      "висота, мм: 414",
+      "ширина, мм: 360",
+      "глибина, мм: 330",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Табурет-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b467.jpg",
+      "/static/img/catalogue/bg5407.jpg",
+      "/static/img/catalogue/bg2512.jpg",
+      "/static/img/catalogue/bg2513.jpg",
+      "/static/img/catalogue/bg2515.jpg",
+      "/static/img/catalogue/bg2514.jpg",
+      "/static/img/catalogue/bg2509.jpg",
+      "/static/img/catalogue/bg2510.jpg",
+      "/static/img/catalogue/bg2511.jpg"
+    ],
+    "price": "837 грн",
+    "specs": [
+      "висота, мм: 430",
+      "ширина, мм: 500",
+      "глибина, мм: 330",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Табурет-8",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b468.jpg",
+      "/static/img/catalogue/bg5408.jpg",
+      "/static/img/catalogue/bg2516.jpg",
+      "/static/img/catalogue/bg2517.jpg",
+      "/static/img/catalogue/bg2518.jpg",
+      "/static/img/catalogue/bg2521.jpg",
+      "/static/img/catalogue/bg2520.jpg",
+      "/static/img/catalogue/bg2522.jpg",
+      "/static/img/catalogue/bg2519.jpg"
+    ],
+    "price": "1171 грн",
+    "specs": [
+      "висота, мм: 430",
+      "ширина, мм: 1000",
+      "глибина, мм: 330",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП",
+      "обивочний матеріал: ткань и кожзаменитель",
+      "колір обивочного матеріалу: Бостон Браун, Бостон Голд, Бостон Грэй, Бостон Шоколад, Коса Коричевая,Бордо, Бронза,Рыжий, Серый, Слоновая кость."
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b469.jpg",
+      "/static/img/catalogue/bg5347.jpg",
+      "/static/img/catalogue/bg2681.jpg",
+      "/static/img/catalogue/bg2682.jpg",
+      "/static/img/catalogue/bg2684.jpg",
+      "/static/img/catalogue/bg2686.jpg",
+      "/static/img/catalogue/bg2687.jpg",
+      "/static/img/catalogue/bg2683.jpg",
+      "/static/img/catalogue/bg2685.jpg",
+      "/static/img/catalogue/bg4971.jpg"
+    ],
+    "price": "1160 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 700",
+      "глибина, мм: 700",
+      "вага, кг: 16",
+      "розмір упаковки, мм: 762х700х80",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-8",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b470.jpg",
+      "/static/img/catalogue/bg5348.jpg",
+      "/static/img/catalogue/bg2688.jpg",
+      "/static/img/catalogue/bg2693.jpg",
+      "/static/img/catalogue/bg2689.jpg",
+      "/static/img/catalogue/bg2692.jpg",
+      "/static/img/catalogue/bg2690.jpg",
+      "/static/img/catalogue/bg2694.jpg",
+      "/static/img/catalogue/bg2691.jpg",
+      "/static/img/catalogue/bg4972.jpg"
+    ],
+    "price": "2274 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 700",
+      "глибина, мм: 1400",
+      "вага, кг: 27,8",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b471.jpg",
+      "/static/img/catalogue/bg5349.jpg",
+      "/static/img/catalogue/bg2695.jpg",
+      "/static/img/catalogue/bg2700.jpg",
+      "/static/img/catalogue/bg2696.jpg",
+      "/static/img/catalogue/bg2701.jpg",
+      "/static/img/catalogue/bg2699.jpg",
+      "/static/img/catalogue/bg2698.jpg",
+      "/static/img/catalogue/bg2697.jpg",
+      "/static/img/catalogue/bg4973.jpg"
+    ],
+    "price": "1933 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 550",
+      "глибина, мм: 900",
+      "вага, кг: 11",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-10",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b526.jpg",
+      "/static/img/catalogue/bg5339.jpg",
+      "/static/img/catalogue/bg3804.jpg",
+      "/static/img/catalogue/bg3803.jpg",
+      "/static/img/catalogue/bg3807.jpg",
+      "/static/img/catalogue/bg3809.jpg",
+      "/static/img/catalogue/bg3806.jpg",
+      "/static/img/catalogue/bg3808.jpg",
+      "/static/img/catalogue/bg3805.jpg",
+      "/static/img/catalogue/bg4974.jpg"
+    ],
+    "price": "1523 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 1100",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: Ламинированное ДСП/Столешница торцована кромкой АВС - 2 мм"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-11",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b527.jpg",
+      "/static/img/catalogue/bg5340.jpg",
+      "/static/img/catalogue/bg3810.jpg",
+      "/static/img/catalogue/bg3814.jpg",
+      "/static/img/catalogue/bg3811.jpg",
+      "/static/img/catalogue/bg3813.jpg",
+      "/static/img/catalogue/bg3812.jpg",
+      "/static/img/catalogue/bg3815.jpg",
+      "/static/img/catalogue/bg3816.jpg",
+      "/static/img/catalogue/bg4975.jpg"
+    ],
+    "price": "1446 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 1100",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: Ламинированное ДСП/Столешница торцована кромкой АВС - 2 мм"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-12",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b528.jpg",
+      "/static/img/catalogue/bg5341.jpg",
+      "/static/img/catalogue/bg3817.jpg",
+      "/static/img/catalogue/bg3823.jpg",
+      "/static/img/catalogue/bg3821.jpg",
+      "/static/img/catalogue/bg3818.jpg",
+      "/static/img/catalogue/bg3819.jpg",
+      "/static/img/catalogue/bg3822.jpg",
+      "/static/img/catalogue/bg3820.jpg",
+      "/static/img/catalogue/bg4976.jpg"
+    ],
+    "price": "1665 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 1100",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: Ламинированное ДСП/Столешница торцована кромкой АВС - 2 мм"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b529.jpg",
+      "/static/img/catalogue/bg5399.jpg",
+      "/static/img/catalogue/bg3824.jpg",
+      "/static/img/catalogue/bg3825.jpg",
+      "/static/img/catalogue/bg4913.jpg",
+      "/static/img/catalogue/bg3827.jpg",
+      "/static/img/catalogue/bg3830.jpg",
+      "/static/img/catalogue/bg3828.jpg",
+      "/static/img/catalogue/bg3826.jpg",
+      "/static/img/catalogue/bg3829.jpg"
+    ],
+    "price": "1829 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 600",
+      "глибина, мм: 252/1520",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-8",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b530.jpg",
+      "/static/img/catalogue/bg5400.jpg",
+      "/static/img/catalogue/bg3837.jpg",
+      "/static/img/catalogue/bg3831.jpg",
+      "/static/img/catalogue/bg4914.jpg",
+      "/static/img/catalogue/bg3835.jpg",
+      "/static/img/catalogue/bg3832.jpg",
+      "/static/img/catalogue/bg3833.jpg",
+      "/static/img/catalogue/bg3834.jpg",
+      "/static/img/catalogue/bg3836.jpg"
+    ],
+    "price": "1741 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 600",
+      "глибина, мм: 932/1622",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Табурет-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b745.jpg",
+      "/static/img/catalogue/bg5991.jpg",
+      "/static/img/catalogue/bg5992.jpg",
+      "/static/img/catalogue/bg5999.jpg",
+      "/static/img/catalogue/bg5993.jpg",
+      "/static/img/catalogue/bg5997.jpg",
+      "/static/img/catalogue/bg5996.jpg",
+      "/static/img/catalogue/bg5994.jpg",
+      "/static/img/catalogue/bg5998.jpg",
+      "/static/img/catalogue/bg5995.jpg"
+    ],
+    "price": "571 грн",
+    "specs": [
+      "висота, мм: 450",
+      "ширина, мм: 320",
+      "глибина, мм: 320",
+      "вага, кг: 5",
+      "розмір упаковки, мм: 434х320х64",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b747.jpg",
+      "/static/img/catalogue/bg6021.jpg",
+      "/static/img/catalogue/bg6023.jpg",
+      "/static/img/catalogue/bg6022.jpg",
+      "/static/img/catalogue/bg6024.jpg"
+    ],
+    "price": "2155 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 760",
+      "глибина, мм: 80/1400",
+      "вага, кг: 21",
+      "розмір упаковки, мм: 760х700х64",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+
+  {
+    "name": "Кухня Адель",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16425064981422316-700x700.jpg",
+      "/static/img/catalogue/16657532445373175-700x700.jpg",
+      "/static/img/catalogue/16875247915035605-700x700.jpg"
+    ],
+    "price": "15617 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий супермат / Білий / Білий глянець / Біле золото / Біле дерево / Льон / Оксид білий / Світлий венге / Клен / Світло-сірий текстура супермат / Світло-сірий софттач / Сірий софт / Блакитна лагуна / М'ята супермат / Лайм глянець / Світлий какао / Каталонський жовтий / Арабіка / Темний хакі / Лаванда софт / Інжир / Дуб сонома / Дуб трюфель / Горіх / Сланець темний / Дерево Трансильванія / Червоний перламутр / Бургунді глянець / Темний венге / Елегантний сірий софт / Графіт / Сапфір східний / Чорний софттач / Чорна галактика",
+      "Комплектація: Кухня комплектується ручкою DR-11/(96)192 SS скоба, срібло, міжцентр 96/192 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).\nВсі варіанти фасадів можуть покриватися УФ-лаком.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Адель Люкс",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/1665559378298098-700x700.jpg",
+      "/static/img/catalogue/16655594012870702-700x700.jpg",
+      "/static/img/catalogue/16875228466133371-700x700.jpg"
+    ],
+    "price": "15617 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий супермат / Білий / Білий глянець / Біле золото / Біле дерево / Льон / Оксид білий / Світлий венге / Клен / Світло-сірий текстура супермат / Світло-сірий софттач / Сірий софт / Блакитна лагуна / М'ята супермат / Лайм глянець / Світлий какао / Каталонський жовтий / Арабіка / Темний хакі / Лаванда софт / Інжир / Дуб сонома / Дуб трюфель / Горіх / Сланець темний / Дерево Трансильванія / Червоний перламутр / Бургунді глянець / Темний венге / Елегантний сірий софт / Графіт / Сапфір східний / Чорний софттач / Чорна галактика",
+      "Комплектація: Кухня комплектується ручкою D-716/160 G2 врізна скоба, срібний метал, міжцентр 160 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).\nВсі варіанти фасадів можуть покриватися УФ-лаком.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Анна",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/anna-main-700x700.jpg",
+      "/static/img/catalogue/16874334601397085-700x700.jpg",
+      "/static/img/catalogue/16879509174371832-700x700.jpg",
+      "/static/img/catalogue/16874334275555162-700x700.jpg",
+      "/static/img/catalogue/16874334364972294-700x700.jpg",
+      "/static/img/catalogue/1687433452600253-700x700.jpg",
+      "/static/img/catalogue/16879506631248120-700x700.jpg",
+      "/static/img/catalogue/16879506831907714-700x700.jpg",
+      "/static/img/catalogue/16879507076013261-700x700.jpg",
+      "/static/img/catalogue/16879508586102077-700x700.jpg",
+      "/static/img/catalogue/16879509471068478-700x700.jpg"
+    ],
+    "price": "23819 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ фарбований, товщиною 19 мм",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий шовк / Пломбір / Кораловий / Пудровий / Айворі / М'ята / Нефрит / Сірий оксамит / Лаванда / Графіт / Аквамарин темний / Балі зелений / Капучино / Шоколад / Червоний",
+      "Комплектація: Кухня комплектується ручкою Ф.412.056 AL, чорна, металева, міжцентр 128 і 224 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Б'янка",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16425066572195200-700x700.jpg",
+      "/static/img/catalogue/16430143648903180-700x700.jpg",
+      "/static/img/catalogue/16877697128520010-700x700.jpg"
+    ],
+    "price": "14476 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий супермат / Білий глянець / Оксид білий / Світло-сірий текстура супермат / Світло-сірий софттач / Сірий софт / М'ята супермат / Лаванда софт / Світлий какао / Каталонський жовтий / Темний хакі / Арабіка / Інжир / Сланець темний / Дерево Трансильванія / Елегантний сірий софт / Сапфір східний / Чорний софттач",
+      "Комплектація: Кухня комплектується ручкою Ф.412.031/128 К02 овал, срібний пластик, міжцентр 128 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Домініка",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16607271079847545-700x700.jpg",
+      "/static/img/catalogue/16873511366424850-700x700.jpg",
+      "/static/img/catalogue/16595162773130778-700x700.jpg",
+      "/static/img/catalogue/1660727107180026-700x700.jpg",
+      "/static/img/catalogue/16607271452390188-700x700.jpg"
+    ],
+    "price": "22338 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ фарбований",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: МДФ: Білий шовк / Пломбір / Кораловий / Пудровий / Айворі / М'ята / Нефрит / Сірий оксамит / Лаванда / Графіт / Аквамарин темний / Балі зелений / Капучино / Шоколад / Червоний.\nДСП: Білий / Дуб крафт золотий",
+      "Комплектація: Кухня комплектується ручкою D-140 G4, бронза, з міжцентром 96 та 128 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Графіті",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16605504719951717-700x700.jpg",
+      "/static/img/catalogue/16874161563164892-700x700.jpg",
+      "/static/img/catalogue/16608254395994449-700x700.jpg"
+    ],
+    "price": "0 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Корпус: Графіт",
+      "Фасад: Дуб крафт золотий",
+      "Комплектація: Елементи з висувними ящиками виготовляються у варіанті LUX (телескопічні направляючі повного висування)",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Каріна",
+    "desc": "",
+    "images": ["/static/img/catalogue/karina-kuhnya-700x700.jpg"],
+    "price": "9015 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Корпус: Білий",
+      "Фасад: Індастріал",
+      "Комплектація: Кухня комплектується ручкою Р-02/96, срібна, пластик, міжцентр 96 мм.\nВаріанти постачання 2,0 м та 2,6 м. Елементи з висувними ящиками на\nроликових направляючих.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Стіл обідній Лаціо Каштан / Прованс темний з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/obidniy-stil-latsio-kashtan-provans-temnyy-patyna-700x700.jpeg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-3-700x700.jpg"
+    ],
+    "price": "8277 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 80 см",
+      "Глибина: 76,4 см",
+      "Корпус: Каштан",
+      "Фасад: Прованс темний, патина",
+      "Форма: Прямокутна",
+      "Механізм трансформації: Не розкладний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл обідній Лаціо Сатин",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/stil-obidniy-lazio-satin-700x700.jpg",
+      "/static/img/catalogue/17397861941810424-scaled-1-700x700.jpg"
+    ],
+    "price": "8277 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 80 см",
+      "Глибина: 76,4 см",
+      "Корпус: Сатин",
+      "Фасад: Сатин",
+      "Форма: Прямокутна",
+      "Механізм трансформації: Не розкладний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Кухня Марго",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16430104946375869-700x700.jpg",
+      "/static/img/catalogue/16873530371993113-700x700.jpg",
+      "/static/img/catalogue/16619542444169664-700x700.jpg",
+      "/static/img/catalogue/16619542944407836-700x700.jpg",
+      "/static/img/catalogue/16619543053086226-700x700.jpg",
+      "/static/img/catalogue/16619543179184209-700x700.jpg",
+      "/static/img/catalogue/16430104961766704-1-700x700.jpg",
+      "/static/img/catalogue/16619542267970653-700x700.jpg"
+    ],
+    "price": "15244 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: МДФ: Арабіка / Елегантний сірий софт / Інжир / Лаванда софт / Каталонський жовтий / Світло-сірий софттач / М'ята супермат / Світлий какао / Темний хакі / Сапфір східний / Чорний софттач / Графіт / Білий супермат / Сірий софт / Дерево Трансильванія / Світло-сірий текстура супермат / Блакитна лагуна.\nДСП: Білий / Дуб крафт золотий / Морське дерево вінтаж / Артвуд світлий",
+      "Комплектація: Кухня комплектується ручкою Р-38 Палмет золото, металева, міжцентр 96 та 128 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Марта",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16875220925837313-700x700.jpg",
+      "/static/img/catalogue/16875219083869135-700x700.jpg",
+      "/static/img/catalogue/16875220042531065-700x700.jpg",
+      "/static/img/catalogue/16875220226997927-700x700.jpg",
+      "/static/img/catalogue/1687522040775673-700x700.jpg",
+      "/static/img/catalogue/16875220801522463-700x700.jpg",
+      "/static/img/catalogue/16875221101371003-700x700.jpg",
+      "/static/img/catalogue/16875221263431565-700x700.jpg",
+      "/static/img/catalogue/16875221399086160-700x700.jpg",
+      "/static/img/catalogue/1687522154588864-700x700.jpg",
+      "/static/img/catalogue/16875221753161084-700x700.jpg",
+      "/static/img/catalogue/16875221854083896-700x700.jpg",
+      "/static/img/catalogue/16953635605487179-700x700.jpg",
+      "/static/img/catalogue/16953635722757520-700x700.jpg",
+      "/static/img/catalogue/1695363587656067-700x700.jpg"
+    ],
+    "price": "10441 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий / Крем/ Артвуд світлий / Шовковий камінь / Світлий беж / Лемонграс / Попелястий / Індастріал / Дуб артизан / Дуб сонома / Дуб ендгрей необроблений / Дуб трюфель / Дуб борас / Капучіно / Графіт / Лайм / Індиго / Дакар / Вугільний камінь / Бетон темний / Чорний",
+      "Комплектація: Кухня комплектується ручкою Р-06 скоба, срібний пластик, міжцентр 128 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).\nВсі варіанти фасадів можуть покриватися УФ-лаком.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Мілана",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16874404564040623-700x700.jpg",
+      "/static/img/catalogue/16874404984254193-700x700.jpg",
+      "/static/img/catalogue/16874404642805336-700x700.jpg",
+      "/static/img/catalogue/16874404722653277-700x700.jpg",
+      "/static/img/catalogue/1687440481464237-700x700.jpg",
+      "/static/img/catalogue/1687440489397716-700x700.jpg",
+      "/static/img/catalogue/16879510906982156-700x700.jpg",
+      "/static/img/catalogue/16879511081677274-700x700.jpg",
+      "/static/img/catalogue/16879511452305426-700x700.jpg",
+      "/static/img/catalogue/16879511562376224-700x700.jpg",
+      "/static/img/catalogue/16879511738177299-700x700.jpg",
+      "/static/img/catalogue/16879511979476863-700x700.jpg",
+      "/static/img/catalogue/16879512362577352-700x700.jpg"
+    ],
+    "price": "20138 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ фарбований, товщиною 19 мм",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий шовк / Пломбір / Кораловий / Пудровий / Айворі / М'ята / Нефрит / Сірий оксамит / Лаванда / Графіт / Аквамарин темний / Балі зелений / Капучино / Шоколад / Червоний",
+      "Комплектація: Кухня комплектується ручкою Ф.412.056 AL, чорна, металева, міжцентр 128 і 224 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Оля",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16430147814292811-700x700.jpg",
+      "/static/img/catalogue/16430147803569993-700x700.jpg",
+      "/static/img/catalogue/16430147805650169-700x700.jpg",
+      "/static/img/catalogue/16430147818327217-700x700.jpg",
+      "/static/img/catalogue/16877852157737316-700x700.jpg"
+    ],
+    "price": "12985 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий / Біле дерево / Сірий софт / Світло-сірий текстура супермат / Клен / Світло-сірий софттач / Світлий какао / Блакитна лагуна / М'ята супермат / Дуб сонома / Дуб трюфель / Каталонський жовтий / Темний хакі / Арабіка / Лаванда софт / Інжир / Дерево Трансильванія / Елегантний сірий софт / Сапфір східний / Чорний софттач",
+      "Комплектація: Кухня Оля комплектується ручкою Р-02/96, срібна, пластик, міжцентр 96 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Прованс",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16425085921000026-700x700.jpg",
+      "/static/img/catalogue/16425085495939649-700x700.jpg",
+      "/static/img/catalogue/168778644992935-700x700.jpg"
+    ],
+    "price": "14248 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий / Біле дерево / Сірий софт / Світло-сірий текстура супермат / Клен / Світло-сірий софттач / Світлий какао / Блакитна лагуна / М'ята супермат / Дуб сонома / Дуб трюфель / Каталонський жовтий / Темний хакі / Арабіка / Лаванда софт / Інжир / Дерево Трансильванія / Елегантний сірий софт / Сапфір східний / Чорний софттач",
+      "Комплектація: Кухня Прованс комплектується ручкою DP 197AB/MLK, скоба, метал бронза, міжцентр 96 мм.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Роксана",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16430140872959139-700x700.jpg",
+      "/static/img/catalogue/16877840388710017-700x700.jpg",
+      "/static/img/catalogue/16430140879202939-700x700.jpg",
+      "/static/img/catalogue/16430140851360583-700x700.jpg"
+    ],
+    "price": "21130 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Корпус: Білий / Каштан",
+      "Фасад: Прованс світлий, патина / Прованс темний, патина",
+      "Комплектація: Кухня комплектується ручками: DP197AB/MLK скоба, метал\nбронза, міжцентр 96 мм; DG197AB/MLK кнопка, метал бронза, міжцентр 0 мм.\nМодель комплектується підсвіткою під замовлення.\nЕлементи з висувними ящиками на направляючих повного висування.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Софі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16874148594680382-700x700.jpg",
+      "/static/img/catalogue/16874144515789286-700x700.jpg",
+      "/static/img/catalogue/16874147831455035-700x700.jpg",
+      "/static/img/catalogue/16874148163512969-700x700.jpg",
+      "/static/img/catalogue/16874148164359717-700x700.jpg",
+      "/static/img/catalogue/16874148504728449-700x700.jpg",
+      "/static/img/catalogue/16874148726415734-700x700.jpg",
+      "/static/img/catalogue/1687414881642336-700x700.jpg",
+      "/static/img/catalogue/16874148927896644-700x700.jpg"
+    ],
+    "price": "10960 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Чорний / Графіт / Бетон темний / Вугільний камінь / Дуб якібан / Морське дерево вінтаж / Бензин / Індиго / Холодний блакитний / Лемонграс / Глиняний сірий / Кашемір / Артвуд світлий / Шовковий камінь / Білий",
+      "Комплектація: Кухня комплектується ручкою-профілем Р-56 чорна матова, пластикова.\nМодель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).\nВсі варіанти фасадів можуть покриватися УФ-лаком.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Валенсія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16430145713627193-700x700.jpg",
+      "/static/img/catalogue/16430145691231322-700x700.jpg",
+      "/static/img/catalogue/16430145709728932-700x700.jpg",
+      "/static/img/catalogue/16877839415266435-700x700.jpg"
+    ],
+    "price": "15577 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Корпус: Клен / Горіх",
+      "Фасад: Клен / Клен, патіна / Горіх",
+      "Комплектація: Кухня комплектується ручками: DP197AB/MLK скоба, метал бронза, міжцентр 96 мм; DG197AB/MLK кнопка, металева, міжцентр 0 мм.\nМодель комплектується підсвіткою під замовлення.\nЕлементи з висувними ящиками на направляючих повного висування.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Венера",
+    "desc": "",
+    "images": ["/static/img/catalogue/venera-kuhnya-700x700.jpg"],
+    "price": "8994 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Корпус: Венге магія",
+      "Фасад: Венге магія / Дуб молочний",
+      "Комплектація: Кухня комплектується ручкою Р-02/96, срібна, пластик, міжцентр 96 мм.\nВаріанти постачання 2,0 м та 2,6 м. Елементи з висувними ящиками на\nроликових направляючих.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Стіл Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/stil-ne-rozsuvnyy-vyvaldy-700x700.jpg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/stil-obidniy-ne-rozkladnyy-ms-vivaldi-700x700.jpg",
+      "/static/img/catalogue/stil-obidniy-ne-rozkladnyy-vivaldi-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-vivaldi-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/stol-vivaldi-neraskladnoy-pasport_-700x700.jpg"
+    ],
+    "price": "15210 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 200 см",
+      "Висота: 82 см",
+      "Глибина: 101 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Форма: Овальна",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл розсувний Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/stil-rozsuvnyy-vivaldi-700x700.jpeg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-vivaldi-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/modulnaya-systema-vivaldi-prais-700x700.jpg"
+    ],
+    "price": "18742 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 240 см (200 см у складеному вигляді)",
+      "Висота: 82 см",
+      "Глибина: 101 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Форма: Овальна",
+      "Кількість персон: 10 і більше",
+      "Механізм трансформації: Розкладний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Кухня Влада",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/16879503987108628-700x700.jpg",
+      "/static/img/catalogue/16874163568372694-700x700.jpg",
+      "/static/img/catalogue/16874163169025570-700x700.jpg",
+      "/static/img/catalogue/16874163256347951-700x700.jpg",
+      "/static/img/catalogue/16879502536218421-700x700.jpg",
+      "/static/img/catalogue/16879502786749455-700x700.jpg",
+      "/static/img/catalogue/16879502787458412-700x700.jpg",
+      "/static/img/catalogue/16879503155036827-700x700.jpg",
+      "/static/img/catalogue/16879503334141236-700x700.jpg",
+      "/static/img/catalogue/16879503506049592-700x700.jpg",
+      "/static/img/catalogue/1687950360562588-700x700.jpg",
+      "/static/img/catalogue/16874163345102699-700x700.jpg",
+      "/static/img/catalogue/16879504084900877-700x700.jpg",
+      "/static/img/catalogue/16879504206880650-700x700.jpg",
+      "/static/img/catalogue/16879504824718020-700x700.jpg"
+    ],
+    "price": "23819 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ фарбований, товщиною 19 мм",
+      "Корпус: Білий / Дуб сонома / Попелястий / Графіт / Дуб крафт золотий",
+      "Фасад: Білий шовк / Пломбір / Кораловий / Пудровий / Айворі / М'ята / Нефрит / Сірий оксамит / Лаванда / Графіт / Аквамарин темний / Балі зелений / Капучино / Шоколад / Червоний",
+      "Комплектація: Модель комплектується царгою під замовлення 2,4 м під замовлення. Можлива комплектація нижніх ящиків регульованою ніжкою в кольорі алюміній, замість царги 2,4 м.\nЕлементи з висувними ящиками виготовляються в двох варіантах:\n1. Стандарт (роликові направляючі);\n2. LUX (телескопічні направляючі повного висування).",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Злата",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/15974124544479386-700x700.jpg",
+      "/static/img/catalogue/1642491903516253-700x700.jpg",
+      "/static/img/catalogue/15807302637171693-700x700.jpg",
+      "/static/img/catalogue/15807302646214382-700x700.jpg",
+      "/static/img/catalogue/15807302645024226-700x700.jpg"
+    ],
+    "price": "9318 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Корпус: Білий",
+      "Фасад: Дуб артизан / Антрацит / Артвуд світлий",
+      "Комплектація: Кухня комплектується ручкою Ф.412.047/128, пластик, міжцентр 128 мм.\nВаріанти постачання 2,0 м та 2,6 м. Елементи з висувними ящиками на\nроликових направляючих.",
+      "Стільниця: Оплачується додатково"
+    ]
+  },
+  {
+    "name": "Кухня Агата лак MS",
+    "desc": "",
+    "images": ["/static/img/catalogue/kuhnya_agata_lak_ms_800_600_5_w.png"],
+    "price": "15092 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: ДСП лакований, скло",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Глянець, Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Агата лак MS Варіант 2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/kuhnya_agata_lak_ms_variant_2_800_600_5_w.png"
+    ],
+    "price": "15734 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: ДСП лакований, скло",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Глянець, Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Агата лак MS Варіант 3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/kuhnya_agata_lak_ms_variant_3_800_600_5_w.png"
+    ],
+    "price": "10116 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: ДСП лакований",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Глянець, Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Агата MS",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/agata_farbov_kitch_kompl_bil_2.6_v_inter_800_600_5_w.jpg"
+    ],
+    "price": "14543 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Матовий, Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Агата Варіант 1 MS",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/agata_farbov_kitch_kompl_sir_2.6_v_inter_800_600_5_w.jpg"
+    ],
+    "price": "15841 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Матовий, Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Аліна MS",
+    "desc": "Комплект елементів які входять до складу кухні \"Аліна\":\n• КУХНЯ \"АЛІНА\" Верхня секція 40В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція 60 В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція 80В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція вітрина 80ВВ - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 40Н - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 60Н - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція для мийки 80НМ - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 80Н - 1 шт.\nКОМПЛЕКТАЦІЮ МОЖНА ВИБИРАТИ ЗА ВАШИМ БАЖАННЯМ !!!",
+    "images": ["/static/img/catalogue/alina_800_600_5_w.jpg"],
+    "price": "8015 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване (16 мм)",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Класичний",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня Аліна MS",
+    "desc": "Комплект елементів які входять до складу кухні \"Аліна\":\n• КУХНЯ \"АЛІНА\" Верхня секція 40В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція 60 В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція 80В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція вітрина 80ВВ - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 40Н - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 60Н - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція для мийки 80НМ - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 80Н - 1 шт.\nКОМПЛЕКТАЦІЮ МОЖНА ВИБИРАТИ ЗА ВАШИМ БАЖАННЯМ !!!",
+    "images": ["/static/img/catalogue/h3btvxgi89_800_600_5_w.jpg"],
+    "price": "8015 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване (16 мм)",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Класичний",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня Аліна MS Варіант 2",
+    "desc": "Комплект елементів які входять до складу кухні \"Аліна\":\n• КУХНЯ \"АЛІНА\" Верхня секція 40В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція 60 В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція 80В - 1 шт.\n• КУХНЯ \"АЛІНА\" Верхня секція вітрина 80ВВ - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 40Н - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 60Н - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція для мийки 80НМ - 1 шт.\n• КУХНЯ \"АЛІНА\" Нижня секція 80Н - 1 шт.\nКОМПЛЕКТАЦІЮ МОЖНА ВИБИРАТИ ЗА ВАШИМ БАЖАННЯМ !!!",
+    "images": ["/static/img/catalogue/alina_800_600_5_w.png"],
+    "price": "15721 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване (16 мм)",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Класичний",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня Гама ДСП MS",
+    "desc": "",
+    "images": ["/static/img/catalogue/gama-dsp2_800_600_5_w.jpg"],
+    "price": "9247 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Колір : Інше, Білий, Дуб Крафт",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Гама ДСП MS Варіант - 1",
+    "desc": "",
+    "images": ["/static/img/catalogue/gamma-dsp1_800_600_5_w.jpg"],
+    "price": "11425 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Колір : Інше, Білий, Дуб Крафт",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Гама ДСП MS Варіант - 2",
+    "desc": "",
+    "images": ["/static/img/catalogue/gama-dsp3_800_600_5_w.jpg"],
+    "price": "14675 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Колір : Інше, Білий, Дуб Крафт",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Гама Лак MS",
+    "desc": "",
+    "images": ["/static/img/catalogue/gamma-lak_800_600_5_w.jpg"],
+    "price": "16587 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП лак",
+      "Колір : Інше, Білий, Венге Темний, Сірий, Чорний",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Глянець"
+    ]
+  },
+  {
+    "name": "Кухня Гама Лак MS Варіант 1",
+    "desc": "",
+    "images": ["/static/img/catalogue/gamma-lak-6_800_600_5_w.jpg"],
+    "price": "37243 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП лак",
+      "Колір : Інше, Білий, Венге Темний, Сірий, Чорний",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Глянець"
+    ]
+  },
+  {
+    "name": "Кухня Гама МФ MS",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/gamma_sm_v_inter_2.6_bezh_sir_800_600_5_w.jpg"
+    ],
+    "price": "10110 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня Гама МФ MS Варіант 1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/gamma_sm_v_inter_pen_v_dukh_bezh_800_600_5_w.jpg"
+    ],
+    "price": "12441 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня Гама МФ MS Варіант 2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/gamma_sm_v_inter_kut_vynnyi_2019_800_600_5_w.jpg"
+    ],
+    "price": "21721 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня Гамма Рамка MS",
+    "desc": "Ціна вказана за колір корпусу Венге + фасад рамка. Кухня доступна і в інших кольорах.",
+    "images": [
+      "/static/img/catalogue/gamma_ramka_2.6_wenge_samoa__800_600_5_w.jpg"
+    ],
+    "price": "13288 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Колір : Інше, Білий, Венге Темний, Дуб Самоа, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Гамма Рамка MS під замовлення",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/kuhnya_gamma_ramka_ms_pid_zamovlennya_800_600_5_w.png"
+    ],
+    "price": "0 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Колір : Інше, Білий, Венге Темний, Дуб Самоа, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Сучасний, Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Гамма Рамка MS Вариант 1",
+    "desc": "Ціна вказана за колір корпусу Венге + фасад рамка. Кухня доступна і в інших кольорах.",
+    "images": [
+      "/static/img/catalogue/gamma_ramka_kut_wenge_samoa_v_inter_2_800_600_5_w.jpg"
+    ],
+    "price": "21976 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Колір : Інше, Білий, Венге Темний, Дуб Самоа, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Глобал MS",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/global_kitch_mal_kompl_kapuchino_v_inter_800_600_5_w.jpg"
+    ],
+    "price": "7477 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ"
+    ]
+  },
+  {
+    "name": "Кухня Гранд MS",
+    "desc": "Комплект елементів які входять до складу кухні \"Гранд\"\n• Низ 30 - 2шт.\n• Верх 50 - 2шт.\n• Верх полиця 80 - 2шт.\n• Низ 80 - 2шт.\n• Низ з шухлядами 60 - 2шт.\n• Пенал 60 - 1шт.\n• Низ духовка 60 - 1шт.\n• Закінчення низ - 1шт.\n• Кут верх - 1шт.\nКОМПЛЕКТАЦІЮ МОЖНА ВИБИРАТИ ЗА ВАШИМ БАЖАННЯМ !!!",
+    "images": ["/static/img/catalogue/kuhnya_800_600_5_w.jpg"],
+    "price": "13554 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Класичний",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня Грета Дуб самоа MS",
+    "desc": "Комплект елементів які входять до складу кухні \"Грета\"\n• Пенал 60 - 1шт.\n• Верх 40 - 3шт.\n• Верх 30 - 2шт.\n• Верх вітрина 60 - 1шт.\n• Верх вітрина 80 - 1шт.\n• Кут верх - 1шт.\n• Низ з дверцятами 40 - 2шт.\n• Низ духовка 60 - 1шт.\n• Низ з шухлядами 40 - 1шт.\n• Низ з ящиком 60 - 1шт.\n• Кут низ 1дв - 1шт.\n• Низ мийка 60 - 1шт.\nКОМПЛЕКТАЦІЮ МОЖНА ВИБИРАТИ ЗА ВАШИМ БАЖАННЯМ !!!",
+    "images": ["/static/img/catalogue/kuhnya_800_600_5_w.jpg"],
+    "price": "20489 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня Грета MS",
+    "desc": "",
+    "images": ["/static/img/catalogue/greta-ms_800_600_5_w.png"],
+    "price": "10309 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Сучасний, Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Грета MS Варіант 2",
+    "desc": "",
+    "images": ["/static/img/catalogue/greta-1_800_600_5_w.png"],
+    "price": "19136 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Сучасний, Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Імперія фасад фарбований MS",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/kuhnya-imperiya-fasad-krasheniy-ms_800_600_5_w.png"
+    ],
+    "price": "20235 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Імперія фасад фарбований MS Варіант 2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/kuhnya-imperiya-fasad-krasheniy-ms-1_800_600_5_w.png"
+    ],
+    "price": "34555 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Імперія MS",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/imperial_kitch_wh_pat_kut_v_inter_2_800_600_5_w.jpg"
+    ],
+    "price": "31031 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Імперія MS Варіант 1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/imperiya_kitch_wh_pat_mal_kompl_v_inter_cr_800_600_5_w.jpg"
+    ],
+    "price": "13987 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Корона MS",
+    "desc": "",
+    "images": ["/static/img/catalogue/korona-komp_800_600_5_w.png"],
+    "price": "6982 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: МДФ",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : МДФ",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Медісон MS",
+    "desc": "",
+    "images": ["/static/img/catalogue/kuhnya-medison-2_800_600_5_w.png"],
+    "price": "17725 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Медісон MS Варіант 2",
+    "desc": "",
+    "images": ["/static/img/catalogue/kuhnya-medison-ms_800_600_5_w.png"],
+    "price": "28409 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Медісон MS Варіант 3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/kuhnya-medison-ms-variant-3_800_600_5_w.png"
+    ],
+    "price": "24438 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Медісон MS Варіант 4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/kuhnya-medison-ms-variant-4_800_600_5_w.png"
+    ],
+    "price": "26686 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Ніка MS",
+    "desc": "",
+    "images": ["/static/img/catalogue/kuhnya-nika-ms_800_600_5_w.png"],
+    "price": "0 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Матовий, Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Ніка MS",
+    "desc": "",
+    "images": ["/static/img/catalogue/kuhnya-nika-ms-2_800_600_5_w.png"],
+    "price": "17052 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Матовий, Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Оля Mebel-service",
+    "desc": "",
+    "images": ["/static/img/catalogue/olja_rystikal_v_inter__800_600_5_w.jpg"],
+    "price": "13320 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Оля Mebel-service Варіант 1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/olya_vilkha_kut_v_inter_2019_800_600_5_w.jpg"
+    ],
+    "price": "15614 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ , Скло",
+      "Призначення : Кухня",
+      "Стиль : Модерн",
+      "Тип фасаду : Текстура"
+    ]
+  },
+  {
+    "name": "Кухня Роял MS Варіант 1",
+    "desc": "Комплект елементів які входять до складу кухні \"Роял\":\n• КУХНЯ \"РОЯЛ\" Пенал великий 3Д - 1 шт.\n• КУХНЯ \"РОЯЛ\" Верхня секція 40В - 2 шт.\n• КУХНЯ \"РОЯЛ\" Верхня секція вітрина 40ВВ - 2 шт.\n• КУХНЯ \"РОЯЛ\" Кут верхній закритий - 1 шт.\n• КУХНЯ \"РОЯЛ\" Верхнє кутове закінчення - 1 шт.\n• КУХНЯ \"РОЯЛ\" Нижня секція 80Н - 2 шт.\n• КУХНЯ \"РОЯЛ\" Нижня секція для духовки 60НДух - 1 шт.\n• КУХНЯ \"РОЯЛ\" Нижня секція з шухлядами 40НШ - 2 шт.\n• КУХНЯ \"РОЯЛ \"Кут нижній закритий - 2Д - 1 шт.\n• КУХНЯ\" РОЯЛ \"Нижнє кутове закінчення - 1 шт.\nКОМПЛЕКТАЦІЮ МОЖНА ВИБИРАТИ ЗА ВАШИМ БАЖАННЯМ !!!",
+    "images": ["/static/img/catalogue/royal_1_800_600_5_w.jpg"],
+    "price": "25156 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване (16 мм)",
+      "Колір : Горіх",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Класичний"
+    ]
+  },
+  {
+    "name": "Кухня Роял MS Варіант 2",
+    "desc": "Комплект елементів які входять до складу кухні \"Роял\":\n• КУХНЯ \"РОЯЛ\" Пенал малий 50 - 1 шт.\n• КУХНЯ \"РОЯЛ\" Верхня секція 80В - 1 шт.\n• КУХНЯ \"РОЯЛ\" Верхня секція для витяжки окапі 60 - 1 шт.\n• КУХНЯ \"РОЯЛ\" Верхня секція вітрина 80ВВ - 1 шт.\n• КУХНЯ \"РОЯЛ\" Верхня секція 60 В - 1 шт.\n• КУХНЯ \"РОЯЛ\" Нижня секція 50Н - 1 шт.\n• КУХНЯ \"РОЯЛ \"Нижня секція 80Н - 1 шт.\n• КУХНЯ\" РОЯЛ \"Нижня секція для духовки 60Н Дух. - 1 шт.\n• КУХНЯ \"РОЯЛ\" Нижня секція 40НДв. - 1 шт.\n• КУХНЯ \"РОЯЛ\" Нижня секція 40НШ - 1 шт.\n• КУХНЯ \"РОЯЛ\" Нижня секція 60НДв - 1 шт.\nКОМПЛЕКТАЦІЮ МОЖНА ВИБИРАТИ ЗА ВАШИМ БАЖАННЯМ !!!",
+    "images": ["/static/img/catalogue/royal_2_800_600_5_w.jpg"],
+    "price": "21954 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Матеріал корпусу: кашироване ДСП",
+      "Матеріал фасаду: ДСП ламіноване (16 мм)",
+      "Колір : Горіх",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП",
+      "Призначення : Кухня",
+      "Стиль : Класичний",
+      "Тип фасаду : Матовий"
+    ]
+  },
+  {
+    "name": "Кухня кутова Глобал MS",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/global_kitch_kapuch_kut_v_inter_800_600_5_w.jpg"
+    ],
+    "price": "11448 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Ширина: 30 см",
+      "Висота: 82 см",
+      "Глибина: 54.5 см"
+    ]
+  },
+  {
+    "name": "Модульна кухня Агата лак MS під замовлення",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/modulnaya_kuhnya_agata_lak_ms_pod_zakaz_800_600_5_w.png"
+    ],
+    "price": "0 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: ДСП лакований, скло",
+      "Колір : Інше",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, Скло",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Глянець, Текстура"
+    ]
+  },
+  {
+    "name": "Модульна кухня Агата MS під замовлення",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/agata_farbov_kitch_kompl_artis_bil_penv_v_inter_800_600_5_w.jpg"
+    ],
+    "price": "0 грн",
+    "specs": [
+      "Виробник: Mebel-service",
+      "Країна виробництва: Україна",
+      "Матеріал корпусу: ДСП ламінована",
+      "Матеріал фасаду: МДФ",
+      "Колір : Інше, Білий, Сірий",
+      "Країна виробник : Україна",
+      "Матеріал : ДСП, МДФ",
+      "Призначення : Кухня",
+      "Стиль : Сучасний",
+      "Тип фасаду : Матовий, Текстура"
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

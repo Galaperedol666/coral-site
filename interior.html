@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Інтер'єр — Корал | Меблі на замовлення</title>
+    <meta
+      name="description"
+      content="Приклади інтер'єрних рішень з меблями від Корал. Комплексні проекти під ключ."
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://mebel-koral.dp.ua/interior.html" />
+    <meta property="og:url" content="https://mebel-koral.dp.ua/interior.html" />
+    <meta
+      property="og:image"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
+    />
+
+    <link rel="icon" href="static/img/favicon.ico" type="image/x-icon" />
+    <link
+      rel="preload"
+      href="static/css/style.css"
+      as="style"
+      onload="this.rel = 'stylesheet'"
+    />
+    <noscript><link rel="stylesheet" href="static/css/style.css" /></noscript>
+    <link rel="stylesheet" href="static/css/interior.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+
+    <!-- Навігація -->
+    <header>
+      <nav class="navbar" role="navigation" aria-label="Головна навігація">
+        <div class="logo">
+          <a href="index.html" aria-label="Перейти на головну сторінку">
+            <img
+              src="static/img/Logo.png"
+              alt="Корал — логотип"
+              decoding="async"
+            />
+          </a>
+          <div id="work-schedule">
+            <span class="toggle-icon">🕒</span>
+            <span class="base-text"></span>
+            <span class="status-text"></span>
+          </div>
+        </div>
+        <!-- бургер -->
+        <button
+          class="burger"
+          aria-expanded="false"
+          aria-label="Меню"
+          aria-controls="nav-links"
+          aria-haspopup="true"
+          type="button"
+        >
+          ☰
+        </button>
+
+        <ul class="nav-links" id="nav-links">
+          <li><a href="index.html">Головна</a></li>
+          <li class="dropdown">
+            <a href="catalogue.html">Каталог ▾</a>
+            <ul class="dropdown-menu">
+              <li><a href="catalogue/kitchens.html">Кухні</a></li>
+              <li><a href="catalogue/wardrobes.html">Шафи</a></li>
+              <li><a href="catalogue/commodes.html">Комоди</a></li>
+              <li><a href="catalogue/living.html">Вітальні</a></li>
+              <li><a href="catalogue/shelves.html">Полки</a></li>
+              <li><a href="catalogue/beds.html">Ліжка</a></li>
+              <li><a href="catalogue/sofas.html">Дивани</a></li>
+              <li><a href="catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="catalogue/tables.html">Столи</a></li>
+              <li><a href="catalogue/chairs.html">Стільці та крісла</a></li>
+              <li><a href="catalogue/hallway.html">Передпокої</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="portfolio.html" class="active" aria-current="page"
+              >Галерея</a
+            >
+          </li>
+          <li><a href="contacts.html">Контакти</a></li>
+          <li><a href="delivery.html">Доставка і оплата</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Основний контент -->
+    <main id="maincontent">
+      <section class="portfolio-preview">
+        <h2>Інтер'єр</h2>
+        <div class="portfolio-grid">
+          <!-- Картка 1 -->
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/interior/project1-thumb.jpg"
+              alt="Doner 045 Dnipro"
+              loading="lazy"
+              decoding="async"
+            />
+            <div class="work-info">
+              <h3>Doner 045 Dnipro</h3>
+              <button class="btn-accent" data-gallery="interior1">
+                Детальніше
+              </button>
+            </div>
+          </div>
+
+          <!-- Картка 2 -->
+          <div class="work-card">
+            <img
+              src="static/img/portfolio/interior/project2-thumb.jpg"
+              alt="Кімната для підлітка"
+              loading="lazy"
+              decoding="async"
+            />
+            <div class="work-info">
+              <h3>Кімната для підлітка</h3>
+              <button class="btn-accent" data-gallery="interior2">
+                Детальніше
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Модалка для картки 1 -->
+      <div
+        class="modal"
+        id="interior1"
+        aria-hidden="true"
+        role="dialog"
+        aria-modal="true"
+      >
+        <div class="modal-content" role="document">
+          <div class="slider">
+            <div class="slides">
+              <img
+                src="static/img/portfolio/interior/project1-1.jpg"
+                alt="Interior project 1 view 1"
+                loading="lazy"
+                decoding="async"
+              />
+              <img
+                src="static/img/portfolio/interior/project1-2.jpg"
+                alt="Interior project 1 view 2"
+                loading="lazy"
+                decoding="async"
+              />
+              <img
+                src="static/img/portfolio/interior/project1-3.jpg"
+                alt="Interior project 1 view 3"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+            <button class="prev" aria-label="Попереднє">‹</button>
+            <button class="next" aria-label="Наступне">›</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Модалка для картки 2 -->
+      <div
+        class="modal"
+        id="interior2"
+        aria-hidden="true"
+        role="dialog"
+        aria-modal="true"
+      >
+        <div class="modal-content" role="document">
+          <div class="slider">
+            <div class="slides">
+              <img
+                src="static/img/portfolio/interior/project2-1.jpg"
+                alt="Interior project 2 view 1"
+                loading="lazy"
+                decoding="async"
+              />
+              <img
+                src="static/img/portfolio/interior/project2-2.jpg"
+                alt="Interior project 2 view 2"
+                loading="lazy"
+                decoding="async"
+              />
+              <img
+                src="static/img/portfolio/interior/project2-3.jpg"
+                alt="Interior project 2 view 3"
+                loading="lazy"
+                decoding="async"
+              />
+              <img
+                src="static/img/portfolio/interior/project2-4.jpg"
+                alt="Interior project 2 view 4"
+                loading="lazy"
+                decoding="async"
+              />
+            </div>
+            <button class="prev" aria-label="Попереднє">‹</button>
+            <button class="next" aria-label="Наступне">›</button>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Кнопка "Вгору" -->
+    <button
+      id="scrollTopBtn"
+      class="scroll-top"
+      aria-label="Повернутись нагору"
+      type="button"
+    >
+      ↑
+    </button>
+
+    <!-- Футер -->
+    <footer>
+      <p>© 2026 Корал. Всі права захищені.</p>
+    </footer>
+
+    <script src="static/js/main.js" defer></script>
+    <div id="bubbles"></div>
+    <div class="sunlight"></div>
+  </body>
+</html>

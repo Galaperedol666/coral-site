@@ -1,0 +1,1081 @@
+[
+  {
+    "name": "Полиця П-18",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b108.jpg",
+      "/static/img/catalogue/bg5559.jpg",
+      "/static/img/catalogue/bg2244.jpg",
+      "/static/img/catalogue/bg4927.jpg",
+      "/static/img/catalogue/bg678.jpg",
+      "/static/img/catalogue/bg679.jpg",
+      "/static/img/catalogue/bg680.jpg",
+      "/static/img/catalogue/bg681.jpg",
+      "/static/img/catalogue/bg682.jpg",
+      "/static/img/catalogue/bg683.jpg"
+    ],
+    "price": "806 грн",
+    "specs": [
+      "висота, мм: 332",
+      "ширина, мм: 800",
+      "глибина, мм: 216",
+      "вага, кг: 3,8",
+      "розмір упаковки, мм: 600х200х48",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-17",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b109.jpg",
+      "/static/img/catalogue/bg5558.jpg",
+      "/static/img/catalogue/bg2245.jpg",
+      "/static/img/catalogue/bg4928.jpg",
+      "/static/img/catalogue/bg684.jpg",
+      "/static/img/catalogue/bg685.jpg",
+      "/static/img/catalogue/bg686.jpg",
+      "/static/img/catalogue/bg687.jpg",
+      "/static/img/catalogue/bg688.jpg",
+      "/static/img/catalogue/bg689.jpg"
+    ],
+    "price": "600 грн",
+    "specs": [
+      "висота, мм: 600",
+      "ширина, мм: 416",
+      "глибина, мм: 216",
+      "вага, кг: 5,4",
+      "розмір упаковки, мм: 800х200х64",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-16",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b110.jpg",
+      "/static/img/catalogue/bg5557.jpg",
+      "/static/img/catalogue/bg2246.jpg",
+      "/static/img/catalogue/bg4929.jpg",
+      "/static/img/catalogue/bg690.jpg",
+      "/static/img/catalogue/bg691.jpg",
+      "/static/img/catalogue/bg692.jpg",
+      "/static/img/catalogue/bg693.jpg",
+      "/static/img/catalogue/bg694.jpg",
+      "/static/img/catalogue/bg695.jpg"
+    ],
+    "price": "537 грн",
+    "specs": [
+      "висота, мм: 600",
+      "ширина, мм: 416",
+      "глибина, мм: 216",
+      "вага, кг: 4,6",
+      "розмір упаковки, мм: 600х200х64",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-15",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b111.jpg",
+      "/static/img/catalogue/bg5556.jpg",
+      "/static/img/catalogue/bg2247.jpg",
+      "/static/img/catalogue/bg4930.jpg",
+      "/static/img/catalogue/bg696.jpg",
+      "/static/img/catalogue/bg697.jpg",
+      "/static/img/catalogue/bg698.jpg",
+      "/static/img/catalogue/bg699.jpg",
+      "/static/img/catalogue/bg700.jpg",
+      "/static/img/catalogue/bg701.jpg"
+    ],
+    "price": "387 грн",
+    "specs": [
+      "висота, мм: 368",
+      "ширина, мм: 416",
+      "глибина, мм: 216",
+      "вага, кг: 3",
+      "розмір упаковки, мм: 402х200х64",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-14",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b112.jpg",
+      "/static/img/catalogue/bg5555.jpg",
+      "/static/img/catalogue/bg2248.jpg",
+      "/static/img/catalogue/bg4931.jpg",
+      "/static/img/catalogue/bg702.jpg",
+      "/static/img/catalogue/bg703.jpg",
+      "/static/img/catalogue/bg704.jpg",
+      "/static/img/catalogue/bg705.jpg",
+      "/static/img/catalogue/bg706.jpg",
+      "/static/img/catalogue/bg707.jpg"
+    ],
+    "price": "386 грн",
+    "specs": [
+      "висота, мм: 332",
+      "ширина, мм: 780",
+      "глибина, мм: 200",
+      "вага, кг: 2,8",
+      "розмір упаковки, мм: 300х200х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-13",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b113.jpg",
+      "/static/img/catalogue/bg5554.jpg",
+      "/static/img/catalogue/bg2249.jpg",
+      "/static/img/catalogue/bg4932.jpg",
+      "/static/img/catalogue/bg708.jpg",
+      "/static/img/catalogue/bg709.jpg",
+      "/static/img/catalogue/bg710.jpg",
+      "/static/img/catalogue/bg711.jpg",
+      "/static/img/catalogue/bg712.jpg",
+      "/static/img/catalogue/bg713.jpg"
+    ],
+    "price": "315 грн",
+    "specs": [
+      "висота, мм: 216",
+      "ширина, мм: 556",
+      "глибина, мм: 200",
+      "вага, кг: 2",
+      "розмір упаковки, мм: 300х200х64",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-8",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b114.jpg",
+      "/static/img/catalogue/bg5582.jpg",
+      "/static/img/catalogue/bg2250.jpg",
+      "/static/img/catalogue/bg4933.jpg",
+      "/static/img/catalogue/bg714.jpg",
+      "/static/img/catalogue/bg715.jpg",
+      "/static/img/catalogue/bg716.jpg",
+      "/static/img/catalogue/bg717.jpg",
+      "/static/img/catalogue/bg718.jpg",
+      "/static/img/catalogue/bg719.jpg",
+      "/static/img/catalogue/bg720.jpg"
+    ],
+    "price": "1166 грн",
+    "specs": [
+      "висота, мм: 910",
+      "ширина, мм: 716",
+      "глибина, мм: 240",
+      "вага, кг: 11,4",
+      "розмір упаковки, мм: 960х370х75",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b115.jpg",
+      "/static/img/catalogue/bg5583.jpg",
+      "/static/img/catalogue/bg2251.jpg",
+      "/static/img/catalogue/bg4934.jpg",
+      "/static/img/catalogue/bg721.jpg",
+      "/static/img/catalogue/bg722.jpg",
+      "/static/img/catalogue/bg723.jpg",
+      "/static/img/catalogue/bg724.jpg",
+      "/static/img/catalogue/bg725.jpg",
+      "/static/img/catalogue/bg726.jpg"
+    ],
+    "price": "1188 грн",
+    "specs": [
+      "висота, мм: 716",
+      "ширина, мм: 1000",
+      "глибина, мм: 220",
+      "вага, кг: 10,4",
+      "розмір упаковки, мм: 1010х230х90",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b116.jpg",
+      "/static/img/catalogue/bg5581.jpg",
+      "/static/img/catalogue/bg2252.jpg",
+      "/static/img/catalogue/bg4935.jpg",
+      "/static/img/catalogue/bg727.jpg",
+      "/static/img/catalogue/bg728.jpg",
+      "/static/img/catalogue/bg729.jpg",
+      "/static/img/catalogue/bg730.jpg",
+      "/static/img/catalogue/bg731.jpg",
+      "/static/img/catalogue/bg732.jpg",
+      "/static/img/catalogue/bg733.jpg"
+    ],
+    "price": "1599 грн",
+    "specs": [
+      "висота, мм: 800",
+      "ширина, мм: 1000",
+      "глибина, мм: 300",
+      "вага, кг: 18,4",
+      "розмір упаковки, мм: 970х130х305",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b117.jpg",
+      "/static/img/catalogue/bg5580.jpg",
+      "/static/img/catalogue/bg2253.jpg",
+      "/static/img/catalogue/bg4936.jpg",
+      "/static/img/catalogue/bg734.jpg",
+      "/static/img/catalogue/bg735.jpg",
+      "/static/img/catalogue/bg736.jpg",
+      "/static/img/catalogue/bg737.jpg",
+      "/static/img/catalogue/bg738.jpg",
+      "/static/img/catalogue/bg739.jpg"
+    ],
+    "price": "1176 грн",
+    "specs": [
+      "висота, мм: 648",
+      "ширина, мм: 900",
+      "глибина, мм: 270",
+      "вага, кг: 14,2",
+      "розмір упаковки, мм: 950х90х335",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b118.jpg",
+      "/static/img/catalogue/bg5579.jpg",
+      "/static/img/catalogue/bg2254.jpg",
+      "/static/img/catalogue/bg4937.jpg",
+      "/static/img/catalogue/bg740.jpg",
+      "/static/img/catalogue/bg741.jpg",
+      "/static/img/catalogue/bg742.jpg",
+      "/static/img/catalogue/bg743.jpg",
+      "/static/img/catalogue/bg744.jpg",
+      "/static/img/catalogue/bg745.jpg"
+    ],
+    "price": "1604 грн",
+    "specs": [
+      "висота, мм: 662",
+      "ширина, мм: 1130",
+      "глибина, мм: 300",
+      "вага, кг: 19,8",
+      "розмір упаковки, мм: 1030х110х305",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b119.jpg",
+      "/static/img/catalogue/bg5570.jpg",
+      "/static/img/catalogue/bg2255.jpg",
+      "/static/img/catalogue/bg4938.jpg",
+      "/static/img/catalogue/bg746.jpg",
+      "/static/img/catalogue/bg747.jpg",
+      "/static/img/catalogue/bg748.jpg",
+      "/static/img/catalogue/bg749.jpg",
+      "/static/img/catalogue/bg750.jpg",
+      "/static/img/catalogue/bg751.jpg",
+      "/static/img/catalogue/bg752.jpg"
+    ],
+    "price": "1083 грн",
+    "specs": [
+      "висота, мм: 750",
+      "ширина, мм: 1114",
+      "глибина, мм: 300",
+      "вага, кг: 13,2",
+      "розмір упаковки, мм: 600х100х385",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b120.jpg",
+      "/static/img/catalogue/bg5561.jpg",
+      "/static/img/catalogue/bg2256.jpg",
+      "/static/img/catalogue/bg4939.jpg",
+      "/static/img/catalogue/bg753.jpg",
+      "/static/img/catalogue/bg754.jpg",
+      "/static/img/catalogue/bg755.jpg",
+      "/static/img/catalogue/bg756.jpg",
+      "/static/img/catalogue/bg757.jpg",
+      "/static/img/catalogue/bg758.jpg"
+    ],
+    "price": "791 грн",
+    "specs": [
+      "висота, мм: 567",
+      "ширина, мм: 748",
+      "глибина, мм: 300",
+      "вага, кг: 9,4",
+      "розмір упаковки, мм: 600х75х390",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b121.jpg",
+      "/static/img/catalogue/bg5550.jpg",
+      "/static/img/catalogue/bg2257.jpg",
+      "/static/img/catalogue/bg4940.jpg",
+      "/static/img/catalogue/bg759.jpg",
+      "/static/img/catalogue/bg760.jpg",
+      "/static/img/catalogue/bg761.jpg",
+      "/static/img/catalogue/bg762.jpg",
+      "/static/img/catalogue/bg763.jpg",
+      "/static/img/catalogue/bg764.jpg"
+    ],
+    "price": "994 грн",
+    "specs": [
+      "висота, мм: 332",
+      "ширина, мм: 1002",
+      "глибина, мм: 360",
+      "вага, кг: 11,8",
+      "розмір упаковки, мм: 1110х75х380",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-10",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b122.jpg",
+      "/static/img/catalogue/bg5551.jpg",
+      "/static/img/catalogue/bg2258.jpg",
+      "/static/img/catalogue/bg4941.jpg",
+      "/static/img/catalogue/bg765.jpg",
+      "/static/img/catalogue/bg766.jpg",
+      "/static/img/catalogue/bg767.jpg",
+      "/static/img/catalogue/bg768.jpg",
+      "/static/img/catalogue/bg769.jpg",
+      "/static/img/catalogue/bg770.jpg"
+    ],
+    "price": "928 грн",
+    "specs": [
+      "висота, мм: 648",
+      "ширина, мм: 416",
+      "глибина, мм: 416",
+      "вага, кг: 9",
+      "розмір упаковки, мм: 616х420х65",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-12",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b123.jpg",
+      "/static/img/catalogue/bg5553.jpg",
+      "/static/img/catalogue/bg2259.jpg",
+      "/static/img/catalogue/bg4942.jpg",
+      "/static/img/catalogue/bg771.jpg",
+      "/static/img/catalogue/bg772.jpg",
+      "/static/img/catalogue/bg773.jpg",
+      "/static/img/catalogue/bg774.jpg",
+      "/static/img/catalogue/bg775.jpg",
+      "/static/img/catalogue/bg776.jpg",
+      "/static/img/catalogue/bg777.jpg"
+    ],
+    "price": "1077 грн",
+    "specs": [
+      "висота, мм: 716",
+      "ширина, мм: 716",
+      "глибина, мм: 240",
+      "вага, кг: 9,4",
+      "розмір упаковки, мм: 720х227х100",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-11",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b124.jpg",
+      "/static/img/catalogue/bg5552.jpg",
+      "/static/img/catalogue/bg2260.jpg",
+      "/static/img/catalogue/bg4943.jpg",
+      "/static/img/catalogue/bg778.jpg",
+      "/static/img/catalogue/bg779.jpg",
+      "/static/img/catalogue/bg780.jpg",
+      "/static/img/catalogue/bg781.jpg",
+      "/static/img/catalogue/bg782.jpg",
+      "/static/img/catalogue/bg783.jpg",
+      "/static/img/catalogue/bg784.jpg"
+    ],
+    "price": "985 грн",
+    "specs": [
+      "висота, мм: 550",
+      "ширина, мм: 800",
+      "глибина, мм: 300",
+      "вага, кг: 9,2",
+      "розмір упаковки, мм: 770х305х85",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b125.jpg",
+      "/static/img/catalogue/bg5578.jpg",
+      "/static/img/catalogue/bg2261.jpg",
+      "/static/img/catalogue/bg4944.jpg",
+      "/static/img/catalogue/bg785.jpg",
+      "/static/img/catalogue/bg786.jpg",
+      "/static/img/catalogue/bg787.jpg",
+      "/static/img/catalogue/bg788.jpg",
+      "/static/img/catalogue/bg789.jpg",
+      "/static/img/catalogue/bg790.jpg"
+    ],
+    "price": "1842 грн",
+    "specs": [
+      "висота, мм: 400",
+      "ширина, мм: 1204",
+      "глибина, мм: 350",
+      "вага, кг: 18,2",
+      "розмір упаковки, мм: 1200х398х84",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "МС Полиця П-20",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b425.jpg",
+      "/static/img/catalogue/bg5584.jpg",
+      "/static/img/catalogue/bg2101.jpg",
+      "/static/img/catalogue/bg2102.jpg",
+      "/static/img/catalogue/bg2103.jpg",
+      "/static/img/catalogue/bg2104.jpg",
+      "/static/img/catalogue/bg2105.jpg",
+      "/static/img/catalogue/bg2106.jpg",
+      "/static/img/catalogue/bg2107.jpg",
+      "/static/img/catalogue/bg4956.jpg"
+    ],
+    "price": "414 грн",
+    "specs": [
+      "висота, мм: 200",
+      "ширина, мм: 900",
+      "глибина, мм: 216",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "МС Полиця П-21",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b426.jpg",
+      "/static/img/catalogue/bg5585.jpg",
+      "/static/img/catalogue/bg2108.jpg",
+      "/static/img/catalogue/bg2110.jpg",
+      "/static/img/catalogue/bg2109.jpg",
+      "/static/img/catalogue/bg2113.jpg",
+      "/static/img/catalogue/bg2111.jpg",
+      "/static/img/catalogue/bg2112.jpg",
+      "/static/img/catalogue/bg2114.jpg",
+      "/static/img/catalogue/bg4957.jpg"
+    ],
+    "price": "1027 грн",
+    "specs": [
+      "висота, мм: 200",
+      "ширина, мм: 1300",
+      "глибина, мм: 216",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-19",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b437.jpg",
+      "/static/img/catalogue/bg5560.jpg",
+      "/static/img/catalogue/bg2523.jpg",
+      "/static/img/catalogue/bg2524.jpg",
+      "/static/img/catalogue/bg2528.jpg",
+      "/static/img/catalogue/bg2525.jpg",
+      "/static/img/catalogue/bg2526.jpg",
+      "/static/img/catalogue/bg2527.jpg",
+      "/static/img/catalogue/bg2529.jpg",
+      "/static/img/catalogue/bg4945.jpg"
+    ],
+    "price": "741 грн",
+    "specs": [
+      "висота, мм: 400",
+      "ширина, мм: 400",
+      "глибина, мм: 400",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-22",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b476.jpg",
+      "/static/img/catalogue/bg5562.jpg",
+      "/static/img/catalogue/bg2733.jpg",
+      "/static/img/catalogue/bg2728.jpg",
+      "/static/img/catalogue/bg2730.jpg",
+      "/static/img/catalogue/bg2729.jpg",
+      "/static/img/catalogue/bg2732.jpg",
+      "/static/img/catalogue/bg2731.jpg",
+      "/static/img/catalogue/bg2734.jpg",
+      "/static/img/catalogue/bg4946.jpg"
+    ],
+    "price": "464 грн",
+    "specs": [
+      "висота, мм: 120",
+      "ширина, мм: 1200",
+      "глибина, мм: 190",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-23",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b477.jpg",
+      "/static/img/catalogue/bg5563.jpg",
+      "/static/img/catalogue/bg2739.jpg",
+      "/static/img/catalogue/bg2736.jpg",
+      "/static/img/catalogue/bg2735.jpg",
+      "/static/img/catalogue/bg2740.jpg",
+      "/static/img/catalogue/bg2737.jpg",
+      "/static/img/catalogue/bg2738.jpg",
+      "/static/img/catalogue/bg2741.jpg",
+      "/static/img/catalogue/bg4947.jpg"
+    ],
+    "price": "545 грн",
+    "specs": [
+      "висота, мм: 120",
+      "ширина, мм: 1500",
+      "глибина, мм: 190",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-24",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b478.jpg",
+      "/static/img/catalogue/bg5564.jpg",
+      "/static/img/catalogue/bg2748.jpg",
+      "/static/img/catalogue/bg2742.jpg",
+      "/static/img/catalogue/bg2743.jpg",
+      "/static/img/catalogue/bg2745.jpg",
+      "/static/img/catalogue/bg2744.jpg",
+      "/static/img/catalogue/bg2747.jpg",
+      "/static/img/catalogue/bg2746.jpg",
+      "/static/img/catalogue/bg4948.jpg"
+    ],
+    "price": "453 грн",
+    "specs": [
+      "висота, мм: 200",
+      "ширина, мм: 1200",
+      "глибина, мм: 166",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-25",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b479.jpg",
+      "/static/img/catalogue/bg5565.jpg",
+      "/static/img/catalogue/bg2750.jpg",
+      "/static/img/catalogue/bg2749.jpg",
+      "/static/img/catalogue/bg2751.jpg",
+      "/static/img/catalogue/bg2753.jpg",
+      "/static/img/catalogue/bg2755.jpg",
+      "/static/img/catalogue/bg2754.jpg",
+      "/static/img/catalogue/bg2752.jpg",
+      "/static/img/catalogue/bg4949.jpg"
+    ],
+    "price": "531 грн",
+    "specs": [
+      "висота, мм: 200",
+      "ширина, мм: 1500",
+      "глибина, мм: 166",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-26",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b480.jpg",
+      "/static/img/catalogue/bg5566.jpg",
+      "/static/img/catalogue/bg2756.jpg",
+      "/static/img/catalogue/bg2757.jpg",
+      "/static/img/catalogue/bg2758.jpg",
+      "/static/img/catalogue/bg2763.jpg",
+      "/static/img/catalogue/bg2760.jpg",
+      "/static/img/catalogue/bg2759.jpg",
+      "/static/img/catalogue/bg2761.jpg",
+      "/static/img/catalogue/bg2762.jpg",
+      "/static/img/catalogue/bg4950.jpg"
+    ],
+    "price": "1125 грн",
+    "specs": [
+      "висота, мм: 1264",
+      "ширина, мм: 400",
+      "глибина, мм: 316",
+      "вага, кг: 17.34",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби, Дуб сонома/Нимфея альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-27",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b566.jpg",
+      "/static/img/catalogue/bg5567.jpg",
+      "/static/img/catalogue/bg4166.jpg",
+      "/static/img/catalogue/bg4167.jpg",
+      "/static/img/catalogue/bg4161.jpg",
+      "/static/img/catalogue/bg4163.jpg",
+      "/static/img/catalogue/bg4162.jpg",
+      "/static/img/catalogue/bg4165.jpg",
+      "/static/img/catalogue/bg4164.jpg",
+      "/static/img/catalogue/bg4951.jpg"
+    ],
+    "price": "1675 грн",
+    "specs": [
+      "висота, мм: 1765",
+      "ширина, мм: 660(417)",
+      "глибина, мм: 660(417)",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-28",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b567.jpg",
+      "/static/img/catalogue/bg5568.jpg",
+      "/static/img/catalogue/bg4173.jpg",
+      "/static/img/catalogue/bg4168.jpg",
+      "/static/img/catalogue/bg4174.jpg",
+      "/static/img/catalogue/bg4170.jpg",
+      "/static/img/catalogue/bg4172.jpg",
+      "/static/img/catalogue/bg4169.jpg",
+      "/static/img/catalogue/bg4171.jpg",
+      "/static/img/catalogue/bg4952.jpg"
+    ],
+    "price": "1437 грн",
+    "specs": [
+      "висота, мм: 1172",
+      "ширина, мм: 1200",
+      "глибина, мм: 332",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-29",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b568.jpg",
+      "/static/img/catalogue/bg5569.jpg",
+      "/static/img/catalogue/bg4175.jpg",
+      "/static/img/catalogue/bg4180.jpg",
+      "/static/img/catalogue/bg4177.jpg",
+      "/static/img/catalogue/bg4176.jpg",
+      "/static/img/catalogue/bg4179.jpg",
+      "/static/img/catalogue/bg4178.jpg",
+      "/static/img/catalogue/bg4181.jpg",
+      "/static/img/catalogue/bg4953.jpg"
+    ],
+    "price": "1334 грн",
+    "specs": [
+      "висота, мм: 1607",
+      "ширина, мм: 617",
+      "глибина, мм: 276",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-30",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b569.jpg",
+      "/static/img/catalogue/bg5571.jpg",
+      "/static/img/catalogue/bg4182.jpg",
+      "/static/img/catalogue/bg4187.jpg",
+      "/static/img/catalogue/bg4183.jpg",
+      "/static/img/catalogue/bg4184.jpg",
+      "/static/img/catalogue/bg4185.jpg",
+      "/static/img/catalogue/bg4186.jpg",
+      "/static/img/catalogue/bg4188.jpg",
+      "/static/img/catalogue/bg4954.jpg"
+    ],
+    "price": "580 грн",
+    "specs": [
+      "висота, мм: 250",
+      "ширина, мм: 850",
+      "глибина, мм: 300",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-31",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b570.jpg",
+      "/static/img/catalogue/bg4189.jpg",
+      "/static/img/catalogue/bg4194.jpg",
+      "/static/img/catalogue/bg4190.jpg",
+      "/static/img/catalogue/bg4191.jpg",
+      "/static/img/catalogue/bg4192.jpg",
+      "/static/img/catalogue/bg4193.jpg",
+      "/static/img/catalogue/bg4195.jpg"
+    ],
+    "price": "441 грн",
+    "specs": [
+      "висота, мм: 240",
+      "ширина, мм: 700",
+      "глибина, мм: 142",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-32",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b571.jpg",
+      "/static/img/catalogue/bg5572.jpg",
+      "/static/img/catalogue/bg4196.jpg",
+      "/static/img/catalogue/bg4197.jpg",
+      "/static/img/catalogue/bg4202.jpg",
+      "/static/img/catalogue/bg4200.jpg",
+      "/static/img/catalogue/bg4198.jpg",
+      "/static/img/catalogue/bg4199.jpg",
+      "/static/img/catalogue/bg4201.jpg",
+      "/static/img/catalogue/bg4955.jpg"
+    ],
+    "price": "890 грн",
+    "specs": [
+      "висота, мм: 840",
+      "ширина, мм: 300",
+      "глибина, мм: 300",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-33",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b702.jpg",
+      "/static/img/catalogue/bg5573.jpg",
+      "/static/img/catalogue/bg4801.jpg",
+      "/static/img/catalogue/bg4798.jpg",
+      "/static/img/catalogue/bg4799.jpg",
+      "/static/img/catalogue/bg4800.jpg",
+      "/static/img/catalogue/bg4802.jpg",
+      "/static/img/catalogue/bg4803.jpg",
+      "/static/img/catalogue/bg4804.jpg"
+    ],
+    "price": "2334 грн",
+    "specs": [
+      "висота, мм: 893",
+      "ширина, мм: 885",
+      "глибина, мм: 275",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-34",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b703.jpg",
+      "/static/img/catalogue/bg5574.jpg",
+      "/static/img/catalogue/bg4807.jpg",
+      "/static/img/catalogue/bg4805.jpg",
+      "/static/img/catalogue/bg4806.jpg",
+      "/static/img/catalogue/bg4808.jpg",
+      "/static/img/catalogue/bg4810.jpg",
+      "/static/img/catalogue/bg4811.jpg",
+      "/static/img/catalogue/bg4809.jpg"
+    ],
+    "price": "1657 грн",
+    "specs": [
+      "висота, мм: 893",
+      "ширина, мм: 596",
+      "глибина, мм: 275",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-35",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b704.jpg",
+      "/static/img/catalogue/bg5575.jpg",
+      "/static/img/catalogue/bg4814.jpg",
+      "/static/img/catalogue/bg4812.jpg",
+      "/static/img/catalogue/bg4813.jpg",
+      "/static/img/catalogue/bg4815.jpg",
+      "/static/img/catalogue/bg4817.jpg",
+      "/static/img/catalogue/bg4816.jpg",
+      "/static/img/catalogue/bg4818.jpg"
+    ],
+    "price": "1200 грн",
+    "specs": [
+      "висота, мм: 604",
+      "ширина, мм: 596",
+      "глибина, мм: 275",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-36",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b705.jpg",
+      "/static/img/catalogue/bg5576.jpg",
+      "/static/img/catalogue/bg4821.jpg",
+      "/static/img/catalogue/bg4819.jpg",
+      "/static/img/catalogue/bg4820.jpg",
+      "/static/img/catalogue/bg4825.jpg",
+      "/static/img/catalogue/bg4823.jpg",
+      "/static/img/catalogue/bg4822.jpg",
+      "/static/img/catalogue/bg4824.jpg"
+    ],
+    "price": "1042 грн",
+    "specs": [
+      "висота, мм: 315",
+      "ширина, мм: 885",
+      "глибина, мм: 275",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-37",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b706.jpg",
+      "/static/img/catalogue/bg5577.jpg",
+      "/static/img/catalogue/bg4830.jpg",
+      "/static/img/catalogue/bg4826.jpg",
+      "/static/img/catalogue/bg4828.jpg",
+      "/static/img/catalogue/bg4827.jpg",
+      "/static/img/catalogue/bg4831.jpg",
+      "/static/img/catalogue/bg4832.jpg",
+      "/static/img/catalogue/bg4829.jpg"
+    ],
+    "price": "1477 грн",
+    "specs": [
+      "висота, мм: 1856",
+      "ширина, мм: 500",
+      "глибина, мм: 256",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-38",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b737.jpg",
+      "/static/img/catalogue/bg5918.jpg",
+      "/static/img/catalogue/bg5907.jpg",
+      "/static/img/catalogue/bg5906.jpg",
+      "/static/img/catalogue/bg5908.jpg",
+      "/static/img/catalogue/bg5919.jpg",
+      "/static/img/catalogue/bg5897.jpg",
+      "/static/img/catalogue/bg5895.jpg",
+      "/static/img/catalogue/bg5899.jpg",
+      "/static/img/catalogue/bg5894.jpg",
+      "/static/img/catalogue/bg5910.jpg",
+      "/static/img/catalogue/bg5901.jpg",
+      "/static/img/catalogue/bg5913.jpg",
+      "/static/img/catalogue/bg5898.jpg",
+      "/static/img/catalogue/bg5912.jpg",
+      "/static/img/catalogue/bg5900.jpg",
+      "/static/img/catalogue/bg5914.jpg",
+      "/static/img/catalogue/bg5902.jpg",
+      "/static/img/catalogue/bg5916.jpg",
+      "/static/img/catalogue/bg5903.jpg",
+      "/static/img/catalogue/bg5915.jpg",
+      "/static/img/catalogue/bg5904.jpg",
+      "/static/img/catalogue/bg5911.jpg",
+      "/static/img/catalogue/bg5896.jpg",
+      "/static/img/catalogue/bg5917.jpg",
+      "/static/img/catalogue/bg5905.jpg",
+      "/static/img/catalogue/bg5909.jpg"
+    ],
+    "price": "545 грн",
+    "specs": [
+      "висота, мм: 400",
+      "ширина, мм: 516/968",
+      "глибина, мм: 200",
+      "вага, кг: 5.4",
+      "розмір упаковки, мм: 468х200х96",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Полиця П-39",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b738.jpg",
+      "/static/img/catalogue/bg5930.jpg",
+      "/static/img/catalogue/bg5921.jpg",
+      "/static/img/catalogue/bg5920.jpg",
+      "/static/img/catalogue/bg5923.jpg",
+      "/static/img/catalogue/bg5929.jpg",
+      "/static/img/catalogue/bg5932.jpg",
+      "/static/img/catalogue/bg5924.jpg",
+      "/static/img/catalogue/bg5928.jpg",
+      "/static/img/catalogue/bg5927.jpg",
+      "/static/img/catalogue/bg5931.jpg",
+      "/static/img/catalogue/bg5926.jpg",
+      "/static/img/catalogue/bg5925.jpg",
+      "/static/img/catalogue/bg5922.jpg"
+    ],
+    "price": "2076 грн",
+    "specs": [
+      "висота, мм: 1800",
+      "ширина, мм: 600",
+      "глибина, мм: 316",
+      "вага, кг: 26",
+      "розмір упаковки, мм: 1500х300х96",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+
+  {
+    "name": "Полиця навісна Каліста",
+    "desc": "",
+    "images": ["/static/img/catalogue/calista-polka-navisna-700x700.jpg"],
+    "price": "437 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 130 см",
+      "Висота: 20 см",
+      "Глибина: 17,6 см",
+      "Корпус: Дуб Аппалачі / Антрацит",
+      "Фасад: Дуб Аппалачі",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Полиця Б'янко 105 Білий",
+    "desc": "",
+    "images": ["/static/img/catalogue/polytsya-byanko-105-bila-700x700.jpg"],
+    "price": "367 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 105 см",
+      "Висота: 20 см",
+      "Глибина: 19,6 см",
+      "Корпус: Білий",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Полиця навісна 1.3 Зара",
+    "desc": "",
+    "images": ["/static/img/catalogue/zara-polka-1.3-700x700.jpg"],
+    "price": "475 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 130 см",
+      "Висота: 20 см",
+      "Глибина: 17,6 см",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Полиця навісна 1.8 Зара",
+    "desc": "",
+    "images": ["/static/img/catalogue/zara-polka-1.8-700x700.jpg"],
+    "price": "649 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 20 см",
+      "Глибина: 17,6 см",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

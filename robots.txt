@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /static/js/
+Disallow: /static/css/
+Disallow: /static/img/temp/
+
+Sitemap: https://mebel-koral.dp.ua/sitemap.xml

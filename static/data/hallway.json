@@ -1,0 +1,2692 @@
+[
+  {
+    "name": "Передпокій Валентина",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b10.jpg",
+      "/static/img/catalogue/bg5227.jpg",
+      "/static/img/catalogue/bg3196.jpg",
+      "/static/img/catalogue/bg3199.jpg",
+      "/static/img/catalogue/bg3197.jpg",
+      "/static/img/catalogue/bg5017.jpg",
+      "/static/img/catalogue/bg3198.jpg",
+      "/static/img/catalogue/bg3201.jpg",
+      "/static/img/catalogue/bg3200.jpg"
+    ],
+    "price": "6455 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 1200",
+      "глибина, мм: 375",
+      "вага, кг: 75,6",
+      "розмір упаковки, мм: 1950х600х115",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Ольга",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b11.jpg",
+      "/static/img/catalogue/bg5228.jpg",
+      "/static/img/catalogue/bg3180.jpg",
+      "/static/img/catalogue/bg3181.jpg",
+      "/static/img/catalogue/bg3182.jpg",
+      "/static/img/catalogue/bg5028.jpg",
+      "/static/img/catalogue/bg3178.jpg",
+      "/static/img/catalogue/bg3183.jpg",
+      "/static/img/catalogue/bg3179.jpg"
+    ],
+    "price": "3612 грн",
+    "specs": [
+      "висота, мм: 500-тумба; 1000-зеркало",
+      "ширина, мм: 1000",
+      "глибина, мм: 365",
+      "вага, кг: 33,4",
+      "розмір упаковки, мм: 1010х450х145",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Вішалка В-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b12.jpg",
+      "/static/img/catalogue/bg5272.jpg",
+      "/static/img/catalogue/bg2184.jpg",
+      "/static/img/catalogue/bg4885.jpg",
+      "/static/img/catalogue/bg65.jpg",
+      "/static/img/catalogue/bg66.jpg",
+      "/static/img/catalogue/bg67.jpg",
+      "/static/img/catalogue/bg68.jpg",
+      "/static/img/catalogue/bg69.jpg",
+      "/static/img/catalogue/bg70.jpg"
+    ],
+    "price": "742 грн",
+    "specs": [
+      "висота, мм: 1000",
+      "ширина, мм: 480",
+      "вага, кг: 5,6",
+      "розмір упаковки, мм: 1000х145х65",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Влада",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b14.jpg",
+      "/static/img/catalogue/bg5018.jpg",
+      "/static/img/catalogue/bg5229.jpg",
+      "/static/img/catalogue/bg3984.jpg",
+      "/static/img/catalogue/bg3979.jpg",
+      "/static/img/catalogue/bg3980.jpg",
+      "/static/img/catalogue/bg3981.jpg",
+      "/static/img/catalogue/bg3985.jpg",
+      "/static/img/catalogue/bg3983.jpg",
+      "/static/img/catalogue/bg3982.jpg"
+    ],
+    "price": "3740 грн",
+    "specs": [
+      "висота, мм: 667/1016",
+      "ширина, мм: 1002",
+      "глибина, мм: 380",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Вішалка-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b148.jpg",
+      "/static/img/catalogue/bg5273.jpg",
+      "/static/img/catalogue/bg2185.jpg",
+      "/static/img/catalogue/bg4886.jpg",
+      "/static/img/catalogue/bg938.jpg",
+      "/static/img/catalogue/bg939.jpg",
+      "/static/img/catalogue/bg940.jpg",
+      "/static/img/catalogue/bg941.jpg",
+      "/static/img/catalogue/bg942.jpg",
+      "/static/img/catalogue/bg943.jpg"
+    ],
+    "price": "463 грн",
+    "specs": [
+      "висота, мм: 300",
+      "ширина, мм: 600",
+      "глибина, мм: 216",
+      "вага, кг: 3,6",
+      "розмір упаковки, мм: 600х302х32",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Вішалка-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b149.jpg",
+      "/static/img/catalogue/bg5274.jpg",
+      "/static/img/catalogue/bg2186.jpg",
+      "/static/img/catalogue/bg4887.jpg",
+      "/static/img/catalogue/bg944.jpg",
+      "/static/img/catalogue/bg945.jpg",
+      "/static/img/catalogue/bg946.jpg",
+      "/static/img/catalogue/bg947.jpg",
+      "/static/img/catalogue/bg948.jpg",
+      "/static/img/catalogue/bg949.jpg"
+    ],
+    "price": "609 грн",
+    "specs": [
+      "висота, мм: 300",
+      "ширина, мм: 900",
+      "глибина, мм: 216",
+      "вага, кг: 5,6",
+      "розмір упаковки, мм: 900х302х32",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Дзеркало-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b150.jpg",
+      "/static/img/catalogue/bg5279.jpg",
+      "/static/img/catalogue/bg2444.jpg",
+      "/static/img/catalogue/bg4880.jpg",
+      "/static/img/catalogue/bg950.jpg",
+      "/static/img/catalogue/bg951.jpg",
+      "/static/img/catalogue/bg952.jpg",
+      "/static/img/catalogue/bg953.jpg",
+      "/static/img/catalogue/bg954.jpg",
+      "/static/img/catalogue/bg955.jpg"
+    ],
+    "price": "1142 грн",
+    "specs": [
+      "висота, мм: 1000",
+      "ширина, мм: 400",
+      "глибина, мм: 96",
+      "вага, кг: 6,8",
+      "розмір упаковки, мм: 700х452х32",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Дзеркало-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b151.jpg",
+      "/static/img/catalogue/bg5278.jpg",
+      "/static/img/catalogue/bg2445.jpg",
+      "/static/img/catalogue/bg4881.jpg",
+      "/static/img/catalogue/bg956.jpg",
+      "/static/img/catalogue/bg957.jpg",
+      "/static/img/catalogue/bg958.jpg",
+      "/static/img/catalogue/bg959.jpg",
+      "/static/img/catalogue/bg960.jpg",
+      "/static/img/catalogue/bg961.jpg"
+    ],
+    "price": "1023 грн",
+    "specs": [
+      "висота, мм: 700",
+      "ширина, мм: 450",
+      "глибина, мм: 96",
+      "вага, кг: 6,6",
+      "розмір упаковки, мм: 700х452х32",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Дзеркало-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b152.jpg",
+      "/static/img/catalogue/bg5277.jpg",
+      "/static/img/catalogue/bg2446.jpg",
+      "/static/img/catalogue/bg4882.jpg",
+      "/static/img/catalogue/bg962.jpg",
+      "/static/img/catalogue/bg963.jpg",
+      "/static/img/catalogue/bg964.jpg",
+      "/static/img/catalogue/bg965.jpg",
+      "/static/img/catalogue/bg966.jpg",
+      "/static/img/catalogue/bg967.jpg"
+    ],
+    "price": "1188 грн",
+    "specs": [
+      "висота, мм: 1020",
+      "ширина, мм: 360",
+      "глибина, мм: 20",
+      "вага, кг: 3,6",
+      "розмір упаковки, мм: 1080х420х30",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Ірма",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b154.jpg",
+      "/static/img/catalogue/bg5022.jpg",
+      "/static/img/catalogue/bg5238.jpg",
+      "/static/img/catalogue/bg4000.jpg",
+      "/static/img/catalogue/bg4002.jpg",
+      "/static/img/catalogue/bg4003.jpg",
+      "/static/img/catalogue/bg4004.jpg",
+      "/static/img/catalogue/bg4001.jpg",
+      "/static/img/catalogue/bg4008.jpg",
+      "/static/img/catalogue/bg4009.jpg",
+      "/static/img/catalogue/bg4005.jpg",
+      "/static/img/catalogue/bg4011.jpg",
+      "/static/img/catalogue/bg4007.jpg",
+      "/static/img/catalogue/bg4006.jpg",
+      "/static/img/catalogue/bg4013.jpg",
+      "/static/img/catalogue/bg4010.jpg",
+      "/static/img/catalogue/bg4012.jpg"
+    ],
+    "price": "4677 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 900",
+      "глибина, мм: 380",
+      "матеріал: ламіноване ДСП",
+      "колір МДФ: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба"
+    ]
+  },
+  {
+    "name": "Передпокій Любовь",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b155.jpg",
+      "/static/img/catalogue/bg5024.jpg",
+      "/static/img/catalogue/bg5239.jpg",
+      "/static/img/catalogue/bg4014.jpg",
+      "/static/img/catalogue/bg4015.jpg",
+      "/static/img/catalogue/bg4017.jpg",
+      "/static/img/catalogue/bg4018.jpg",
+      "/static/img/catalogue/bg4019.jpg",
+      "/static/img/catalogue/bg4016.jpg",
+      "/static/img/catalogue/bg4020.jpg"
+    ],
+    "price": "7177 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 1200",
+      "глибина, мм: 448",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Ніна",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b156.jpg",
+      "/static/img/catalogue/bg5027.jpg",
+      "/static/img/catalogue/bg5240.jpg",
+      "/static/img/catalogue/bg4026.jpg",
+      "/static/img/catalogue/bg4023.jpg",
+      "/static/img/catalogue/bg4025.jpg",
+      "/static/img/catalogue/bg4022.jpg",
+      "/static/img/catalogue/bg4021.jpg",
+      "/static/img/catalogue/bg4027.jpg",
+      "/static/img/catalogue/bg4024.jpg"
+    ],
+    "price": "4718 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 1202(608+594)",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Надія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b18.jpg",
+      "/static/img/catalogue/bg5231.jpg",
+      "/static/img/catalogue/bg3170.jpg",
+      "/static/img/catalogue/bg3167.jpg",
+      "/static/img/catalogue/bg3171.jpg",
+      "/static/img/catalogue/bg5026.jpg",
+      "/static/img/catalogue/bg3168.jpg",
+      "/static/img/catalogue/bg3172.jpg",
+      "/static/img/catalogue/bg3169.jpg"
+    ],
+    "price": "5961 грн",
+    "specs": [
+      "висота, мм: 2026",
+      "ширина, мм: 1000",
+      "глибина, мм: 355",
+      "вага, кг: 66,4",
+      "розмір упаковки, мм: 2000х120х500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Єва",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b19.jpg",
+      "/static/img/catalogue/bg5232.jpg",
+      "/static/img/catalogue/bg3988.jpg",
+      "/static/img/catalogue/bg3992.jpg",
+      "/static/img/catalogue/bg3986.jpg",
+      "/static/img/catalogue/bg5020.jpg",
+      "/static/img/catalogue/bg3991.jpg",
+      "/static/img/catalogue/bg3987.jpg",
+      "/static/img/catalogue/bg3990.jpg",
+      "/static/img/catalogue/bg3989.jpg"
+    ],
+    "price": "4487 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 1003",
+      "глибина, мм: 380",
+      "вага, кг: 58,36",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Юлія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b20.jpg",
+      "/static/img/catalogue/bg5233.jpg",
+      "/static/img/catalogue/bg5032.jpg",
+      "/static/img/catalogue/bg3210.jpg",
+      "/static/img/catalogue/bg3208.jpg",
+      "/static/img/catalogue/bg3209.jpg",
+      "/static/img/catalogue/bg3213.jpg",
+      "/static/img/catalogue/bg3212.jpg",
+      "/static/img/catalogue/bg3211.jpg"
+    ],
+    "price": "5918 грн",
+    "specs": [
+      "висота, мм: 2026",
+      "ширина, мм: 1100",
+      "глибина, мм: 400",
+      "вага, кг: 69,6",
+      "розмір упаковки, мм: 1975х125х495",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Марія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b21.jpg",
+      "/static/img/catalogue/bg5234.jpg",
+      "/static/img/catalogue/bg2273.jpg",
+      "/static/img/catalogue/bg5025.jpg",
+      "/static/img/catalogue/bg126.jpg",
+      "/static/img/catalogue/bg127.jpg",
+      "/static/img/catalogue/bg128.jpg",
+      "/static/img/catalogue/bg129.jpg",
+      "/static/img/catalogue/bg130.jpg",
+      "/static/img/catalogue/bg131.jpg"
+    ],
+    "price": "4212 грн",
+    "specs": [
+      "висота, мм: 2026",
+      "кут, мм: 600х600",
+      "вага, кг: 38,2",
+      "розмір упаковки, мм: 1970х65х515",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Комплект с прихожей Алиса Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m213.jpg"],
+    "price": "14620 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Ангелина Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m214.jpg"],
+    "price": "17744 грн",
+    "specs": []
+  },
+  {
+    "name": "Передпокій Зоя",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b22.jpg",
+      "/static/img/catalogue/bg5021.jpg",
+      "/static/img/catalogue/bg5235.jpg",
+      "/static/img/catalogue/bg3997.jpg",
+      "/static/img/catalogue/bg3994.jpg",
+      "/static/img/catalogue/bg3998.jpg",
+      "/static/img/catalogue/bg3995.jpg",
+      "/static/img/catalogue/bg3996.jpg",
+      "/static/img/catalogue/bg3999.jpg",
+      "/static/img/catalogue/bg3993.jpg"
+    ],
+    "price": "3444 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 500",
+      "глибина, мм: 370",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Діана",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b24.jpg",
+      "/static/img/catalogue/bg5236.jpg",
+      "/static/img/catalogue/bg2277.jpg",
+      "/static/img/catalogue/bg5019.jpg",
+      "/static/img/catalogue/bg995.jpg",
+      "/static/img/catalogue/bg147.jpg",
+      "/static/img/catalogue/bg148.jpg",
+      "/static/img/catalogue/bg149.jpg",
+      "/static/img/catalogue/bg150.jpg",
+      "/static/img/catalogue/bg151.jpg",
+      "/static/img/catalogue/bg152.jpg"
+    ],
+    "price": "2412 грн",
+    "specs": [
+      "висота, мм: 1700",
+      "ширина, мм: 550",
+      "глибина, мм: 380",
+      "вага, кг: 28,8",
+      "розмір упаковки, мм: 1710х382х85",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Фаіна",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b25.jpg",
+      "/static/img/catalogue/bg5237.jpg",
+      "/static/img/catalogue/bg2278.jpg",
+      "/static/img/catalogue/bg5031.jpg",
+      "/static/img/catalogue/bg996.jpg",
+      "/static/img/catalogue/bg153.jpg",
+      "/static/img/catalogue/bg154.jpg",
+      "/static/img/catalogue/bg155.jpg",
+      "/static/img/catalogue/bg156.jpg",
+      "/static/img/catalogue/bg157.jpg",
+      "/static/img/catalogue/bg158.jpg"
+    ],
+    "price": "3228 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 550",
+      "глибина, мм: 380",
+      "вага, кг: 38,2",
+      "розмір упаковки, мм: 1957х382х105",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-8",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b26.jpg",
+      "/static/img/catalogue/bg5731.jpg",
+      "/static/img/catalogue/bg5247.jpg",
+      "/static/img/catalogue/bg4888.jpg",
+      "/static/img/catalogue/bg2447.jpg",
+      "/static/img/catalogue/bg159.jpg",
+      "/static/img/catalogue/bg160.jpg",
+      "/static/img/catalogue/bg161.jpg",
+      "/static/img/catalogue/bg162.jpg",
+      "/static/img/catalogue/bg163.jpg",
+      "/static/img/catalogue/bg164.jpg",
+      "/static/img/catalogue/bg165.jpg"
+    ],
+    "price": "1823 грн",
+    "specs": [
+      "висота, мм: 600",
+      "ширина, мм: 600",
+      "глибина, мм: 380",
+      "вага, кг: 19",
+      "розмір упаковки, мм: 730х600х90",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b27.jpg",
+      "/static/img/catalogue/bg5248.jpg",
+      "/static/img/catalogue/bg2409.jpg",
+      "/static/img/catalogue/bg4889.jpg",
+      "/static/img/catalogue/bg166.jpg",
+      "/static/img/catalogue/bg167.jpg",
+      "/static/img/catalogue/bg168.jpg",
+      "/static/img/catalogue/bg169.jpg",
+      "/static/img/catalogue/bg170.jpg",
+      "/static/img/catalogue/bg171.jpg"
+    ],
+    "price": "1335 грн",
+    "specs": [
+      "висота, мм: 800",
+      "ширина, мм: 700",
+      "глибина, мм: 250",
+      "вага, кг: 15",
+      "розмір упаковки, мм: 810х253х145",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Комплект с прихожей  Анна Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m306.jpg"],
+    "price": "1062 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Валентина Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m307.jpg"],
+    "price": "9127 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Вера Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m308.jpg"],
+    "price": "7097 грн",
+    "specs": []
+  },
+  {
+    "name": "Тумба під взуття ТО-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b31.jpg",
+      "/static/img/catalogue/bg5250.jpg",
+      "/static/img/catalogue/bg3119.jpg",
+      "/static/img/catalogue/bg3114.jpg",
+      "/static/img/catalogue/bg3115.jpg",
+      "/static/img/catalogue/bg4891.jpg",
+      "/static/img/catalogue/bg3117.jpg",
+      "/static/img/catalogue/bg3116.jpg",
+      "/static/img/catalogue/bg3118.jpg"
+    ],
+    "price": "1975 грн",
+    "specs": [
+      "висота, мм: 849",
+      "ширина, мм: 700",
+      "глибина, мм: 260",
+      "вага, кг: 20,8",
+      "розмір упаковки, мм: 945х420х130",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Комплект с прихожей Диана Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m312.jpg"],
+    "price": "7186 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Лариса Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m315.jpg"],
+    "price": "11582 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Лидия Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m316.jpg"],
+    "price": "7755 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Мария Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m318.jpg"],
+    "price": "6228 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Надежда Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m319.jpg"],
+    "price": "7568 грн",
+    "specs": []
+  },
+  {
+    "name": "Тумба під взуття ТО-3А",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b32.jpg",
+      "/static/img/catalogue/bg5251.jpg",
+      "/static/img/catalogue/bg3120.jpg",
+      "/static/img/catalogue/bg3121.jpg",
+      "/static/img/catalogue/bg3123.jpg",
+      "/static/img/catalogue/bg4892.jpg",
+      "/static/img/catalogue/bg3124.jpg",
+      "/static/img/catalogue/bg3122.jpg",
+      "/static/img/catalogue/bg3125.jpg"
+    ],
+    "price": "2708 грн",
+    "specs": [
+      "висота, мм: 1016",
+      "ширина, мм: 726",
+      "глибина, мм: 400",
+      "вага, кг: 33,8",
+      "розмір упаковки, мм: 1005х405х165",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Комплект с прихожей Ольга Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m320.jpg"],
+    "price": "6103 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Светлана Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m321.jpg"],
+    "price": "5352 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Тамара Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m322.jpg"],
+    "price": "9849 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Фаина Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m324.jpg"],
+    "price": "8003 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Юлия Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m325.jpg"],
+    "price": "6214 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Василиса Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m326.jpg"],
+    "price": "9474 грн",
+    "specs": []
+  },
+  {
+    "name": "Тумба під взуття ТО-3Б",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b33.jpg",
+      "/static/img/catalogue/bg5252.jpg",
+      "/static/img/catalogue/bg3126.jpg",
+      "/static/img/catalogue/bg3130.jpg",
+      "/static/img/catalogue/bg3127.jpg",
+      "/static/img/catalogue/bg4893.jpg",
+      "/static/img/catalogue/bg3128.jpg",
+      "/static/img/catalogue/bg3131.jpg",
+      "/static/img/catalogue/bg3129.jpg"
+    ],
+    "price": "2905 грн",
+    "specs": [
+      "висота, мм: 1232",
+      "ширина, мм: 700",
+      "глибина, мм: 320",
+      "вага, кг: 30,2",
+      "розмір упаковки, мм: 1345х405х105",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Комплект с прихожей Татьяна Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m334.jpg"],
+    "price": "10998 грн",
+    "specs": []
+  },
+  {
+    "name": "Комплект с прихожей Галина без зеркала Компанит",
+    "desc": "",
+    "images": ["/static/img/catalogue/m335.jpg"],
+    "price": "7028 грн",
+    "specs": []
+  },
+  {
+    "name": "Тумба під взуття ТО-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b34.jpg",
+      "/static/img/catalogue/bg5730.jpg",
+      "/static/img/catalogue/bg5253.jpg",
+      "/static/img/catalogue/bg3138.jpg",
+      "/static/img/catalogue/bg3140.jpg",
+      "/static/img/catalogue/bg3137.jpg",
+      "/static/img/catalogue/bg3139.jpg",
+      "/static/img/catalogue/bg3142.jpg",
+      "/static/img/catalogue/bg3141.jpg"
+    ],
+    "price": "2776 грн",
+    "specs": [
+      "висота, мм: 662",
+      "ширина, мм: 978",
+      "глибина, мм: 380",
+      "вага, кг: 31,8",
+      "розмір упаковки, мм: 975х590х120",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b35.jpg",
+      "/static/img/catalogue/bg5254.jpg",
+      "/static/img/catalogue/bg3143.jpg",
+      "/static/img/catalogue/bg3144.jpg",
+      "/static/img/catalogue/bg3148.jpg",
+      "/static/img/catalogue/bg4895.jpg",
+      "/static/img/catalogue/bg3145.jpg",
+      "/static/img/catalogue/bg3146.jpg",
+      "/static/img/catalogue/bg3147.jpg"
+    ],
+    "price": "3106 грн",
+    "specs": [
+      "висота, мм: 815",
+      "ширина, мм: 992",
+      "глибина, мм: 380",
+      "вага, кг: 32,95",
+      "розмір упаковки, мм: 1210х410х130",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-11",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b37.jpg",
+      "/static/img/catalogue/bg5255.jpg",
+      "/static/img/catalogue/bg2419.jpg",
+      "/static/img/catalogue/bg4896.jpg",
+      "/static/img/catalogue/bg226.jpg",
+      "/static/img/catalogue/bg227.jpg",
+      "/static/img/catalogue/bg230.jpg",
+      "/static/img/catalogue/bg232.jpg",
+      "/static/img/catalogue/bg4570.jpg"
+    ],
+    "price": "1915 грн",
+    "specs": [
+      "висота, мм: 1000",
+      "ширина, мм: 500",
+      "глибина, мм: 380",
+      "вага, кг: 21,6",
+      "розмір упаковки, мм: 985х380х103",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-12",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b38.jpg",
+      "/static/img/catalogue/bg5732.jpg",
+      "/static/img/catalogue/bg5256.jpg",
+      "/static/img/catalogue/bg2448.jpg",
+      "/static/img/catalogue/bg233.jpg",
+      "/static/img/catalogue/bg234.jpg",
+      "/static/img/catalogue/bg235.jpg",
+      "/static/img/catalogue/bg236.jpg",
+      "/static/img/catalogue/bg237.jpg",
+      "/static/img/catalogue/bg238.jpg"
+    ],
+    "price": "2262 грн",
+    "specs": [
+      "висота, мм: 660",
+      "ширина, мм: 900",
+      "глибина, мм: 380",
+      "вага, кг: 25,4",
+      "розмір упаковки, мм: 895х406х138",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-13",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b39.jpg",
+      "/static/img/catalogue/bg5257.jpg",
+      "/static/img/catalogue/bg2421.jpg",
+      "/static/img/catalogue/bg4898.jpg",
+      "/static/img/catalogue/bg239.jpg",
+      "/static/img/catalogue/bg240.jpg",
+      "/static/img/catalogue/bg241.jpg",
+      "/static/img/catalogue/bg242.jpg",
+      "/static/img/catalogue/bg243.jpg",
+      "/static/img/catalogue/bg244.jpg",
+      "/static/img/catalogue/bg245.jpg"
+    ],
+    "price": "1563 грн",
+    "specs": [
+      "висота, мм: 500",
+      "ширина, мм: 900",
+      "глибина, мм: 380",
+      "вага, кг: 19,2",
+      "розмір упаковки, мм: 900х460х85",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-10 NEW",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b450.jpg",
+      "/static/img/catalogue/bg5258.jpg",
+      "/static/img/catalogue/bg2533.jpg",
+      "/static/img/catalogue/bg4899.jpg",
+      "/static/img/catalogue/bg2535.jpg",
+      "/static/img/catalogue/bg2530.jpg",
+      "/static/img/catalogue/bg2531.jpg",
+      "/static/img/catalogue/bg2534.jpg",
+      "/static/img/catalogue/bg2536.jpg",
+      "/static/img/catalogue/bg2532.jpg"
+    ],
+    "price": "1755 грн",
+    "specs": [
+      "висота, мм: 1142",
+      "ширина, мм: 700",
+      "глибина, мм: 250",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Дзеркало-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b539.jpg",
+      "/static/img/catalogue/bg5280.jpg",
+      "/static/img/catalogue/bg3922.jpg",
+      "/static/img/catalogue/bg3916.jpg",
+      "/static/img/catalogue/bg4883.jpg",
+      "/static/img/catalogue/bg3918.jpg",
+      "/static/img/catalogue/bg3917.jpg",
+      "/static/img/catalogue/bg3919.jpg",
+      "/static/img/catalogue/bg3920.jpg",
+      "/static/img/catalogue/bg3921.jpg"
+    ],
+    "price": "1264 грн",
+    "specs": [
+      "висота, мм: 600",
+      "ширина, мм: 900",
+      "глибина, мм: 20",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Дзеркало-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b540.jpg",
+      "/static/img/catalogue/bg4884.jpg",
+      "/static/img/catalogue/bg5281.jpg",
+      "/static/img/catalogue/bg3928.jpg",
+      "/static/img/catalogue/bg3925.jpg",
+      "/static/img/catalogue/bg3924.jpg",
+      "/static/img/catalogue/bg3929.jpg",
+      "/static/img/catalogue/bg3927.jpg",
+      "/static/img/catalogue/bg3923.jpg",
+      "/static/img/catalogue/bg3926.jpg"
+    ],
+    "price": "1799 грн",
+    "specs": [
+      "висота, мм: 820",
+      "ширина, мм: 820",
+      "глибина, мм: 20",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-14",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b541.jpg",
+      "/static/img/catalogue/bg5259.jpg",
+      "/static/img/catalogue/bg3931.jpg",
+      "/static/img/catalogue/bg3936.jpg",
+      "/static/img/catalogue/bg4900.jpg",
+      "/static/img/catalogue/bg3935.jpg",
+      "/static/img/catalogue/bg3932.jpg",
+      "/static/img/catalogue/bg3933.jpg",
+      "/static/img/catalogue/bg3930.jpg",
+      "/static/img/catalogue/bg3934.jpg"
+    ],
+    "price": "2024 грн",
+    "specs": [
+      "висота, мм: 1142",
+      "ширина, мм: 700",
+      "глибина, мм: 250",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-15",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b542.jpg",
+      "/static/img/catalogue/bg4901.jpg",
+      "/static/img/catalogue/bg5260.jpg",
+      "/static/img/catalogue/bg3942.jpg",
+      "/static/img/catalogue/bg3943.jpg",
+      "/static/img/catalogue/bg3937.jpg",
+      "/static/img/catalogue/bg3939.jpg",
+      "/static/img/catalogue/bg3940.jpg",
+      "/static/img/catalogue/bg3938.jpg",
+      "/static/img/catalogue/bg3941.jpg"
+    ],
+    "price": "1793 грн",
+    "specs": [
+      "висота, мм: 1048",
+      "ширина, мм: 600",
+      "глибина, мм: 320",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-16",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b543.jpg",
+      "/static/img/catalogue/bg4902.jpg",
+      "/static/img/catalogue/bg5261.jpg",
+      "/static/img/catalogue/bg3944.jpg",
+      "/static/img/catalogue/bg3945.jpg",
+      "/static/img/catalogue/bg3949.jpg",
+      "/static/img/catalogue/bg3946.jpg",
+      "/static/img/catalogue/bg3947.jpg",
+      "/static/img/catalogue/bg3948.jpg",
+      "/static/img/catalogue/bg3950.jpg"
+    ],
+    "price": "2398 грн",
+    "specs": [
+      "висота, мм: 1000",
+      "ширина, мм: 1000",
+      "глибина, мм: 280",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-17",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b544.jpg",
+      "/static/img/catalogue/bg5733.jpg",
+      "/static/img/catalogue/bg5262.jpg",
+      "/static/img/catalogue/bg3957.jpg",
+      "/static/img/catalogue/bg3951.jpg",
+      "/static/img/catalogue/bg3956.jpg",
+      "/static/img/catalogue/bg3953.jpg",
+      "/static/img/catalogue/bg3954.jpg",
+      "/static/img/catalogue/bg3952.jpg",
+      "/static/img/catalogue/bg3955.jpg"
+    ],
+    "price": "2043 грн",
+    "specs": [
+      "висота, мм: 500",
+      "ширина, мм: 1000",
+      "глибина, мм: 372",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-18",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b545.jpg",
+      "/static/img/catalogue/bg5734.jpg",
+      "/static/img/catalogue/bg5263.jpg",
+      "/static/img/catalogue/bg3961.jpg",
+      "/static/img/catalogue/bg3958.jpg",
+      "/static/img/catalogue/bg3963.jpg",
+      "/static/img/catalogue/bg3964.jpg",
+      "/static/img/catalogue/bg3962.jpg",
+      "/static/img/catalogue/bg3959.jpg",
+      "/static/img/catalogue/bg3960.jpg"
+    ],
+    "price": "1377 грн",
+    "specs": [
+      "висота, мм: 465",
+      "ширина, мм: 700",
+      "глибина, мм: 300",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-19",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b546.jpg",
+      "/static/img/catalogue/bg5264.jpg",
+      "/static/img/catalogue/bg3966.jpg",
+      "/static/img/catalogue/bg3971.jpg",
+      "/static/img/catalogue/bg4905.jpg",
+      "/static/img/catalogue/bg3968.jpg",
+      "/static/img/catalogue/bg3965.jpg",
+      "/static/img/catalogue/bg3970.jpg",
+      "/static/img/catalogue/bg3969.jpg",
+      "/static/img/catalogue/bg3967.jpg"
+    ],
+    "price": "2032 грн",
+    "specs": [
+      "висота, мм: 842",
+      "ширина, мм: 700",
+      "глибина, мм: 380",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-20",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b547.jpg",
+      "/static/img/catalogue/bg4906.jpg",
+      "/static/img/catalogue/bg5265.jpg",
+      "/static/img/catalogue/bg3978.jpg",
+      "/static/img/catalogue/bg3977.jpg",
+      "/static/img/catalogue/bg3974.jpg",
+      "/static/img/catalogue/bg3976.jpg",
+      "/static/img/catalogue/bg3975.jpg",
+      "/static/img/catalogue/bg3972.jpg",
+      "/static/img/catalogue/bg3973.jpg"
+    ],
+    "price": "2876 грн",
+    "specs": [
+      "висота, мм: 1230",
+      "ширина, мм: 700",
+      "глибина, мм: 380",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-21",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b687.jpg",
+      "/static/img/catalogue/bg5266.jpg",
+      "/static/img/catalogue/bg4692.jpg",
+      "/static/img/catalogue/bg4694.jpg",
+      "/static/img/catalogue/bg4693.jpg",
+      "/static/img/catalogue/bg4696.jpg",
+      "/static/img/catalogue/bg4698.jpg",
+      "/static/img/catalogue/bg4695.jpg",
+      "/static/img/catalogue/bg4697.jpg"
+    ],
+    "price": "2158 грн",
+    "specs": [
+      "висота, мм: 915",
+      "ширина, мм: 791",
+      "глибина, мм: 240",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-22",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b688.jpg",
+      "/static/img/catalogue/bg5267.jpg",
+      "/static/img/catalogue/bg4699.jpg",
+      "/static/img/catalogue/bg4700.jpg",
+      "/static/img/catalogue/bg4701.jpg",
+      "/static/img/catalogue/bg4702.jpg",
+      "/static/img/catalogue/bg4704.jpg",
+      "/static/img/catalogue/bg4703.jpg",
+      "/static/img/catalogue/bg4705.jpg"
+    ],
+    "price": "1675 грн",
+    "specs": [
+      "висота, мм: 741",
+      "ширина, мм: 590",
+      "глибина, мм: 240",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-23",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b689.jpg",
+      "/static/img/catalogue/bg5268.jpg",
+      "/static/img/catalogue/bg4706.jpg",
+      "/static/img/catalogue/bg4707.jpg",
+      "/static/img/catalogue/bg4708.jpg",
+      "/static/img/catalogue/bg4711.jpg",
+      "/static/img/catalogue/bg4712.jpg",
+      "/static/img/catalogue/bg4709.jpg",
+      "/static/img/catalogue/bg4710.jpg"
+    ],
+    "price": "2357 грн",
+    "specs": [
+      "висота, мм: 1050",
+      "ширина, мм: 590",
+      "глибина, мм: 240",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-24",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b690.jpg",
+      "/static/img/catalogue/bg5269.jpg",
+      "/static/img/catalogue/bg4713.jpg",
+      "/static/img/catalogue/bg4715.jpg",
+      "/static/img/catalogue/bg4714.jpg",
+      "/static/img/catalogue/bg4716.jpg",
+      "/static/img/catalogue/bg4717.jpg",
+      "/static/img/catalogue/bg4718.jpg",
+      "/static/img/catalogue/bg4719.jpg"
+    ],
+    "price": "3066 грн",
+    "specs": [
+      "висота, мм: 1359",
+      "ширина, мм: 590",
+      "глибина, мм: 240",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-25",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b691.jpg",
+      "/static/img/catalogue/bg5270.jpg",
+      "/static/img/catalogue/bg4720.jpg",
+      "/static/img/catalogue/bg4721.jpg",
+      "/static/img/catalogue/bg4722.jpg",
+      "/static/img/catalogue/bg4725.jpg",
+      "/static/img/catalogue/bg4723.jpg",
+      "/static/img/catalogue/bg4724.jpg",
+      "/static/img/catalogue/bg4726.jpg"
+    ],
+    "price": "3670 грн",
+    "specs": [
+      "висота, мм: 1668",
+      "ширина, мм: 590",
+      "глибина, мм: 240",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-26",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b692.jpg",
+      "/static/img/catalogue/bg5735.jpg",
+      "/static/img/catalogue/bg5271.jpg",
+      "/static/img/catalogue/bg4727.jpg",
+      "/static/img/catalogue/bg4728.jpg",
+      "/static/img/catalogue/bg4729.jpg",
+      "/static/img/catalogue/bg4730.jpg",
+      "/static/img/catalogue/bg4731.jpg",
+      "/static/img/catalogue/bg4732.jpg",
+      "/static/img/catalogue/bg4733.jpg"
+    ],
+    "price": "1536 грн",
+    "specs": [
+      "висота, мм: 466",
+      "ширина, мм: 802",
+      "глибина, мм: 300",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Яна",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b7.jpg",
+      "/static/img/catalogue/bg5244.jpg",
+      "/static/img/catalogue/bg3202.jpg",
+      "/static/img/catalogue/bg3204.jpg",
+      "/static/img/catalogue/bg3203.jpg",
+      "/static/img/catalogue/bg5033.jpg",
+      "/static/img/catalogue/bg3205.jpg",
+      "/static/img/catalogue/bg3207.jpg",
+      "/static/img/catalogue/bg3206.jpg",
+      "/static/img/catalogue/bg2892.jpg"
+    ],
+    "price": "2899 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 800",
+      "глибина, мм: 370",
+      "розмір упаковки, мм: 2000х387х80",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Вішалка-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b707.jpg",
+      "/static/img/catalogue/bg5275.jpg",
+      "/static/img/catalogue/bg4834.jpg",
+      "/static/img/catalogue/bg4833.jpg",
+      "/static/img/catalogue/bg4837.jpg",
+      "/static/img/catalogue/bg4835.jpg",
+      "/static/img/catalogue/bg4839.jpg",
+      "/static/img/catalogue/bg4836.jpg",
+      "/static/img/catalogue/bg4838.jpg"
+    ],
+    "price": "912 грн",
+    "specs": [
+      "висота, мм: 400",
+      "ширина, мм: 800",
+      "глибина, мм: 280",
+      "вага, кг: 5,6",
+      "розмір упаковки, мм: 900х302х32",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Вішалка-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b708.jpg",
+      "/static/img/catalogue/bg5276.jpg",
+      "/static/img/catalogue/bg4841.jpg",
+      "/static/img/catalogue/bg4840.jpg",
+      "/static/img/catalogue/bg4843.jpg",
+      "/static/img/catalogue/bg4842.jpg",
+      "/static/img/catalogue/bg4846.jpg",
+      "/static/img/catalogue/bg4844.jpg",
+      "/static/img/catalogue/bg4845.jpg"
+    ],
+    "price": "876 грн",
+    "specs": [
+      "висота, мм: 1000",
+      "ширина, мм: 602",
+      "глибина, мм: 192",
+      "вага, кг: 5,6",
+      "розмір упаковки, мм: 900х302х32",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Злата-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b721.jpg",
+      "/static/img/catalogue/bg5738.jpg",
+      "/static/img/catalogue/bg5737.jpg",
+      "/static/img/catalogue/bg5739.jpg",
+      "/static/img/catalogue/bg5736.jpg"
+    ],
+    "price": "2487 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 700",
+      "глибина, мм: 400",
+      "вага, кг: 30",
+      "розмір упаковки, мм: 2000х395х64",
+      "колір ДСП: Дуб сонома/Нимфея альба, Крафт комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Злата-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b722.jpg",
+      "/static/img/catalogue/bg5740.jpg",
+      "/static/img/catalogue/bg5741.jpg"
+    ],
+    "price": "3233 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 700",
+      "глибина, мм: 400",
+      "вага, кг: 37",
+      "розмір упаковки, мм: 1984х395х80",
+      "колір ДСП: Дуб сонома/Нимфея альба, Крафт комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Крістіна",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b723.jpg",
+      "/static/img/catalogue/bg5742.jpg",
+      "/static/img/catalogue/bg5743.jpg",
+      "/static/img/catalogue/bg5751.jpg",
+      "/static/img/catalogue/bg5744.jpg",
+      "/static/img/catalogue/bg5745.jpg",
+      "/static/img/catalogue/bg5750.jpg",
+      "/static/img/catalogue/bg5747.jpg",
+      "/static/img/catalogue/bg5749.jpg",
+      "/static/img/catalogue/bg5746.jpg",
+      "/static/img/catalogue/bg5748.jpg"
+    ],
+    "price": "3072 грн",
+    "specs": [
+      "висота, мм: 1945",
+      "ширина, мм: 950",
+      "глибина, мм: 400",
+      "вага, кг: 40.5",
+      "розмір упаковки, мм: 1904х450х80",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Ателье светлый, Дуб комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Дзеркало-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b724.jpg",
+      "/static/img/catalogue/bg5752.jpg",
+      "/static/img/catalogue/bg5762.jpg",
+      "/static/img/catalogue/bg5754.jpg",
+      "/static/img/catalogue/bg5756.jpg",
+      "/static/img/catalogue/bg5766.jpg",
+      "/static/img/catalogue/bg5770.jpg",
+      "/static/img/catalogue/bg5755.jpg",
+      "/static/img/catalogue/bg5763.jpg",
+      "/static/img/catalogue/bg5769.jpg",
+      "/static/img/catalogue/bg5758.jpg",
+      "/static/img/catalogue/bg5764.jpg",
+      "/static/img/catalogue/bg5771.jpg",
+      "/static/img/catalogue/bg5759.jpg",
+      "/static/img/catalogue/bg5760.jpg",
+      "/static/img/catalogue/bg5757.jpg",
+      "/static/img/catalogue/bg5765.jpg",
+      "/static/img/catalogue/bg5761.jpg",
+      "/static/img/catalogue/bg5767.jpg",
+      "/static/img/catalogue/bg5768.jpg",
+      "/static/img/catalogue/bg5753.jpg"
+    ],
+    "price": "1449 грн",
+    "specs": [
+      "висота, мм: 640",
+      "ширина, мм: 400",
+      "глибина, мм: 170",
+      "максимальне навантаження: 10.2",
+      "розмір упаковки, мм: 640х396х64",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Тумба під взуття ТО-60",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b760.jpg",
+      "/static/img/catalogue/bg6119.jpg",
+      "/static/img/catalogue/bg6118.jpg",
+      "/static/img/catalogue/bg6117.jpg",
+      "/static/img/catalogue/bg6116.jpg"
+    ],
+    "price": "1256 грн",
+    "specs": [
+      "висота, мм: 486",
+      "ширина, мм: 600",
+      "глибина, мм: 320",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Передпокій Тамара",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b8.jpg",
+      "/static/img/catalogue/bg5245.jpg",
+      "/static/img/catalogue/bg3184.jpg",
+      "/static/img/catalogue/bg3187.jpg",
+      "/static/img/catalogue/bg3189.jpg",
+      "/static/img/catalogue/bg5029.jpg",
+      "/static/img/catalogue/bg3188.jpg",
+      "/static/img/catalogue/bg3185.jpg",
+      "/static/img/catalogue/bg3186.jpg"
+    ],
+    "price": "8573 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 1600",
+      "глибина, мм: 373",
+      "вага, кг: 97,4",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1935х603х72",
+      "размер упаковки ч.2, мм: 2006х352х100"
+    ]
+  },
+  {
+    "name": "Передпокій Лідія",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b9.jpg",
+      "/static/img/catalogue/bg5246.jpg",
+      "/static/img/catalogue/bg3162.jpg",
+      "/static/img/catalogue/bg3163.jpg",
+      "/static/img/catalogue/bg3161.jpg",
+      "/static/img/catalogue/bg5023.jpg",
+      "/static/img/catalogue/bg3164.jpg",
+      "/static/img/catalogue/bg3165.jpg",
+      "/static/img/catalogue/bg3166.jpg"
+    ],
+    "price": "5601 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 1000",
+      "глибина, мм: 375",
+      "вага, кг: 64,8",
+      "розмір упаковки, мм: 1950х510х115",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+
+  {
+    "name": "Люстро Алекса Індастріал / Німфеа Альба",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lyustro-spalnya-aleksa-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-aleksa-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-aleksa-svit-mebliv-700x700.png"
+    ],
+    "price": "2267 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 117 см",
+      "Висота: 90 см",
+      "Глибина: 2 см",
+      "Корпус: Індастріал",
+      "Фасад: Німфеа Альба",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Б'янко Білий глянець / Чорний/ Дуб аппалачі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/byanko-peredpokij-bilyj-vstavky-chorni-scaled-700x700.jpg",
+      "/static/img/catalogue/31-700x700.png",
+      "/static/img/catalogue/33-700x700.png",
+      "/static/img/catalogue/34-700x700.png",
+      "/static/img/catalogue/35-700x700.png",
+      "/static/img/catalogue/36-700x700.png",
+      "/static/img/catalogue/42-700x700.png",
+      "/static/img/catalogue/44-700x700.png",
+      "/static/img/catalogue/47-700x700.png",
+      "/static/img/catalogue/48-700x700.png"
+    ],
+    "price": "14090 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Вставки: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Корпус: Білий",
+      "Фасад: Білий, глянець",
+      "Вставки: Чорний / Дуб Аппалачі",
+      "Висувний механізм: Модулі оснащені петлями з дотягом та направляючими повного висування.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Кармен Нова Горіх / Піно горіх, лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lusto-karmen-nova-horikh-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/tualetka-karmen-nova-horikh-komod-pino-lak-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/tualetka-karmen-nova-gorih-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-horikh-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-horikh-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-novaya-orekh-mir-mebeli-700x700.png",
+      "/static/img/catalogue/lizhko-karmen-nova-horikh-svit-mebliv-2-700x700.jpeg"
+    ],
+    "price": "4474 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 100 см",
+      "Висота: 109 см",
+      "Глибина: 7,5 см",
+      "Корпус: Піно горіх",
+      "Фасад: Піно горіх, лак, художній друк",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Кармен Нова Піно / Піно лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lustro-karmen-nova-pyno-svyt-meblyv-700x700.jpeg",
+      "/static/img/catalogue/tualetka-karmen-nova-pyno-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-pyno-svyt-meblyv-700x700.jpeg",
+      "/static/img/catalogue/spalnya_karmen-svit-mebliv-700x700.png"
+    ],
+    "price": "4474 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 100 см",
+      "Висота: 109 см",
+      "Глибина: 7,5 см",
+      "Корпус: Піно",
+      "Фасад: Піно, лак, художній друк",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Комод Амбре Дуб артизан/Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-3-700x700.jpg"
+    ],
+    "price": "2410 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 95,5 см",
+      "Глибина: 32 см",
+      "Корпус: Антрацит",
+      "Фасад: Дуб артизан/Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Комод Амбре Дуб білий/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/komod-ambre-700x700.jpg",
+      "/static/img/catalogue/ambre-komod-2-700x700.jpg"
+    ],
+    "price": "2649 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 95,5 см",
+      "Глибина: 32 см",
+      "Корпус: Дуб білий",
+      "Фасад: Дуб білий/Чорний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Круїз Білий/Дакар",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lyustro-kruyiz-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/spalnya-kruyiz-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/kruyiz-bilyy-dakar-700x700.jpeg",
+      "/static/img/catalogue/kruyiz-bilyy-dakar-2-700x700.png"
+    ],
+    "price": "1573 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Висота: 80 см",
+      "Глибина: 2 см",
+      "Корпус: Білий",
+      "Фасад: Білий, Дакар",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Лілея нова Дуб гранж колоніальний/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lyustro-lileya-nova-dub-hranzh-kolonialnyy-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lileya-nova-dub-hranzh-kolonialnyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lileya-nova-dub-hranzh-kolonialnyy-700x700.png",
+      "/static/img/catalogue/lyustro-1-lileya-nova-dub-hranzh-kolonialnyy-700x700.jpeg"
+    ],
+    "price": "1358 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 117 см",
+      "Висота: 75 см",
+      "Глибина: 2 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Лілея нова Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lustro-light-artwood-svit-mebliv-700x700.png",
+      "/static/img/catalogue/lyustro-lileya-nova-artvud-antratsyt-700x700.jpeg",
+      "/static/img/catalogue/spalnya-artvud-antratsyt-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lileya-nova-artvud-antratsyt-svit-mebliv-1-700x700.png"
+    ],
+    "price": "1358 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 117 см",
+      "Висота: 75 см",
+      "Глибина: 2 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Амбре Дуб артизан/ Антрацит",
+    "desc": "",
+    "images": ["/static/img/catalogue/112-700x700.png"],
+    "price": "1611 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, скло",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 107 см",
+      "Глибина: 28 см",
+      "Корпус: Антрацит",
+      "Фасад: Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Амбре Дуб білий/Чорний",
+    "desc": "",
+    "images": ["/static/img/catalogue/lustro-ambre-700x700.jpg"],
+    "price": "1751 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 107 см",
+      "Глибина: 28 см",
+      "Корпус: Дуб білий",
+      "Фасад: Дуб білий/Чорний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро 70 Б'янко",
+    "desc": "",
+    "images": ["/static/img/catalogue/lustro-700x700.jpg"],
+    "price": "1420 грн",
+    "specs": [
+      "Матеріал рами: ДСП",
+      "Довжина: 70 см",
+      "Висота: 87 см",
+      "Глибина: 2 см",
+      "Колір рами: Білий",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Марія Дуб борас / Біле золото",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lyustro-mariya-bile-zoloto-dub-boras-700x700.jpeg",
+      "/static/img/catalogue/spalnya-katrin-horikh-patina-700x700.jpeg",
+      "/static/img/catalogue/spalnya-maria-dub-boros-bile-zoloto-700x700.png"
+    ],
+    "price": "1559 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 88 см",
+      "Висота: 64 см",
+      "Глибина: 2 см",
+      "Корпус: Дуб борас",
+      "Фасад: Біле золото",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Ніколь Білий / Біле дерево, патина",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lustro-nikol-bilyy-bile-derevo-patyna-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bile-derevo-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bilyy-bile-derevo-patyna-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bile-derevo-2-700x700.png"
+    ],
+    "price": "2149 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 89,5 см",
+      "Висота: 93 см",
+      "Глибина: 3,5 см",
+      "Корпус: Білий",
+      "Фасад: Біле дерево, патина",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Амбре Дуб артизан/Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-main-700x700.jpg",
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-2-700x700.jpg",
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-3-700x700.jpg",
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-4-700x700.jpg",
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-5-700x700.jpg",
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-6-700x700.jpg",
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-7-700x700.jpg",
+      "/static/img/catalogue/112-700x700.png"
+    ],
+    "price": "14397 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Матеріал м'якої частини: Еко-шкіра",
+      "Товщина ДСП: 1,6 см",
+      "Корпус: Антрацит",
+      "Фасад: Дуб артизан/Антрацит",
+      "Комплектація: Модель обладнана висувними шухлядами на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Амбре Дуб білий/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/ambre-black-main-700x700.jpg",
+      "/static/img/catalogue/ambre-black-2-700x700.jpg",
+      "/static/img/catalogue/ambre-black-3-700x700.jpg",
+      "/static/img/catalogue/komod-ambre-700x700.jpg",
+      "/static/img/catalogue/ambre-komod-2-700x700.jpg",
+      "/static/img/catalogue/penal-ambre-700x700.jpg",
+      "/static/img/catalogue/penal-ambre-2-700x700.jpg",
+      "/static/img/catalogue/lustro-ambre-700x700.jpg",
+      "/static/img/catalogue/vishak-ambre-700x700.jpg",
+      "/static/img/catalogue/shafa-ambre-700x700.jpg",
+      "/static/img/catalogue/shafa-ambre-2-700x700.jpg",
+      "/static/img/catalogue/tumba-ambre-700x700.jpg",
+      "/static/img/catalogue/tumba-ambre-2-700x700.jpg"
+    ],
+    "price": "15877 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Матеріал м'якої частини: Еко-шкіра",
+      "Товщина ДСП: 1,6 см",
+      "Корпус: Дуб білий",
+      "Фасад: Дуб білий/Чорний",
+      "Комплектація: Модель обладнана висувними ящиками на телескопічних направляючих.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Аміна",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-amina-main-700x700.jpg",
+      "/static/img/catalogue/peredpokij-amina-antracit-artvud-svitlij-2-700x700.jpg",
+      "/static/img/catalogue/17346975966481923-700x700.png"
+    ],
+    "price": "5326 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 100 см",
+      "Висота: 215,5 см",
+      "Глибина: 40,5 см",
+      "Корпус: Антрацит",
+      "Фасад: Артвуд світлий",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Бруна Дуб артизан/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-bruna-anthracite-700x700.jpg",
+      "/static/img/catalogue/17346976618640438-700x700.png"
+    ],
+    "price": "7871 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Довжина: 130 см",
+      "Висота: 200 см",
+      "Глибина: 39 см",
+      "Корпус: Дуб артизан",
+      "Фасад: Антрацит",
+      "Комплектація: Модель обладнана висувними шухлядами на направляючих повного висування.\nМатеріал м’якої частини – шкірозамінник.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Кароліна Артвуд світлий/Попелястий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-carolina-main-700x700.jpg",
+      "/static/img/catalogue/17346979149714151-700x700.png"
+    ],
+    "price": "9478 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 164 см",
+      "Висота: 219,5 см",
+      "Глибина: 40 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Попелястий",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Емма 1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/emma-1-1-700x700.jpg",
+      "/static/img/catalogue/emma-1-2-700x700.jpg",
+      "/static/img/catalogue/emma-1-3-700x700.jpg"
+    ],
+    "price": "7459 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 198 см",
+      "Глибина: 40 см",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Емма 2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/emma-2-main-700x700.jpg",
+      "/static/img/catalogue/emma-2-1-700x700.jpg",
+      "/static/img/catalogue/emma-2-2-700x700.jpg"
+    ],
+    "price": "6554 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 100 см",
+      "Висота: 198 см",
+      "Глибина: 40 см",
+      "Корпус: Дуб артизан",
+      "Фасад: Дуб артизан",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Евіта Морське дерево вінтаж/ Попелястий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/pererdpokiy-evita-dub-boras-main-700x700.jpg",
+      "/static/img/catalogue/peredpokiy-evita-dub-boras-2-700x700.jpg",
+      "/static/img/catalogue/17346980168864027-700x700.png"
+    ],
+    "price": "9503 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 207 см",
+      "Глибина: 35,5 см",
+      "Корпус: Морське дерево вінтаж",
+      "Фасад: Морське дерево вінтаж/ Попелястий, художній друк",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Евіта Німфеа Альба",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-evita-nimphea-alba-main-700x700.jpg",
+      "/static/img/catalogue/peredpokij-evita-svit-mebliv-2-700x700.jpg",
+      "/static/img/catalogue/17346980168864027-700x700.png"
+    ],
+    "price": "8664 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 207 см",
+      "Глибина: 35,5 см",
+      "Корпус: Німфеа Альба",
+      "Фасад: Німфеа Альба, художній друк, лак",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Фіона Антрацит/Дуб артизан",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-fiona-anthracite-artizan-main-700x700.jpg",
+      "/static/img/catalogue/17346978571933900-700x700.png"
+    ],
+    "price": "7119 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 121 см",
+      "Висота: 209 см",
+      "Глибина: 38,5 см",
+      "Корпус: Антрацит/ Дуб артизан",
+      "Фасад: Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Фіона Артвуд світлий/Попелястий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-fiona-artwood-ashy-main-700x700.jpg",
+      "/static/img/catalogue/17346978571933900-700x700.png"
+    ],
+    "price": "7679 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 121 см",
+      "Висота: 209 см",
+      "Глибина: 38,5 см",
+      "Корпус: Артвуд світлий/Попелястий",
+      "Фасад: Попелястий",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Фіона Морське дерево вінтаж/Німфеа Альба",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-fiona-mosrke-derevo-alba-main-700x700.jpg",
+      "/static/img/catalogue/17346978571933900-700x700.png"
+    ],
+    "price": "7594 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 121 см",
+      "Висота: 209 см",
+      "Глибина: 38,5 см",
+      "Корпус: Морське дерево вінтаж/Німфеа Альба",
+      "Фасад: Німфеа Альба",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Фріда Дуб ліворно/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-frida-livorno-700x700.jpg",
+      "/static/img/catalogue/peredpokiy-frida-livorno-2-700x700.jpg"
+    ],
+    "price": "10847 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 240 см",
+      "Глибина: 52 см",
+      "Корпус: Чорний",
+      "Фасад: Дуб ліворно",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Фріда Тоффі",
+    "desc": "",
+    "images": ["/static/img/catalogue/peredpokiy-frida-toffi-700x700.jpg"],
+    "price": "12764 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 240 см",
+      "Глибина: 52 см",
+      "Корпус: Тоффі",
+      "Фасад: Тоффі",
+      "Ручки: Дуб сонома",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Грета Антрацит/ Артвуд світлий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-greta-artwood-anthracite-main-700x700.jpg",
+      "/static/img/catalogue/17346978867697081-700x700.png"
+    ],
+    "price": "6939 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 202,5 см",
+      "Глибина: 37 см",
+      "Корпус: Артвуд світлий/ Антрацит",
+      "Фасад: Артвуд світлий",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Грета Артвуд світлий/Попелястий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-greta-artwood-ashy-main-700x700.jpg",
+      "/static/img/catalogue/17346978867697081-700x700.png"
+    ],
+    "price": "7247 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 202,5 см",
+      "Глибина: 37 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Попелястий",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Грета Дуб ліворно/ Тоффі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17397798538433667-scaled-700x700.jpg",
+      "/static/img/catalogue/17346978867697081-700x700.png"
+    ],
+    "price": "7698 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 202,5 см",
+      "Глибина: 37 см",
+      "Корпус: Дуб ліворно",
+      "Фасад: Тоффі",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Хайді Дуб артизан/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-heidi-anthracite-main-700x700.jpg",
+      "/static/img/catalogue/peredpokij-hajdi-dub-artizan-antracit-2-700x700.jpg",
+      "/static/img/catalogue/peredpokij-hajdi-dub-artizan-antracit-3-700x700.jpg",
+      "/static/img/catalogue/tumba-pid-vzutta-svit-mebliv-hajdi-4-700x700.jpg",
+      "/static/img/catalogue/17346975677985501-700x700.png"
+    ],
+    "price": "7312 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 177 см",
+      "Висота: 195 см",
+      "Глибина: 32 см",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Реприза Дуб білий/ Сатин",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17397789183212575-scaled-700x700.jpg",
+      "/static/img/catalogue/1734697830722322-700x700.png"
+    ],
+    "price": "8708 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 209 см",
+      "Глибина: 37,5 см",
+      "Корпус: Дуб білий",
+      "Фасад: Сатин",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Реприза Дуб ліворно/Тоффі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17397789477824667-scaled-700x700.jpg",
+      "/static/img/catalogue/1734697830722322-700x700.png"
+    ],
+    "price": "9253 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 209 см",
+      "Глибина: 37,5 см",
+      "Корпус: Дуб ліворно",
+      "Фасад: Тоффі",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Реприза Антрацит/Дуб артизан",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-reprize-anthracite-artizan-main-700x700.jpg",
+      "/static/img/catalogue/1734697830722322-700x700.png"
+    ],
+    "price": "8026 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 209 см",
+      "Глибина: 37,5 см",
+      "Корпус: Антрацит",
+      "Фасад: Дуб артизан",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Силует 1 Артвуд світлий/ Сіра мишка",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17393478586201659-scaled-700x700.jpg",
+      "/static/img/catalogue/17346977643465341-700x700.png"
+    ],
+    "price": "8780 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 130 см",
+      "Висота: 208,5 см",
+      "Глибина: 47 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Сіра мишка",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих.\nМодель комплектується підсвіткою.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Силует 1 Дуб ліворно/ Тоффі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17393478482558502-scaled-700x700.jpg",
+      "/static/img/catalogue/17346977643465341-700x700.png"
+    ],
+    "price": "9279 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 130 см",
+      "Висота: 208,5 см",
+      "Глибина: 47 см",
+      "Корпус: Дуб ліворно",
+      "Фасад: Тоффі",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих.\nМодель комплектується підсвіткою.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Силует 1 Німфеа Альба",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-siluet-nimphea-alba-main-700x700.jpg",
+      "/static/img/catalogue/17346977643465341-700x700.png"
+    ],
+    "price": "8346 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 130 см",
+      "Висота: 208,5 см",
+      "Глибина: 47 см",
+      "Корпус: Німфеа Альба",
+      "Фасад: Німфеа Альба, художній друк",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих.\nМодель комплектується підсвіткою.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Силует 2 Артвуд світлий/ Сіра мишка",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17393485246626166-scaled-700x700.jpg",
+      "/static/img/catalogue/17346978005225448-700x700.png"
+    ],
+    "price": "9978 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 166,5 см",
+      "Висота: 208,5 см",
+      "Глибина: 47 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Сіра мишка",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих.\nМодель комплектується підсвіткою.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Силует 2 Дуб ліворно/ Тоффі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17393485146899549-scaled-700x700.jpg",
+      "/static/img/catalogue/17346978005225448-700x700.png"
+    ],
+    "price": "10643 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 166,5 см",
+      "Висота: 208,5 см",
+      "Глибина: 47 см",
+      "Корпус: Дуб ліворно",
+      "Фасад: Тоффі",
+      "Характеристики: Модель обладнана висувними шухлядами на роликових направляючих.\nМодель комплектується підсвіткою.",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Соната Дуб білий/ Сатин",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17397776462167001-scaled-700x700.jpg",
+      "/static/img/catalogue/17398874121616243-700x700.png"
+    ],
+    "price": "6796 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 222,5 см",
+      "Глибина: 40,5 см",
+      "Корпус: Дуб білий",
+      "Фасад: Сатин",
+      "Характеристики: Модель обладнана висувними шухлядами на телескопічних направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Соната Дуб ліворно/ Німфеа лак",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17397777522121410-scaled-700x700.jpg",
+      "/static/img/catalogue/17398874121616243-700x700.png"
+    ],
+    "price": "7418 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 222,5 см",
+      "Глибина: 40,5 см",
+      "Корпус: Дуб ліворно",
+      "Фасад: Німфеа альба, лак",
+      "Характеристики: Модель обладнана висувними шухлядами на телескопічних направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Соната Сатин/ Сатин",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/17397777752705005-scaled-700x700.jpg",
+      "/static/img/catalogue/17398874121616243-700x700.png"
+    ],
+    "price": "6479 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 222,5 см",
+      "Глибина: 40,5 см",
+      "Корпус: Сатин",
+      "Фасад: Сатин",
+      "Характеристики: Модель обладнана висувними шухлядами на телескопічних направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Передпокій Візит Дуб сонома",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-visit-sonoma-oak-main-700x700.jpg",
+      "/static/img/catalogue/peredpokij-vizit-svit-mebliv-2-700x700.jpg",
+      "/static/img/catalogue/peredpokij-vizit-svit-mebliv-3-700x700.jpg"
+    ],
+    "price": "7043 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 221,5 см",
+      "Глибина: 45 см",
+      "Корпус: Дуб сонома",
+      "Фасад: Дуб сонома",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Ромбо Артвуд світлий / Білий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lyustro-spalnya-rombo-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/-spalnya-rombo-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-rombo-svit-mebliv-1-700x700.png"
+    ],
+    "price": "2126 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 117 см",
+      "Висота: 90 см",
+      "Глибина: 2 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Білий",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Амбре Дуб білий/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tumba-ambre-700x700.jpg",
+      "/static/img/catalogue/tumba-ambre-2-700x700.jpg"
+    ],
+    "price": "2061 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Матеріал м'якої частини: Еко-шкіра",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 49,5 см",
+      "Глибина: 32 см",
+      "Корпус: Дуб білий",
+      "Фасад: Дуб білий/Чорний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Б'янко 2ДШ Білий / Дуб сонома",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/byanko_2dh-600x600-700x700.jpg",
+      "/static/img/catalogue/-2023-08-31-182245-700x700.jpg",
+      "/static/img/catalogue/bianco-tumba-2dsh-white-700x700.jpg",
+      "/static/img/catalogue/bianco-tumba-2dsh-700x700.jpg"
+    ],
+    "price": "4143 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Вставки: ДСП",
+      "Фурнітура: Пластик",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 80  см",
+      "Висота: 114 см",
+      "Глибина: 40 см",
+      "Корпус: Білий",
+      "Фасад: Білий, глянець",
+      "Вставки: Дуб сонома",
+      "Ручки: Алюміній",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Кількість шухляд: 1 шт",
+      "Кількість полиць: 2 шт",
+      "Кількість дверцят: 2 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Тумба Амбре Дуб артизан/Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-4-700x700.jpg"
+    ],
+    "price": "1947 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Матеріал м'якої частини: Еко-шкіра",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 49,5 см",
+      "Глибина: 32 см",
+      "Корпус: Антрацит",
+      "Фасад: Дуб артизан/Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вішак Амбре Дуб артизан/Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-5-700x700.jpg"
+    ],
+    "price": "1585 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 157 см",
+      "Глибина: 28 см",
+      "Корпус: Антрацит",
+      "Фасад: Антрацит",
+      "Кількість гачків: 3 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Вішак Амбре Дуб білий/Чорний",
+    "desc": "",
+    "images": ["/static/img/catalogue/vishak-ambre-700x700.jpg"],
+    "price": "1778 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 157 см",
+      "Глибина: 28 см",
+      "Корпус: Дуб білий",
+      "Фасад: Дуб білий/Чорний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lustro-vivaldi-700x700.jpg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/dzerkalo-ms-vivaldy-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-vivaldi-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/modulnaya-systema-vivaldi-prais-700x700.jpg"
+    ],
+    "price": "6781 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 151 см",
+      "Висота: 98, 5 см",
+      "Глибина: 75 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Розміщення: Настінне",
+      "Гарантія: 18 місяців"
+    ]
+  },
+  {
+    "name": "Люстро Вівіан Артвуд світлий / Індастріал",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lustro-spalnya-vivian-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-vivian-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-vivian-svit-mebliv-4-700x700.png",
+      "/static/img/catalogue/spalnya-vivian-svit-mebliv-2-700x700.png"
+    ],
+    "price": "2078 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 117 см",
+      "Висота: 90 см",
+      "Глибина: 2 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Індастріал",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Люстро Жасмін Білий / Білий, лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lustro-zhasmin-bilyy-lak-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/komod-jasmin-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/spalnya-zhasmin-bilyy-lak-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/jasmin-svit-mebliv-2-700x700.png"
+    ],
+    "price": "3794 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Довжина: 84,5 см",
+      "Висота: 106 см",
+      "Глибина: 9 см",
+      "Корпус: Білий",
+      "Фасад: Білий, лак, художній друк",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

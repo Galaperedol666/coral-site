@@ -1,0 +1,2948 @@
+[
+  {
+    "name": "Шафа-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b183.jpg",
+      "/static/img/catalogue/bg5547.jpg",
+      "/static/img/catalogue/bg3443.jpg",
+      "/static/img/catalogue/bg3446.jpg",
+      "/static/img/catalogue/bg3441.jpg",
+      "/static/img/catalogue/bg5109.jpg",
+      "/static/img/catalogue/bg3445.jpg",
+      "/static/img/catalogue/bg3444.jpg",
+      "/static/img/catalogue/bg3442.jpg"
+    ],
+    "price": "12783 грн",
+    "specs": [
+      "висота, мм: 2176",
+      "ширина, мм: 1600",
+      "глибина, мм: 536",
+      "вага, кг: 160,4",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 2120х525х75",
+      "размер упаковки ч.2, мм: 1650х522х100",
+      "размер упаковки ч.3, мм: 2146х396х92"
+    ]
+  },
+  {
+    "name": "Шафа-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b184.jpg",
+      "/static/img/catalogue/bg5546.jpg",
+      "/static/img/catalogue/bg3436.jpg",
+      "/static/img/catalogue/bg3435.jpg",
+      "/static/img/catalogue/bg3437.jpg",
+      "/static/img/catalogue/bg5108.jpg",
+      "/static/img/catalogue/bg3439.jpg",
+      "/static/img/catalogue/bg3440.jpg",
+      "/static/img/catalogue/bg3438.jpg"
+    ],
+    "price": "9655 грн",
+    "specs": [
+      "висота, мм: 2176",
+      "ширина, мм: 1198",
+      "глибина, мм: 536",
+      "вага, кг: 124",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 2120х520х65",
+      "размер упаковки ч.2, мм: 1200х522х100",
+      "размер упаковки ч.3, мм: 2146х396х65"
+    ]
+  },
+  {
+    "name": "Шафа-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b186.jpg",
+      "/static/img/catalogue/bg5544.jpg",
+      "/static/img/catalogue/bg3423.jpg",
+      "/static/img/catalogue/bg3424.jpg",
+      "/static/img/catalogue/bg3426.jpg",
+      "/static/img/catalogue/bg5106.jpg",
+      "/static/img/catalogue/bg3425.jpg",
+      "/static/img/catalogue/bg3427.jpg",
+      "/static/img/catalogue/bg3428.jpg"
+    ],
+    "price": "5402 грн",
+    "specs": [
+      "висота, мм: 2120",
+      "ширина, мм: 737",
+      "глибина, мм: 536",
+      "вага, кг: 67,8",
+      "розмір упаковки, мм: 2050х520х120",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-3У",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b187.jpg",
+      "/static/img/catalogue/bg5543.jpg",
+      "/static/img/catalogue/bg3417.jpg",
+      "/static/img/catalogue/bg3420.jpg",
+      "/static/img/catalogue/bg3418.jpg",
+      "/static/img/catalogue/bg5105.jpg",
+      "/static/img/catalogue/bg3422.jpg",
+      "/static/img/catalogue/bg3421.jpg",
+      "/static/img/catalogue/bg3419.jpg"
+    ],
+    "price": "5385 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "кут, мм: 802х802",
+      "вага, кг: 71",
+      "розмір упаковки, мм: 1940х810х105",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b188.jpg",
+      "/static/img/catalogue/bg5541.jpg",
+      "/static/img/catalogue/bg3411.jpg",
+      "/static/img/catalogue/bg3412.jpg",
+      "/static/img/catalogue/bg3413.jpg",
+      "/static/img/catalogue/bg5104.jpg",
+      "/static/img/catalogue/bg3414.jpg",
+      "/static/img/catalogue/bg3416.jpg",
+      "/static/img/catalogue/bg3415.jpg"
+    ],
+    "price": "4333 грн",
+    "specs": [
+      "висота, мм: 1826",
+      "ширина, мм: 785",
+      "глибина, мм: 550",
+      "вага, кг: 52",
+      "розмір упаковки, мм: 1780х555х102",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b189.jpg",
+      "/static/img/catalogue/bg5530.jpg",
+      "/static/img/catalogue/bg3410.jpg",
+      "/static/img/catalogue/bg3406.jpg",
+      "/static/img/catalogue/bg3405.jpg",
+      "/static/img/catalogue/bg5103.jpg",
+      "/static/img/catalogue/bg3407.jpg",
+      "/static/img/catalogue/bg3408.jpg",
+      "/static/img/catalogue/bg3409.jpg"
+    ],
+    "price": "3446 грн",
+    "specs": [
+      "висота, мм: 1800",
+      "ширина, мм: 650",
+      "глибина, мм: 456",
+      "вага, кг: 44,2",
+      "розмір упаковки, мм: 1795х445х102",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b190.jpg",
+      "/static/img/catalogue/bg5522.jpg",
+      "/static/img/catalogue/bg2203.jpg",
+      "/static/img/catalogue/bg4979.jpg",
+      "/static/img/catalogue/bg1199.jpg",
+      "/static/img/catalogue/bg1200.jpg",
+      "/static/img/catalogue/bg1201.jpg",
+      "/static/img/catalogue/bg1202.jpg",
+      "/static/img/catalogue/bg1203.jpg",
+      "/static/img/catalogue/bg1204.jpg"
+    ],
+    "price": "4004 грн",
+    "specs": [
+      "висота, мм: 1796",
+      "ширина, мм: 1100",
+      "глибина, мм: 350",
+      "вага, кг: 52,2",
+      "розмір упаковки, мм: 1740х140х390",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b191.jpg",
+      "/static/img/catalogue/bg5521.jpg",
+      "/static/img/catalogue/bg2204.jpg",
+      "/static/img/catalogue/bg4980.jpg",
+      "/static/img/catalogue/bg1205.jpg",
+      "/static/img/catalogue/bg1206.jpg",
+      "/static/img/catalogue/bg1207.jpg",
+      "/static/img/catalogue/bg1208.jpg",
+      "/static/img/catalogue/bg1209.jpg",
+      "/static/img/catalogue/bg1210.jpg",
+      "/static/img/catalogue/bg1211.jpg"
+    ],
+    "price": "5249 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 1300",
+      "глибина, мм: 448",
+      "вага, кг: 79,6",
+      "розмір упаковки, мм: 2010х460х170",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b192.jpg",
+      "/static/img/catalogue/bg5513.jpg",
+      "/static/img/catalogue/bg2205.jpg",
+      "/static/img/catalogue/bg4981.jpg",
+      "/static/img/catalogue/bg1212.jpg",
+      "/static/img/catalogue/bg1213.jpg",
+      "/static/img/catalogue/bg1214.jpg",
+      "/static/img/catalogue/bg1215.jpg",
+      "/static/img/catalogue/bg1216.jpg",
+      "/static/img/catalogue/bg1217.jpg",
+      "/static/img/catalogue/bg1218.jpg"
+    ],
+    "price": "3659 грн",
+    "specs": [
+      "висота, мм: 2056",
+      "ширина, мм: 836",
+      "глибина, мм: 360",
+      "вага, кг: 47,2",
+      "розмір упаковки, мм: 2050х420х115",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b193.jpg",
+      "/static/img/catalogue/bg5502.jpg",
+      "/static/img/catalogue/bg2206.jpg",
+      "/static/img/catalogue/bg4982.jpg",
+      "/static/img/catalogue/bg1219.jpg",
+      "/static/img/catalogue/bg1220.jpg",
+      "/static/img/catalogue/bg1221.jpg",
+      "/static/img/catalogue/bg1222.jpg",
+      "/static/img/catalogue/bg1223.jpg",
+      "/static/img/catalogue/bg1224.jpg",
+      "/static/img/catalogue/bg1225.jpg"
+    ],
+    "price": "2717 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 612",
+      "глибина, мм: 448",
+      "вага, кг: 44,4",
+      "розмір упаковки, мм: 1960х450х85",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Пенал",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b194.jpg",
+      "/static/img/catalogue/bg2221.jpg",
+      "/static/img/catalogue/bg4977.jpg",
+      "/static/img/catalogue/bg1226.jpg",
+      "/static/img/catalogue/bg1227.jpg",
+      "/static/img/catalogue/bg1228.jpg",
+      "/static/img/catalogue/bg1229.jpg",
+      "/static/img/catalogue/bg1230.jpg",
+      "/static/img/catalogue/bg1231.jpg",
+      "/static/img/catalogue/bg1232.jpg"
+    ],
+    "price": "2311 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 448",
+      "глибина, мм: 448",
+      "вага, кг: 27,8",
+      "розмір упаковки, мм: 1960х450х75",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-20",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b195.jpg",
+      "/static/img/catalogue/bg5542.jpg",
+      "/static/img/catalogue/bg3521.jpg",
+      "/static/img/catalogue/bg3518.jpg",
+      "/static/img/catalogue/bg3517.jpg",
+      "/static/img/catalogue/bg5122.jpg",
+      "/static/img/catalogue/bg3522.jpg",
+      "/static/img/catalogue/bg3519.jpg",
+      "/static/img/catalogue/bg3520.jpg"
+    ],
+    "price": "12857 грн",
+    "specs": [
+      "висота, мм: 2028",
+      "ширина, мм: 1602",
+      "глибина, мм: 619",
+      "вага, кг: 159",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 2005х408х132",
+      "размер упаковки ч.2, мм: 2005х603х132"
+    ]
+  },
+  {
+    "name": "Шафа-19",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b196.jpg",
+      "/static/img/catalogue/bg5540.jpg",
+      "/static/img/catalogue/bg3515.jpg",
+      "/static/img/catalogue/bg3514.jpg",
+      "/static/img/catalogue/bg3511.jpg",
+      "/static/img/catalogue/bg5121.jpg",
+      "/static/img/catalogue/bg3512.jpg",
+      "/static/img/catalogue/bg3516.jpg",
+      "/static/img/catalogue/bg3513.jpg"
+    ],
+    "price": "7914 грн",
+    "specs": [
+      "висота, мм: 2028",
+      "ширина, мм: 1110",
+      "глибина, мм: 619",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Нимфея Альба",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 2000х685х55",
+      "вага, кг: 44,2",
+      "размер упаковки ч.2, мм: 1970х600х80",
+      "вага, кг: 53"
+    ]
+  },
+  {
+    "name": "Шафа-18",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b197.jpg",
+      "/static/img/catalogue/bg5539.jpg",
+      "/static/img/catalogue/bg3505.jpg",
+      "/static/img/catalogue/bg3506.jpg",
+      "/static/img/catalogue/bg3507.jpg",
+      "/static/img/catalogue/bg5120.jpg",
+      "/static/img/catalogue/bg3509.jpg",
+      "/static/img/catalogue/bg3508.jpg",
+      "/static/img/catalogue/bg3510.jpg"
+    ],
+    "price": "6246 грн",
+    "specs": [
+      "висота, мм: 2028",
+      "ширина, мм: 800",
+      "глибина, мм: 619",
+      "вага, кг: 84",
+      "розмір упаковки, мм: 2000х600х135",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Пенал-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b198.jpg",
+      "/static/img/catalogue/bg2222.jpg",
+      "/static/img/catalogue/bg4978.jpg",
+      "/static/img/catalogue/bg1252.jpg",
+      "/static/img/catalogue/bg1253.jpg",
+      "/static/img/catalogue/bg1254.jpg",
+      "/static/img/catalogue/bg1255.jpg",
+      "/static/img/catalogue/bg1256.jpg",
+      "/static/img/catalogue/bg1257.jpg"
+    ],
+    "price": "1725 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 350",
+      "глибина, мм: 350",
+      "вага, кг: 19,6",
+      "розмір упаковки, мм: 1956х352х55",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-10",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b199.jpg",
+      "/static/img/catalogue/bg5503.jpg",
+      "/static/img/catalogue/bg3346.jpg",
+      "/static/img/catalogue/bg3348.jpg",
+      "/static/img/catalogue/bg3347.jpg",
+      "/static/img/catalogue/bg4983.jpg",
+      "/static/img/catalogue/bg3349.jpg",
+      "/static/img/catalogue/bg3350.jpg",
+      "/static/img/catalogue/bg3351.jpg"
+    ],
+    "price": "2413 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 350",
+      "глибина, мм: 366",
+      "вага, кг: 32",
+      "розмір упаковки, мм: 1956х352х70",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b200.jpg",
+      "/static/img/catalogue/bg5527.jpg",
+      "/static/img/catalogue/bg3343.jpg",
+      "/static/img/catalogue/bg3342.jpg",
+      "/static/img/catalogue/bg3344.jpg",
+      "/static/img/catalogue/bg4984.jpg",
+      "/static/img/catalogue/bg3340.jpg",
+      "/static/img/catalogue/bg3341.jpg",
+      "/static/img/catalogue/bg3345.jpg"
+    ],
+    "price": "2622 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 350",
+      "глибина, мм: 366",
+      "вага, кг: 32,3",
+      "розмір упаковки, мм: 1956х352х72",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-8",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b201.jpg",
+      "/static/img/catalogue/bg5526.jpg",
+      "/static/img/catalogue/bg3338.jpg",
+      "/static/img/catalogue/bg3334.jpg",
+      "/static/img/catalogue/bg3339.jpg",
+      "/static/img/catalogue/bg4985.jpg",
+      "/static/img/catalogue/bg3337.jpg",
+      "/static/img/catalogue/bg3336.jpg",
+      "/static/img/catalogue/bg3335.jpg"
+    ],
+    "price": "2367 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 350",
+      "глибина, мм: 366",
+      "вага, кг: 33",
+      "розмір упаковки, мм: 1956х352х89",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b202.jpg",
+      "/static/img/catalogue/bg5525.jpg",
+      "/static/img/catalogue/bg3333.jpg",
+      "/static/img/catalogue/bg3328.jpg",
+      "/static/img/catalogue/bg3330.jpg",
+      "/static/img/catalogue/bg4986.jpg",
+      "/static/img/catalogue/bg3331.jpg",
+      "/static/img/catalogue/bg3329.jpg",
+      "/static/img/catalogue/bg3332.jpg"
+    ],
+    "price": "3312 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 600",
+      "глибина, мм: 366",
+      "вага, кг: 45",
+      "розмір упаковки, мм: 1956х352х105",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b203.jpg",
+      "/static/img/catalogue/bg5524.jpg",
+      "/static/img/catalogue/bg3322.jpg",
+      "/static/img/catalogue/bg3323.jpg",
+      "/static/img/catalogue/bg3324.jpg",
+      "/static/img/catalogue/bg4987.jpg",
+      "/static/img/catalogue/bg3326.jpg",
+      "/static/img/catalogue/bg3327.jpg",
+      "/static/img/catalogue/bg3325.jpg"
+    ],
+    "price": "3940 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 600",
+      "глибина, мм: 366",
+      "вага, кг: 45,4",
+      "розмір упаковки, мм: 1956х352х90",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b204.jpg",
+      "/static/img/catalogue/bg5523.jpg",
+      "/static/img/catalogue/bg3316.jpg",
+      "/static/img/catalogue/bg3321.jpg",
+      "/static/img/catalogue/bg3317.jpg",
+      "/static/img/catalogue/bg4988.jpg",
+      "/static/img/catalogue/bg3318.jpg",
+      "/static/img/catalogue/bg3320.jpg",
+      "/static/img/catalogue/bg3319.jpg"
+    ],
+    "price": "3280 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 600",
+      "глибина, мм: 366",
+      "вага, кг: 43,5",
+      "розмір упаковки, мм: 1956х352х105",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-18",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b205.jpg",
+      "/static/img/catalogue/bg5511.jpg",
+      "/static/img/catalogue/bg3394.jpg",
+      "/static/img/catalogue/bg3395.jpg",
+      "/static/img/catalogue/bg3397.jpg",
+      "/static/img/catalogue/bg3399.jpg",
+      "/static/img/catalogue/bg3398.jpg",
+      "/static/img/catalogue/bg3396.jpg",
+      "/static/img/catalogue/bg4989.jpg"
+    ],
+    "price": "1255 грн",
+    "specs": [
+      "висота, мм: 841",
+      "ширина, мм: 354",
+      "глибина, мм: 370",
+      "вага, кг: 12,6",
+      "розмір упаковки, мм: 830х370х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-17",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b206.jpg",
+      "/static/img/catalogue/bg5510.jpg",
+      "/static/img/catalogue/bg3389.jpg",
+      "/static/img/catalogue/bg3388.jpg",
+      "/static/img/catalogue/bg3391.jpg",
+      "/static/img/catalogue/bg3390.jpg",
+      "/static/img/catalogue/bg3392.jpg",
+      "/static/img/catalogue/bg3393.jpg",
+      "/static/img/catalogue/bg4990.jpg"
+    ],
+    "price": "1814 грн",
+    "specs": [
+      "висота, мм: 841",
+      "ширина, мм: 604",
+      "глибина, мм: 370",
+      "вага, кг: 19,2",
+      "розмір упаковки, мм: 830х370х115",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-16",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b207.jpg",
+      "/static/img/catalogue/bg5509.jpg",
+      "/static/img/catalogue/bg3382.jpg",
+      "/static/img/catalogue/bg3386.jpg",
+      "/static/img/catalogue/bg3387.jpg",
+      "/static/img/catalogue/bg3383.jpg",
+      "/static/img/catalogue/bg3385.jpg",
+      "/static/img/catalogue/bg3384.jpg",
+      "/static/img/catalogue/bg4991.jpg"
+    ],
+    "price": "1558 грн",
+    "specs": [
+      "висота, мм: 1200",
+      "ширина, мм: 354",
+      "глибина, мм: 370",
+      "вага, кг: 16,2",
+      "розмір упаковки, мм: 1190х350х65",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-15",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b208.jpg",
+      "/static/img/catalogue/bg5508.jpg",
+      "/static/img/catalogue/bg3376.jpg",
+      "/static/img/catalogue/bg3380.jpg",
+      "/static/img/catalogue/bg3378.jpg",
+      "/static/img/catalogue/bg3381.jpg",
+      "/static/img/catalogue/bg3377.jpg",
+      "/static/img/catalogue/bg3379.jpg",
+      "/static/img/catalogue/bg4992.jpg"
+    ],
+    "price": "2209 грн",
+    "specs": [
+      "висота, мм: 1200",
+      "ширина, мм: 604",
+      "глибина, мм: 370",
+      "вага, кг: 24,2",
+      "розмір упаковки, мм: 1190х370х95",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-14",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b209.jpg",
+      "/static/img/catalogue/bg5507.jpg",
+      "/static/img/catalogue/bg3370.jpg",
+      "/static/img/catalogue/bg3371.jpg",
+      "/static/img/catalogue/bg3373.jpg",
+      "/static/img/catalogue/bg3374.jpg",
+      "/static/img/catalogue/bg3372.jpg",
+      "/static/img/catalogue/bg3375.jpg",
+      "/static/img/catalogue/bg4993.jpg"
+    ],
+    "price": "2991 грн",
+    "specs": [
+      "висота, мм: 1200",
+      "ширина, мм: 604",
+      "глибина, мм: 370",
+      "вага, кг: 29,6",
+      "розмір упаковки, мм: 1190х370х120",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-13",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b210.jpg",
+      "/static/img/catalogue/bg5506.jpg",
+      "/static/img/catalogue/bg3364.jpg",
+      "/static/img/catalogue/bg3367.jpg",
+      "/static/img/catalogue/bg3368.jpg",
+      "/static/img/catalogue/bg3369.jpg",
+      "/static/img/catalogue/bg3365.jpg",
+      "/static/img/catalogue/bg3366.jpg",
+      "/static/img/catalogue/bg4994.jpg"
+    ],
+    "price": "2177 грн",
+    "specs": [
+      "висота, мм: 1587",
+      "ширина, мм: 350",
+      "глибина, мм: 366",
+      "вага, кг: 24",
+      "розмір упаковки, мм: 1592х353х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-12",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b211.jpg",
+      "/static/img/catalogue/bg5505.jpg",
+      "/static/img/catalogue/bg3360.jpg",
+      "/static/img/catalogue/bg3363.jpg",
+      "/static/img/catalogue/bg3362.jpg",
+      "/static/img/catalogue/bg4995.jpg",
+      "/static/img/catalogue/bg3361.jpg",
+      "/static/img/catalogue/bg3358.jpg",
+      "/static/img/catalogue/bg3359.jpg"
+    ],
+    "price": "3194 грн",
+    "specs": [
+      "висота, мм: 1587",
+      "ширина, мм: 600",
+      "глибина, мм: 366",
+      "вага, кг: 33,6",
+      "розмір упаковки, мм: 1592х353х115",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-11",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b212.jpg",
+      "/static/img/catalogue/bg5504.jpg",
+      "/static/img/catalogue/bg3357.jpg",
+      "/static/img/catalogue/bg3352.jpg",
+      "/static/img/catalogue/bg3353.jpg",
+      "/static/img/catalogue/bg4996.jpg",
+      "/static/img/catalogue/bg3354.jpg",
+      "/static/img/catalogue/bg3356.jpg",
+      "/static/img/catalogue/bg3355.jpg"
+    ],
+    "price": "4387 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 600",
+      "глибина, мм: 366",
+      "вага, кг: 45",
+      "розмір упаковки, мм: 1956х356х115",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "МС Шафа 21",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b407.jpg",
+      "/static/img/catalogue/bg5423.jpg",
+      "/static/img/catalogue/bg5092.jpg",
+      "/static/img/catalogue/bg1984.jpg",
+      "/static/img/catalogue/bg1985.jpg",
+      "/static/img/catalogue/bg1989.jpg",
+      "/static/img/catalogue/bg1990.jpg",
+      "/static/img/catalogue/bg1986.jpg",
+      "/static/img/catalogue/bg1988.jpg",
+      "/static/img/catalogue/bg1987.jpg"
+    ],
+    "price": "5683 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 800",
+      "глибина, мм: 464",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "МС Шафа 22",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b409.jpg",
+      "/static/img/catalogue/bg5424.jpg",
+      "/static/img/catalogue/bg5093.jpg",
+      "/static/img/catalogue/bg1997.jpg",
+      "/static/img/catalogue/bg1998.jpg",
+      "/static/img/catalogue/bg2001.jpg",
+      "/static/img/catalogue/bg2003.jpg",
+      "/static/img/catalogue/bg2000.jpg",
+      "/static/img/catalogue/bg2002.jpg",
+      "/static/img/catalogue/bg1999.jpg"
+    ],
+    "price": "5240 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 800",
+      "глибина, мм: 464",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "МС Шафа 23",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b411.jpg",
+      "/static/img/catalogue/bg5425.jpg",
+      "/static/img/catalogue/bg5094.jpg",
+      "/static/img/catalogue/bg2010.jpg",
+      "/static/img/catalogue/bg2011.jpg",
+      "/static/img/catalogue/bg2013.jpg",
+      "/static/img/catalogue/bg2012.jpg",
+      "/static/img/catalogue/bg2014.jpg",
+      "/static/img/catalogue/bg2015.jpg",
+      "/static/img/catalogue/bg2016.jpg"
+    ],
+    "price": "4332 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 800",
+      "глибина, мм: 464",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b439.jpg",
+      "/static/img/catalogue/bg5549.jpg",
+      "/static/img/catalogue/bg3457.jpg",
+      "/static/img/catalogue/bg3454.jpg",
+      "/static/img/catalogue/bg3453.jpg",
+      "/static/img/catalogue/bg5111.jpg",
+      "/static/img/catalogue/bg3456.jpg",
+      "/static/img/catalogue/bg3458.jpg",
+      "/static/img/catalogue/bg3455.jpg",
+      "/static/img/catalogue/bg2655.jpg"
+    ],
+    "price": "4328 грн",
+    "specs": [
+      "висота, мм: 2150(1950)",
+      "ширина, мм: 850(650)",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-11",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b441.jpg",
+      "/static/img/catalogue/bg5532.jpg",
+      "/static/img/catalogue/bg3468.jpg",
+      "/static/img/catalogue/bg3466.jpg",
+      "/static/img/catalogue/bg3472.jpg",
+      "/static/img/catalogue/bg3467.jpg",
+      "/static/img/catalogue/bg5113.jpg",
+      "/static/img/catalogue/bg3469.jpg",
+      "/static/img/catalogue/bg3470.jpg",
+      "/static/img/catalogue/bg3471.jpg"
+    ],
+    "price": "3047 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 600",
+      "глибина, мм: 366",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-12",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b494.jpg",
+      "/static/img/catalogue/bg5533.jpg",
+      "/static/img/catalogue/bg3479.jpg",
+      "/static/img/catalogue/bg3473.jpg",
+      "/static/img/catalogue/bg3474.jpg",
+      "/static/img/catalogue/bg3475.jpg",
+      "/static/img/catalogue/bg5114.jpg",
+      "/static/img/catalogue/bg3476.jpg",
+      "/static/img/catalogue/bg3477.jpg",
+      "/static/img/catalogue/bg3478.jpg",
+      "/static/img/catalogue/bg3480.jpg"
+    ],
+    "price": "3953 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 600",
+      "глибина, мм: 464",
+      "розмір упаковки, мм: 1951х455х90",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге комби, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-13",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b495.jpg",
+      "/static/img/catalogue/bg5534.jpg",
+      "/static/img/catalogue/bg5115.jpg",
+      "/static/img/catalogue/bg3483.jpg",
+      "/static/img/catalogue/bg3487.jpg",
+      "/static/img/catalogue/bg3481.jpg",
+      "/static/img/catalogue/bg3482.jpg",
+      "/static/img/catalogue/bg3486.jpg",
+      "/static/img/catalogue/bg3484.jpg",
+      "/static/img/catalogue/bg3485.jpg",
+      "/static/img/catalogue/bg3488.jpg"
+    ],
+    "price": "5952 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 900",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1950х448х110",
+      "размер упаковки ч.2, мм: 1887х298х48"
+    ]
+  },
+  {
+    "name": "Шафа-14",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b496.jpg",
+      "/static/img/catalogue/bg5535.jpg",
+      "/static/img/catalogue/bg5116.jpg",
+      "/static/img/catalogue/bg3496.jpg",
+      "/static/img/catalogue/bg3489.jpg",
+      "/static/img/catalogue/bg3491.jpg",
+      "/static/img/catalogue/bg3490.jpg",
+      "/static/img/catalogue/bg3492.jpg",
+      "/static/img/catalogue/bg3495.jpg",
+      "/static/img/catalogue/bg3497.jpg",
+      "/static/img/catalogue/bg3493.jpg",
+      "/static/img/catalogue/bg3494.jpg"
+    ],
+    "price": "7294 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 1200",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1950х448х62",
+      "размер упаковки ч.2, мм: 1887х298х64",
+      "размер упаковки ч.3, мм: 1168х448х115"
+    ]
+  },
+  {
+    "name": "Шафа-15",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b497.jpg",
+      "/static/img/catalogue/bg5536.jpg",
+      "/static/img/catalogue/bg5117.jpg",
+      "/static/img/catalogue/bg3500.jpg",
+      "/static/img/catalogue/bg3499.jpg",
+      "/static/img/catalogue/bg3498.jpg",
+      "/static/img/catalogue/bg3501.jpg",
+      "/static/img/catalogue/bg3503.jpg",
+      "/static/img/catalogue/bg3504.jpg",
+      "/static/img/catalogue/bg3502.jpg"
+    ],
+    "price": "6328 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 1200",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1952х450х98",
+      "размер упаковки ч.2, мм: 1889х399х57"
+    ]
+  },
+  {
+    "name": "Шафа-16",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b548.jpg",
+      "/static/img/catalogue/bg5537.jpg",
+      "/static/img/catalogue/bg4032.jpg",
+      "/static/img/catalogue/bg4033.jpg",
+      "/static/img/catalogue/bg5118.jpg",
+      "/static/img/catalogue/bg4028.jpg",
+      "/static/img/catalogue/bg4029.jpg",
+      "/static/img/catalogue/bg4031.jpg",
+      "/static/img/catalogue/bg4030.jpg",
+      "/static/img/catalogue/bg4034.jpg"
+    ],
+    "price": "5687 грн",
+    "specs": [
+      "висота, мм: 2350",
+      "ширина, мм: 1300",
+      "глибина, мм: 420",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Антресоль-1 (під Шафа-12)",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b572.jpg",
+      "/static/img/catalogue/bg5099.jpg",
+      "/static/img/catalogue/bg5282.jpg",
+      "/static/img/catalogue/bg4207.jpg",
+      "/static/img/catalogue/bg4206.jpg",
+      "/static/img/catalogue/bg4204.jpg",
+      "/static/img/catalogue/bg4209.jpg",
+      "/static/img/catalogue/bg4203.jpg",
+      "/static/img/catalogue/bg4205.jpg",
+      "/static/img/catalogue/bg4208.jpg"
+    ],
+    "price": "1377 грн",
+    "specs": [
+      "висота, мм: 450",
+      "ширина, мм: 600",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Антресоль-2 (під Шафа-13)",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b573.jpg",
+      "/static/img/catalogue/bg5100.jpg",
+      "/static/img/catalogue/bg5283.jpg",
+      "/static/img/catalogue/bg4210.jpg",
+      "/static/img/catalogue/bg4214.jpg",
+      "/static/img/catalogue/bg4215.jpg",
+      "/static/img/catalogue/bg4212.jpg",
+      "/static/img/catalogue/bg4211.jpg",
+      "/static/img/catalogue/bg4213.jpg",
+      "/static/img/catalogue/bg4216.jpg"
+    ],
+    "price": "1863 грн",
+    "specs": [
+      "висота, мм: 450",
+      "ширина, мм: 900",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Антресоль-3 (під Шафа-14)",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b574.jpg",
+      "/static/img/catalogue/bg5101.jpg",
+      "/static/img/catalogue/bg5284.jpg",
+      "/static/img/catalogue/bg4217.jpg",
+      "/static/img/catalogue/bg4221.jpg",
+      "/static/img/catalogue/bg4218.jpg",
+      "/static/img/catalogue/bg4223.jpg",
+      "/static/img/catalogue/bg4220.jpg",
+      "/static/img/catalogue/bg4219.jpg",
+      "/static/img/catalogue/bg4222.jpg"
+    ],
+    "price": "2323 грн",
+    "specs": [
+      "висота, мм: 450",
+      "ширина, мм: 1300",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Антресоль-4 (під Шафа-15)",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b575.jpg",
+      "/static/img/catalogue/bg5102.jpg",
+      "/static/img/catalogue/bg5285.jpg",
+      "/static/img/catalogue/bg4230.jpg",
+      "/static/img/catalogue/bg4225.jpg",
+      "/static/img/catalogue/bg4226.jpg",
+      "/static/img/catalogue/bg4227.jpg",
+      "/static/img/catalogue/bg4228.jpg",
+      "/static/img/catalogue/bg4224.jpg",
+      "/static/img/catalogue/bg4229.jpg"
+    ],
+    "price": "2193 грн",
+    "specs": [
+      "висота, мм: 450",
+      "ширина, мм: 1200",
+      "глибина, мм: 464",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-19",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b694.jpg",
+      "/static/img/catalogue/bg5512.jpg",
+      "/static/img/catalogue/bg4742.jpg",
+      "/static/img/catalogue/bg4743.jpg",
+      "/static/img/catalogue/bg4744.jpg",
+      "/static/img/catalogue/bg4745.jpg",
+      "/static/img/catalogue/bg4746.jpg",
+      "/static/img/catalogue/bg4747.jpg",
+      "/static/img/catalogue/bg4748.jpg"
+    ],
+    "price": "1593 грн",
+    "specs": [
+      "висота, мм: 1070",
+      "ширина, мм: 1055",
+      "глибина, мм: 292",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-20",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b695.jpg",
+      "/static/img/catalogue/bg5514.jpg",
+      "/static/img/catalogue/bg4749.jpg",
+      "/static/img/catalogue/bg4750.jpg",
+      "/static/img/catalogue/bg4751.jpg",
+      "/static/img/catalogue/bg4753.jpg",
+      "/static/img/catalogue/bg4752.jpg",
+      "/static/img/catalogue/bg4754.jpg",
+      "/static/img/catalogue/bg4755.jpg"
+    ],
+    "price": "2385 грн",
+    "specs": [
+      "висота, мм: 1390",
+      "ширина, мм: 1402",
+      "глибина, мм: 292",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-21",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b696.jpg",
+      "/static/img/catalogue/bg5515.jpg",
+      "/static/img/catalogue/bg4756.jpg",
+      "/static/img/catalogue/bg4757.jpg",
+      "/static/img/catalogue/bg4759.jpg",
+      "/static/img/catalogue/bg4761.jpg",
+      "/static/img/catalogue/bg4760.jpg",
+      "/static/img/catalogue/bg4762.jpg",
+      "/static/img/catalogue/bg4758.jpg"
+    ],
+    "price": "1773 грн",
+    "specs": [
+      "висота, мм: 1094",
+      "ширина, мм: 730",
+      "глибина, мм: 330",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-22",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b697.jpg",
+      "/static/img/catalogue/bg5516.jpg",
+      "/static/img/catalogue/bg4763.jpg",
+      "/static/img/catalogue/bg4765.jpg",
+      "/static/img/catalogue/bg4766.jpg",
+      "/static/img/catalogue/bg4768.jpg",
+      "/static/img/catalogue/bg4767.jpg",
+      "/static/img/catalogue/bg4769.jpg",
+      "/static/img/catalogue/bg4764.jpg"
+    ],
+    "price": "1276 грн",
+    "specs": [
+      "висота, мм: 738",
+      "ширина, мм: 730",
+      "глибина, мм: 330",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-23",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b698.jpg",
+      "/static/img/catalogue/bg5517.jpg",
+      "/static/img/catalogue/bg4770.jpg",
+      "/static/img/catalogue/bg4771.jpg",
+      "/static/img/catalogue/bg4773.jpg",
+      "/static/img/catalogue/bg4774.jpg",
+      "/static/img/catalogue/bg4776.jpg",
+      "/static/img/catalogue/bg4775.jpg",
+      "/static/img/catalogue/bg4772.jpg"
+    ],
+    "price": "1432 грн",
+    "specs": [
+      "висота, мм: 1450",
+      "ширина, мм: 374",
+      "глибина, мм: 330",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-24",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b699.jpg",
+      "/static/img/catalogue/bg5518.jpg",
+      "/static/img/catalogue/bg4777.jpg",
+      "/static/img/catalogue/bg4779.jpg",
+      "/static/img/catalogue/bg4782.jpg",
+      "/static/img/catalogue/bg4783.jpg",
+      "/static/img/catalogue/bg4780.jpg",
+      "/static/img/catalogue/bg4781.jpg",
+      "/static/img/catalogue/bg4778.jpg"
+    ],
+    "price": "1098 грн",
+    "specs": [
+      "висота, мм: 1094",
+      "ширина, мм: 374",
+      "глибина, мм: 330",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-25",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b700.jpg",
+      "/static/img/catalogue/bg5519.jpg",
+      "/static/img/catalogue/bg4785.jpg",
+      "/static/img/catalogue/bg4789.jpg",
+      "/static/img/catalogue/bg4787.jpg",
+      "/static/img/catalogue/bg4790.jpg",
+      "/static/img/catalogue/bg4788.jpg",
+      "/static/img/catalogue/bg4786.jpg",
+      "/static/img/catalogue/bg4784.jpg"
+    ],
+    "price": "2683 грн",
+    "specs": [
+      "висота, мм: 900",
+      "ширина, мм: 900",
+      "глибина, мм: 400",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-26",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b701.jpg",
+      "/static/img/catalogue/bg5520.jpg",
+      "/static/img/catalogue/bg4791.jpg",
+      "/static/img/catalogue/bg4792.jpg",
+      "/static/img/catalogue/bg4795.jpg",
+      "/static/img/catalogue/bg4796.jpg",
+      "/static/img/catalogue/bg4797.jpg",
+      "/static/img/catalogue/bg4794.jpg",
+      "/static/img/catalogue/bg4793.jpg"
+    ],
+    "price": "3668 грн",
+    "specs": [
+      "висота, мм: 1700",
+      "ширина, мм: 900",
+      "глибина, мм: 400",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа-17",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b709.jpg",
+      "/static/img/catalogue/bg5538.jpg",
+      "/static/img/catalogue/bg4847.jpg",
+      "/static/img/catalogue/bg4848.jpg",
+      "/static/img/catalogue/bg4849.jpg",
+      "/static/img/catalogue/bg5119.jpg",
+      "/static/img/catalogue/bg4853.jpg",
+      "/static/img/catalogue/bg4852.jpg",
+      "/static/img/catalogue/bg4854.jpg",
+      "/static/img/catalogue/bg4850.jpg",
+      "/static/img/catalogue/bg4851.jpg"
+    ],
+    "price": "3029 грн",
+    "specs": [
+      "висота, мм: 1800",
+      "ширина, мм: 500",
+      "глибина, мм: 400",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби, Дуб сонома/Нимфея альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа Буфет",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b710.jpg",
+      "/static/img/catalogue/bg5528.jpg",
+      "/static/img/catalogue/bg4855.jpg",
+      "/static/img/catalogue/bg4856.jpg",
+      "/static/img/catalogue/bg4857.jpg",
+      "/static/img/catalogue/bg4861.jpg",
+      "/static/img/catalogue/bg4859.jpg",
+      "/static/img/catalogue/bg4858.jpg",
+      "/static/img/catalogue/bg4860.jpg"
+    ],
+    "price": "4167 грн",
+    "specs": [
+      "висота, мм: 1851",
+      "ширина, мм: 640",
+      "глибина, мм: 500/316",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа для ванної кімнати",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b711.jpg",
+      "/static/img/catalogue/bg5529.jpg",
+      "/static/img/catalogue/bg4862.jpg",
+      "/static/img/catalogue/bg4863.jpg",
+      "/static/img/catalogue/bg4864.jpg",
+      "/static/img/catalogue/bg4865.jpg",
+      "/static/img/catalogue/bg4866.jpg",
+      "/static/img/catalogue/bg4867.jpg",
+      "/static/img/catalogue/bg4868.jpg"
+    ],
+    "price": "2321 грн",
+    "specs": [
+      "висота, мм: 1830",
+      "ширина, мм: 640",
+      "глибина, мм: 316",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-27",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b731.jpg",
+      "/static/img/catalogue/bg5833.jpg",
+      "/static/img/catalogue/bg5837.jpg",
+      "/static/img/catalogue/bg5839.jpg",
+      "/static/img/catalogue/bg5836.jpg",
+      "/static/img/catalogue/bg5871.jpg",
+      "/static/img/catalogue/bg5873.jpg",
+      "/static/img/catalogue/bg5872.jpg",
+      "/static/img/catalogue/bg5870.jpg"
+    ],
+    "price": "912 грн",
+    "specs": [
+      "висота, мм: 804",
+      "ширина, мм: 338",
+      "глибина, мм: 307",
+      "вага, кг: 10",
+      "розмір упаковки, мм: 772х306х80",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-28",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b732.jpg",
+      "/static/img/catalogue/bg5841.jpg",
+      "/static/img/catalogue/bg5842.jpg",
+      "/static/img/catalogue/bg5844.jpg",
+      "/static/img/catalogue/bg5843.jpg",
+      "/static/img/catalogue/bg5845.jpg",
+      "/static/img/catalogue/bg5846.jpg",
+      "/static/img/catalogue/bg5847.jpg"
+    ],
+    "price": "1151 грн",
+    "specs": [
+      "висота, мм: 1125",
+      "ширина, мм: 338",
+      "глибина, мм: 307",
+      "вага, кг: 13",
+      "розмір упаковки, мм: 1093х306х64",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-29",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b733.jpg",
+      "/static/img/catalogue/bg5848.jpg",
+      "/static/img/catalogue/bg5850.jpg",
+      "/static/img/catalogue/bg5855.jpg",
+      "/static/img/catalogue/bg5851.jpg",
+      "/static/img/catalogue/bg5854.jpg",
+      "/static/img/catalogue/bg5853.jpg",
+      "/static/img/catalogue/bg5852.jpg",
+      "/static/img/catalogue/bg5849.jpg"
+    ],
+    "price": "1436 грн",
+    "specs": [
+      "висота, мм: 804",
+      "ширина, мм: 659",
+      "глибина, мм: 307",
+      "вага, кг: 17",
+      "розмір упаковки, мм: 772х306х128",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-30",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b734.jpg",
+      "/static/img/catalogue/bg5856.jpg",
+      "/static/img/catalogue/bg5860.jpg",
+      "/static/img/catalogue/bg5862.jpg",
+      "/static/img/catalogue/bg5863.jpg",
+      "/static/img/catalogue/bg5857.jpg",
+      "/static/img/catalogue/bg5859.jpg",
+      "/static/img/catalogue/bg5861.jpg",
+      "/static/img/catalogue/bg5864.jpg",
+      "/static/img/catalogue/bg5858.jpg"
+    ],
+    "price": "1881 грн",
+    "specs": [
+      "висота, мм: 1125",
+      "ширина, мм: 659",
+      "глибина, мм: 307",
+      "вага, кг: 23",
+      "розмір упаковки, мм: 1284х306х96",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа КШ-31",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b735.jpg",
+      "/static/img/catalogue/bg5867.jpg",
+      "/static/img/catalogue/bg5868.jpg",
+      "/static/img/catalogue/bg5866.jpg",
+      "/static/img/catalogue/bg5869.jpg",
+      "/static/img/catalogue/bg5865.jpg"
+    ],
+    "price": "2290 грн",
+    "specs": [
+      "висота, мм: 679",
+      "ширина, мм: 923",
+      "глибина, мм: 335",
+      "вага, кг: 33",
+      "розмір упаковки, мм: 922х335х170",
+      "колір ДСП: Белый РЕ",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Пенал-3 NEW",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b736.jpg",
+      "/static/img/catalogue/bg5886.jpg",
+      "/static/img/catalogue/bg5875.jpg",
+      "/static/img/catalogue/bg5891.jpg",
+      "/static/img/catalogue/bg5884.jpg",
+      "/static/img/catalogue/bg5888.jpg",
+      "/static/img/catalogue/bg5878.jpg",
+      "/static/img/catalogue/bg5893.jpg",
+      "/static/img/catalogue/bg5881.jpg",
+      "/static/img/catalogue/bg5892.jpg",
+      "/static/img/catalogue/bg5879.jpg",
+      "/static/img/catalogue/bg5880.jpg",
+      "/static/img/catalogue/bg5889.jpg",
+      "/static/img/catalogue/bg5883.jpg",
+      "/static/img/catalogue/bg5887.jpg",
+      "/static/img/catalogue/bg5877.jpg",
+      "/static/img/catalogue/bg5890.jpg",
+      "/static/img/catalogue/bg5876.jpg",
+      "/static/img/catalogue/bg5882.jpg",
+      "/static/img/catalogue/bg5885.jpg",
+      "/static/img/catalogue/bg5874.jpg"
+    ],
+    "price": "3521 грн",
+    "specs": [
+      "висота, мм: 2000",
+      "ширина, мм: 400",
+      "глибина, мм: 416",
+      "вага, кг: 45",
+      "розмір упаковки, мм: 2000х400х83",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Ателье светлый, Венге комби, Дуб крафт золотой, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Шафа 25",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b753.jpg",
+      "/static/img/catalogue/bg6057.jpg",
+      "/static/img/catalogue/bg6061.jpg",
+      "/static/img/catalogue/bg6058.jpg",
+      "/static/img/catalogue/bg6063.jpg",
+      "/static/img/catalogue/bg6062.jpg",
+      "/static/img/catalogue/bg6064.jpg",
+      "/static/img/catalogue/bg6060.jpg",
+      "/static/img/catalogue/bg6059.jpg",
+      "/static/img/catalogue/bg6065.jpg"
+    ],
+    "price": "4800 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 600",
+      "глибина, мм: 534",
+      "вага, кг: 55",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1138х560х70",
+      "размер упаковки ч.2, мм: 1888х530х48"
+    ]
+  },
+  {
+    "name": "Шафа 26",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b754.jpg",
+      "/static/img/catalogue/bg6066.jpg",
+      "/static/img/catalogue/bg6067.jpg",
+      "/static/img/catalogue/bg6069.jpg",
+      "/static/img/catalogue/bg6068.jpg",
+      "/static/img/catalogue/bg6073.jpg",
+      "/static/img/catalogue/bg6074.jpg",
+      "/static/img/catalogue/bg6070.jpg",
+      "/static/img/catalogue/bg6071.jpg",
+      "/static/img/catalogue/bg6072.jpg"
+    ],
+    "price": "4114 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 600",
+      "глибина, мм: 534",
+      "вага, кг: 52",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1138х560х70",
+      "размер упаковки ч.2, мм: 1888х530х48"
+    ]
+  },
+  {
+    "name": "Шафа 27",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b755.jpg",
+      "/static/img/catalogue/bg6075.jpg",
+      "/static/img/catalogue/bg6076.jpg",
+      "/static/img/catalogue/bg6080.jpg",
+      "/static/img/catalogue/bg6078.jpg",
+      "/static/img/catalogue/bg6077.jpg",
+      "/static/img/catalogue/bg6082.jpg",
+      "/static/img/catalogue/bg6081.jpg",
+      "/static/img/catalogue/bg6083.jpg",
+      "/static/img/catalogue/bg6079.jpg"
+    ],
+    "price": "5958 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 900",
+      "глибина, мм: 534",
+      "вага, кг: 70",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1138х437х80",
+      "размер упаковки ч.2, мм: 1888х530х71"
+    ]
+  },
+  {
+    "name": "Шафа 28",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b756.jpg",
+      "/static/img/catalogue/bg6084.jpg",
+      "/static/img/catalogue/bg6085.jpg",
+      "/static/img/catalogue/bg6086.jpg",
+      "/static/img/catalogue/bg6089.jpg",
+      "/static/img/catalogue/bg6092.jpg",
+      "/static/img/catalogue/bg6091.jpg",
+      "/static/img/catalogue/bg6088.jpg",
+      "/static/img/catalogue/bg6090.jpg",
+      "/static/img/catalogue/bg6087.jpg"
+    ],
+    "price": "5252 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 900",
+      "глибина, мм: 534",
+      "вага, кг: 68",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1138х512х102",
+      "размер упаковки ч.2, мм: 1888х530х48"
+    ]
+  },
+  {
+    "name": "Шафа 29",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b757.jpg",
+      "/static/img/catalogue/bg6096.jpg",
+      "/static/img/catalogue/bg6095.jpg",
+      "/static/img/catalogue/bg6093.jpg",
+      "/static/img/catalogue/bg6106.jpg",
+      "/static/img/catalogue/bg6109.jpg",
+      "/static/img/catalogue/bg6100.jpg",
+      "/static/img/catalogue/bg6111.jpg",
+      "/static/img/catalogue/bg6098.jpg",
+      "/static/img/catalogue/bg6113.jpg",
+      "/static/img/catalogue/bg6105.jpg",
+      "/static/img/catalogue/bg6115.jpg",
+      "/static/img/catalogue/bg6103.jpg",
+      "/static/img/catalogue/bg6112.jpg",
+      "/static/img/catalogue/bg6101.jpg",
+      "/static/img/catalogue/bg6114.jpg",
+      "/static/img/catalogue/bg6099.jpg",
+      "/static/img/catalogue/bg6108.jpg",
+      "/static/img/catalogue/bg6097.jpg",
+      "/static/img/catalogue/bg6107.jpg",
+      "/static/img/catalogue/bg6110.jpg",
+      "/static/img/catalogue/bg6104.jpg",
+      "/static/img/catalogue/bg6102.jpg",
+      "/static/img/catalogue/bg6094.jpg"
+    ],
+    "price": "4678 грн",
+    "specs": [
+      "висота, мм: 1950",
+      "ширина, мм: 800",
+      "глибина, мм: 464",
+      "вага, кг: 59",
+      "колір ДСП: Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Венге Венге, Нимфея Альба, Ателье светлый, Дуб крафт золотой, Дуб комби",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 768х448х128",
+      "размер упаковки ч.2, мм: 1950х448х52"
+    ]
+  },
+
+  {
+    "name": "Шафа Алекса 4Д 1500 Індастріал / Німфеа Альба",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/alexa-shafa-4d-1-700x700.jpg",
+      "/static/img/catalogue/alexa-shafa-4d-700x700.jpg",
+      "/static/img/catalogue/alexa-shafa-4d-2-700x700.png"
+    ],
+    "price": "10188 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 220 см",
+      "Глибина: 59 см",
+      "Корпус: Індастріал",
+      "Фасад: Німфеа Альба",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Амелія 4Д 1500 Білий / Білий глянець",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/amelia-shafa-4d-main-700x700.jpg",
+      "/static/img/catalogue/amelia-shafa-4d-700x700.png"
+    ],
+    "price": "13033 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Білий",
+      "Фасад: Білий глянець",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Каміла 4 ДЗ Графіт / Дуб Артизан",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-4dz-kamila-hrafit-dub-artizan-700x700.jpg",
+      "/static/img/catalogue/shafa-kamila-hrafit-dub-artizan-skhema-700x700.jpg",
+      "/static/img/catalogue/spalnya-kamila-hrafit-dub-artizan-700x700.jpeg"
+    ],
+    "price": "15251 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 189 см",
+      "Висота: 222 см",
+      "Глибина: 61,5 см",
+      "Корпус: Графіт",
+      "Фасад: Дуб артизан / Графіт",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 4 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Кармен Нова Горіх 4Д / Піно горіх, лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-karmen-nova-4d-gorih-main-700x700.jpg",
+      "/static/img/catalogue/shafa-4d-karmen-nova-gorih-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-karmen-nova-horikh-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/shafa-4d-karmen-nova-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-horikh-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-horikh-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-novaya-orekh-mir-mebeli-700x700.png",
+      "/static/img/catalogue/lizhko-karmen-nova-horikh-svit-mebliv-2-700x700.jpeg",
+      "/static/img/catalogue/karmen-nova-horikh-shafa-pino-lak-svit-mebliv-700x700.jpeg"
+    ],
+    "price": "18957 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 190,5 см",
+      "Висота: 233 см",
+      "Глибина: 64,5 см",
+      "Корпус: Піно горіх",
+      "Фасад: Піно горіх, лак, художній друк",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Кармен Нова Піно 4Д / Піно лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-4d-karmen-nova-pyno-svyt-meblyv-700x700.jpeg",
+      "/static/img/catalogue/shafa-karmen-pino-700x700.jpeg",
+      "/static/img/catalogue/karmen-pnova-pino-shafa-4d-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-karmen-nova-horikh-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/shafa-4d-karmen-nova-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-karmen-nova-pyno-svyt-meblyv-700x700.jpeg",
+      "/static/img/catalogue/spalnya_karmen-svit-mebliv-700x700.png"
+    ],
+    "price": "18957 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 190,5 см",
+      "Висота: 233 см",
+      "Глибина: 64,5 см",
+      "Корпус: Піно",
+      "Фасад: Піно лак, художній друк",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Кім 4Д Дуб артизан / Білий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-spalnya-kim-dub-sonoma-bilyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-spalnya-kim-dub-sonoma-bilyy-1-700x700.jpg",
+      "/static/img/catalogue/shafa-4d-spalnya-kim-dub-sonoma-bilyy-700x700.jpg",
+      "/static/img/catalogue/spalnya-kim-dub-sonoma-bilyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-kim-svit-mebliv-prais-700x700.png"
+    ],
+    "price": "6893 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 170 см",
+      "Висота: 199 см",
+      "Глибина: 59 см",
+      "Корпус: Дуб артизан",
+      "Фасад: Дуб артизан / Білий",
+      "Комплектація: Можлива комплектація ліжка каркасом СМ",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Кім 4Д Венге магія / Дуб молочний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-spalnya-kim-dub-molochnyy-venhe-mahiya-700x700.jpg",
+      "/static/img/catalogue/shafa-spalnya-kim-dub-molochnyy-venhe-mahiya-1-700x700.jpg",
+      "/static/img/catalogue/spalnya-kim-dub-molochnyy-venhe-mahiya-svit-mebliv-700x700.jpg"
+    ],
+    "price": "7699 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 170 см",
+      "Висота: 199 см",
+      "Глибина: 59 см",
+      "Корпус: Венге магія",
+      "Фасад: Венге магія / Дуб молочний",
+      "Комплектація: Можлива комплектація ліжка каркасом СМ",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Круїз 3Д Білий/Дакар",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-3d-kruyiz-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/shafa-3d-kruyiz-svit-mebliv-1-700x700.jpg",
+      "/static/img/catalogue/shafa-3d-kruyiz-bilyy-dakar-1-700x700.png",
+      "/static/img/catalogue/shafa-3d-kruyiz-bilyy-dakar-3-700x700.jpeg",
+      "/static/img/catalogue/shafa-3d-kruyiz-bilyy-dakar-2-700x700.jpeg"
+    ],
+    "price": "8363 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 137,4 см",
+      "Висота: 205,7 см",
+      "Глибина: 54,4 см",
+      "Корпус: Білий",
+      "Фасад: Білий, Дакар",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Круїз 5Д Білий/Дакар",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-5d-kruyiz-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/shafa-5d-kruyiz-svit-mebliv-1-700x700.jpg",
+      "/static/img/catalogue/shafa-5d-kruyiz-bilyy-dakar-1-700x700.jpeg",
+      "/static/img/catalogue/shafa-5d-kruyiz-bilyy-dakar-5-700x700.jpeg",
+      "/static/img/catalogue/shafa-5d-kruyiz-bilyy-dakar-3-700x700.jpeg",
+      "/static/img/catalogue/shafa-5d-kruyiz-bilyy-dakar-4-700x700.jpeg",
+      "/static/img/catalogue/spalnya-kruyiz-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/kruyiz-bilyy-dakar-2-700x700.png"
+    ],
+    "price": "11385 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 229 см",
+      "Висота: 205,7 см",
+      "Глибина: 54,4 см",
+      "Корпус: Білий",
+      "Фасад: Білий, Дакар",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 4Д 1500 Дуб гранж колоніальний/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-4d-700x700.png",
+      "/static/img/catalogue/lilea-nova-shafa-4d-artwood-anthracite-2-700x700.png"
+    ],
+    "price": "8805 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 4Д 1500 Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lilea-nova-shafa-4d-artwood-anthracite-700x700.jpg",
+      "/static/img/catalogue/lilea-nova-shafa-4d-artwood-anthracite-2-700x700.png"
+    ],
+    "price": "8805 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Марія 4Д 1500  Дуб борас / Біле золото",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-4d-mariya-bile-zoloto-dub-boras-700x700.jpeg",
+      "/static/img/catalogue/shafa-maria-4d-3-700x700.jpg",
+      "/static/img/catalogue/maryia-orekh-patina-shkaf-700x700.png",
+      "/static/img/catalogue/maria-shafa-4d-1500-700x700.png"
+    ],
+    "price": "12820 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Дуб борас",
+      "Фасад: Біле золото",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Ніколь 4Д Білий / Біле дерево, патина",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-4d-nikol-bilyy-bile-derevo-patyna-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-nykol-bile-derevo-700x700.png",
+      "/static/img/catalogue/shafa-4d-nykol-bile-derevo-2-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-nykol-bile-derevo-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-nykol-bile-derevo-4-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bilyy-bile-derevo-patyna-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bile-derevo-2-700x700.png"
+    ],
+    "price": "15017 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 178 см",
+      "Висота: 230 см",
+      "Глибина: 58 см",
+      "Корпус: Білий",
+      "Фасад: Біле дерево, патина",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Ніколь 5Д Білий / Біле дерево, патина",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-5d-nikol-bilyy-bile-derevo-patyna-700x700.jpeg",
+      "/static/img/catalogue/shafa-5d-nykol-bile-derevo-700x700.png",
+      "/static/img/catalogue/spalnya-nikol-bile-derevo-1-700x700.jpeg",
+      "/static/img/catalogue/shafa-5d-nykol-bile-derevo-1-700x700.jpeg",
+      "/static/img/catalogue/shafa-5d-nykol-bile-derevo-6-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bilyy-bile-derevo-patyna-700x700.jpeg",
+      "/static/img/catalogue/spalnya-nikol-bile-derevo-2-700x700.png"
+    ],
+    "price": "18899 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 222 см",
+      "Висота: 230 см",
+      "Глибина: 58 см",
+      "Корпус: Білий",
+      "Фасад: Біле дерево, патина",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Пенал 2Д Фріда Дуб ліворно/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/penal-2d-frida-livorno-700x700.jpg",
+      "/static/img/catalogue/1740742015941369-700x700.png"
+    ],
+    "price": "3993 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 50 см",
+      "Висота: 210,5 см",
+      "Глибина: 52 см",
+      "Корпус: Чорний",
+      "Фасад: Дуб ліворно",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Ромбо 4Д 1500 Артвуд світлий / Білий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/rombo-shafa-4d-2-700x700.jpg",
+      "/static/img/catalogue/rombo-shafa-4d-700x700.jpg",
+      "/static/img/catalogue/rombo-shafa-4d-3-700x700.jpg"
+    ],
+    "price": "9605 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Білий",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа 2Д2Ш Фріда Дуб ліворно/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-2d-2sh-frida-livorno-700x700.jpg",
+      "/static/img/catalogue/17407420534030587-700x700.png"
+    ],
+    "price": "5987 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 80 см",
+      "Висота: 210,5 см",
+      "Глибина: 52 см",
+      "Корпус: Чорний",
+      "Фасад: Дуб ліворно",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа 2Д2Ш Фріда Тоффі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/frida-toffi-main-700x700.jpg",
+      "/static/img/catalogue/17407420534030587-1-700x700.png"
+    ],
+    "price": "7148 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 80 см",
+      "Висота: 210,5 см",
+      "Глибина: 52 см",
+      "Корпус: Тоффі",
+      "Фасад: Тоффі",
+      "Ручки: Дуб сонома",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа 2Д Твіст 1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/dytyacha-twist-blue-3-700x700.jpg",
+      "/static/img/catalogue/shafa-2d-twist-inside-700x700.jpg"
+    ],
+    "price": "6006 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 100 см",
+      "Висота: 210,1 см",
+      "Глибина: 55,3 см",
+      "Корпус: Білий",
+      "Фасад: Білий/Холодний блакитний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа 3Д2Ш Фріда Дуб ліворно/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-3d2sh-frida-livorno-700x700.jpg",
+      "/static/img/catalogue/174074206366740-700x700.png"
+    ],
+    "price": "8502 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 210,5 см",
+      "Глибина: 52 см",
+      "Корпус: Чорний",
+      "Фасад: Дуб ліворно",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа 3Д2Ш Фріда Тоффі",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/frida-toffi-main-700x700.jpg",
+      "/static/img/catalogue/174074206366740-700x700.png"
+    ],
+    "price": "10292 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 210,5 см",
+      "Глибина: 52 см",
+      "Корпус: Тоффі",
+      "Фасад: Тоффі",
+      "Ручки: Дуб сонома",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа 3Д Твіст 1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/dytyacha-twist-blue-9-700x700.jpg",
+      "/static/img/catalogue/shafa-3d-twist-inside-700x700.jpg"
+    ],
+    "price": "10176 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 149,8 см",
+      "Висота: 210,1 см",
+      "Глибина: 55,3 см",
+      "Корпус: Білий",
+      "Фасад: Білий/Глиняний сірий/Холодний блакитний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 3ДЗ (1200) Дуб гранж колоніальний/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-3dg-lileya-1200-main-700x700.png",
+      "/static/img/catalogue/shafa-lileya-3d-1200-2-700x700.png"
+    ],
+    "price": "7332 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Амбре Дуб артизан/Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/peredpokiy-ambre-artisan-anthracite-7-700x700.jpg"
+    ],
+    "price": "4419 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 202,5 см",
+      "Глибина: 32 см",
+      "Корпус: Антрацит",
+      "Фасад: Дуб артизан/Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Амбре Дуб білий/Чорний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-ambre-700x700.jpg",
+      "/static/img/catalogue/shafa-ambre-2-700x700.jpg"
+    ],
+    "price": "4783 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 60 см",
+      "Висота: 202,5 см",
+      "Глибина: 32 см",
+      "Корпус: Дуб білий",
+      "Фасад: Дуб білий/Чорний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Б'янко 3Д 1200 Білий / Дуб сонома",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/bianco-shafa-3d-white-700x700.jpg",
+      "/static/img/catalogue/-2023-09-26-072747-700x700.jpg",
+      "/static/img/catalogue/bianco-shafa-3d-white-2-700x700.jpg",
+      "/static/img/catalogue/bianco-shafa-3d-700x700.jpg",
+      "/static/img/catalogue/bianco-shafa-3d-2-700x700.jpg"
+    ],
+    "price": "10101 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Вставки: ДСП",
+      "Фурнітура: Пластик",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Білий",
+      "Фасад: Білий, глянець",
+      "Вставки: Дуб сонома",
+      "Ручки: Алюміній",
+      "Комплектація: Штанга для одягу",
+      "Кількість полиць: 5 шт",
+      "Кількість дверцят: 3 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Б'янко 3ДЗ 1200 Білий / Дуб сонома",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/byanko_shkaf2-600x600-700x700.jpg",
+      "/static/img/catalogue/bianco-shafa-3d-white-2-700x700.jpg",
+      "/static/img/catalogue/bianco-shafa-3d-700x700.jpg",
+      "/static/img/catalogue/bianco-shafa-3d-2-700x700.jpg"
+    ],
+    "price": "9931 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ, дзеркало",
+      "Вставки: ДСП",
+      "Фурнітура: Пластик",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Білий",
+      "Фасад: Білий, глянець",
+      "Вставки: Дуб сонома",
+      "Ручки: Алюміній",
+      "Комплектація: Штанга для одягу",
+      "Кількість полиць: 5 шт",
+      "Кількість дверцят: 3 шт",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Кармен Нова Горіх 3Д / Піно горіх, лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-karmen-gorih-3d-main-700x700.jpg",
+      "/static/img/catalogue/shafa-karmen-gorih-3d-2-700x700.png",
+      "/static/img/catalogue/spalnya-karmen-novaya-orekh-mir-mebeli-700x700.png",
+      "/static/img/catalogue/lizhko-karmen-nova-horikh-svit-mebliv-2-700x700.jpeg"
+    ],
+    "price": "15772 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 146 см",
+      "Висота: 233 см",
+      "Глибина: 64,5 см",
+      "Корпус: Піно горіх",
+      "Фасад: Піно горіх, лак, художній друк",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Кармен Нова Піно 3Д / Піно лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-karmen-pino-3d-main-700x700.png",
+      "/static/img/catalogue/shafa-karmen-pino-3d-2-700x700.png"
+    ],
+    "price": "15772 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 146 см",
+      "Висота: 233 см",
+      "Глибина: 64,5 см",
+      "Корпус: Піно",
+      "Фасад: Піно лак, художній друк",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Круїз 2Д (900) Білий/Дакар",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-kruiz-2d-900-main-700x700.jpg",
+      "/static/img/catalogue/shafa-kruiz-2d-900-2-main-700x700.jpg"
+    ],
+    "price": "5284 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 90 см",
+      "Висота: 205,7 см",
+      "Глибина: 54,4 см",
+      "Корпус: Білий",
+      "Фасад: Білий, Дакар",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Круїз 4Д (1800) Білий/Дакар",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-kruiz-4d-1800-main-700x700.jpg",
+      "/static/img/catalogue/shafa-kruiz-4d-1800-700x700.png"
+    ],
+    "price": "9210 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 205,7 см",
+      "Глибина: 54,4 см",
+      "Корпус: Білий",
+      "Фасад: Білий, Дакар",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Круїз 4ДЗ (1800) Білий/Дакар",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-kruiz-4dg-main-2-700x700.jpg",
+      "/static/img/catalogue/shafa-kruiz-4dg-2-700x700.png"
+    ],
+    "price": "10924 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 205,7 см",
+      "Глибина: 54,4 см",
+      "Корпус: Білий",
+      "Фасад: Білий, Дакар",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 3Д (1200) Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-3d-1200-main-700x700.jpg",
+      "/static/img/catalogue/shafa-lileya-3d-1200-2-700x700.png"
+    ],
+    "price": "6600 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 3ДЗ (1200) Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-3dg-1200-main-700x700.jpg",
+      "/static/img/catalogue/shafa-lileya-3d-1200-2-700x700.png"
+    ],
+    "price": "7332 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 4Д (1800) Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/lilea-nova-shafa-4d-artwood-anthracite-700x700.jpg",
+      "/static/img/catalogue/shafa-lileya-4d-180-700x700.png"
+    ],
+    "price": "9840 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 4ДЗ (1800) Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-nova-artvud-antratsyt-700x700.jpeg",
+      "/static/img/catalogue/shafa-lileya-4d-180-700x700.png",
+      "/static/img/catalogue/shafa-lileya-4dg-1-700x700.jpg"
+    ],
+    "price": "11513 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 3Д (1200) Дуб гранж колоніальний/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-dub-3d-1200-700x700.png",
+      "/static/img/catalogue/shafa-lileya-3d-1200-2-700x700.png"
+    ],
+    "price": "6600 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 2Д (900) Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-nova-2d-90-main-700x700.jpg",
+      "/static/img/catalogue/shkaf-lileya-nova-2d-90-2-700x700.png"
+    ],
+    "price": "5646 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 90 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 4Д (1800) Дуб гранж колоніальний/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-4d-700x700.png",
+      "/static/img/catalogue/shafa-lileya-4d-180-700x700.png"
+    ],
+    "price": "9840 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 4ДЗ (1800) Дуб гранж колоніальний/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-4d-180-dub-700x700.jpg",
+      "/static/img/catalogue/shafa-lileya-4d-180-700x700.png"
+    ],
+    "price": "11513 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 180 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лілея нова 2Д (900) Дуб гранж колоніальний/ Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-lileya-dub-2d-700x700.png",
+      "/static/img/catalogue/shkaf-lileya-nova-2d-90-2-700x700.png"
+    ],
+    "price": "5646 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 90 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Лотос 4Д Дуб гранж колоніальний / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-4d-lotos-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/shafa-4d-lotos-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-lotos-svit-mebliv-1-700x700.jpg",
+      "/static/img/catalogue/spalnya-lotos-dsp-dub-hranzh-antratsyt-700x700.png"
+    ],
+    "price": "11430 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, 2 дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 188 см",
+      "Висота: 244 см",
+      "Глибина: 57 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Саванна Дуб крафт сірий/Блакитна лагуна",
+    "desc": "",
+    "images": ["/static/img/catalogue/shafa-savanna-blue-lagoon-700x700.jpg"],
+    "price": "5593 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 80 см",
+      "Висота: 180 см",
+      "Глибина: 52,5 см",
+      "Корпус: Дуб крафт сірий",
+      "Фасад: Блакитна лагуна",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Саванна Дуб крафт сірий/Льон",
+    "desc": "",
+    "images": ["/static/img/catalogue/dytyacha-savanna-lenin-4-700x700.jpg"],
+    "price": "5593 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 80 см",
+      "Висота: 180 см",
+      "Глибина: 52,5 см",
+      "Корпус: Дуб крафт сірий",
+      "Фасад: Льон",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Соня 4Д Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-sonya-antratsyt-artvud-svitlyy-700x700.jpeg",
+      "/static/img/catalogue/komod-sonya-artvud-svitlyy-antratsyt-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/shafa-sonya-artvud-antratsyt-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/shafa-sonya-artvud-antratsyt-svit-mebliv-700x700.png",
+      "/static/img/catalogue/spalnya-sonya-artvud-svitlyy-antratsyt-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sona-artwood-antracit-svit-mebliv-700x700.jpg"
+    ],
+    "price": "8517 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 170 см",
+      "Висота: 199 см",
+      "Глибина: 59 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Соня 4Д Венге магія / Дуб молочний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-sonya-4d-venge-700x700.jpg",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-4-700x700.jpeg",
+      "/static/img/catalogue/shafa-sonya-venhe-mahiya-dub-molochnyy-3-700x700.jpeg",
+      "/static/img/catalogue/shafa-sonya-artvud-antratsyt-svit-mebliv-700x700.png",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-700x700.png",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-700x700.jpeg"
+    ],
+    "price": "9788 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 170 см",
+      "Висота: 199 см",
+      "Глибина: 59 см",
+      "Корпус: Венге магія",
+      "Фасад: Венге магія / Дуб молочний",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Вівіан 4Д 1500 Артвуд світлий / Індастріал",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/vivian-shafa-4d-1500-2-700x700.jpg",
+      "/static/img/catalogue/vivian-shafa-4d-1500-700x700.jpg",
+      "/static/img/catalogue/vivian-shafa-4d-1500-3-700x700.png"
+    ],
+    "price": "9715 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 150 см",
+      "Висота: 220 см",
+      "Глибина: 57 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Індастріал",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Шафа Жасмін 4Д Білий / Білий, лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/shafa-4d-zhasmin-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/shafa-4d-zhasmin-bilyy-lak-svit-mebliv-shema-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-zhasmin-skhema-venetsiya-nova-pino-bezh-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-zhasmin-skhema-venetsiya-nova-pino-bezh-2-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-zhasmin-skhema-venetsiya-nova-pino-bezh-3-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-zhasmin-skhema-venetsiya-nova-pino-bezh-3-700x700.jpeg",
+      "/static/img/catalogue/shafa-4d-zhasmin-skhema-venetsiya-nova-pino-bezh-5-700x700.jpeg",
+      "/static/img/catalogue/spalnya-zhasmin-bilyy-lak-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/jasmin-svit-mebliv-2-700x700.png"
+    ],
+    "price": "13327 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркала",
+      "Довжина: 188 см",
+      "Висота: 225,5 см",
+      "Глибина: 62,5 см",
+      "Корпус: Білий",
+      "Фасад: Білий, лак, художній друк",
+      "Комплектація: Модель обладнана висувними ящиками на направляючих повного висування",
+      "Кількість шухляд: 2 шт (висувних)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+
+  {
+    "name": "Передпокій Лора - Мебель Сервіс",
+    "desc": "• Корпус та фасад виготовлені з ДСП.\n• Вішак з гачками, штангою для одягу та полицею для головних уборів.\n• Навісне дзеркало в рамі прямокутної форми.\n• Тусба для взуття з відкидними дверцятами та двома секціями всередині.\n• Дводверний комод з висувною шухлядою.\n• За дверцятами по дві полички.\n• Дводверна шафа з мікроліфтом для одягу та двома поличками.\n• Дверцята шафи з дзеркалом.\nУ магазині Ви можете купити Передпокій Лора за доступною ціною та доставкою по всій Україні. Обирайте  Прямий передпокій  від фабрики Мебель Сервіс  для облаштування передпокою в інтернет магазині меблів.",
+    "images": [
+      "/static/img/catalogue/msn000564.jpg",
+      "/static/img/catalogue/msn000564a.jpg",
+      "/static/img/catalogue/mservice_lora_1.jpg"
+    ],
+    "price": "12049 грн",
+    "specs": [
+      "Ширина, мм:: 2500 мм",
+      "Глибина, мм:: 392 мм",
+      "Висота, мм:: 1997 мм",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП + Дзеркало",
+      "Відкриті полиці: Є",
+      "Вішак: Гачки Штанга",
+      "Дзеркало: Є",
+      "Секція для взуття: Є",
+      "Сидіння: Тверде",
+      "Шафа: Є"
+    ]
+  },
+  {
+    "name": "Шафа-купе 2Д Аляска Дуб Апріл - Мебель Сервіс",
+    "desc": "• Дві розсувні двері з великими дзеркальними вставками.\n• Виконаний з ДСП.\n• Зручні довгасті ручки.\n• Декоративні вставки на фасаді з МДФ.\n• За лівими дверцятами дев’ять полиць.\n• За правими дверцятами — штанга для одягу та верхня полиця.\nУ магазині Ви можете купити Шафа-купе 2Д Аляска Дуб Апріл за доступною ціною та доставкою по всій Україні. Обирайте  Шафа (пенал)  від фабрики Мебель Сервіс  для облаштування передпокою, вітальні, спальні в інтернет магазині меблів.",
+    "images": [
+      "/static/img/catalogue/msrv000885.jpg",
+      "/static/img/catalogue/msrv000885a.jpg",
+      "/static/img/catalogue/mservice_alyaska_4.jpg"
+    ],
+    "price": "15236 грн",
+    "specs": [
+      "Ширина, мм:: 2000 мм",
+      "Глибина, мм:: 606 мм",
+      "Висота, мм:: 2150 мм",
+      "Вага: 186 кг",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП + МДФ + Дзеркало",
+      "Двері: Розсувні",
+      "Дзеркало: Є",
+      "Полиці: Є",
+      "Штанга для одягу: Є"
+    ]
+  },
+  {
+    "name": "Шафа-купе 2Д Аляска Дуб Самоа - Мебель Сервіс",
+    "desc": "• Дві розсувні двері з великими дзеркальними вставками.\n• Виконаний з ДСП.\n• Зручні довгасті ручки.\n• Декоративні вставки на фасаді з МДФ.\n• За лівими дверцятами дев’ять полиць.\n• За правими дверцятами — штанга для одягу та верхня полиця.\nУ магазині Ви можете купити Шафа-купе 2Д Аляска Дуб Самоа за доступною ціною та доставкою по всій Україні. Обирайте  Шафа (пенал)  від фабрики Мебель Сервіс  для облаштування передпокою, вітальні, спальні в інтернет магазині меблів.",
+    "images": [
+      "/static/img/catalogue/msn000036.jpg",
+      "/static/img/catalogue/msn000036a.jpg",
+      "/static/img/catalogue/mservice_alyaska_1.jpg"
+    ],
+    "price": "15236 грн",
+    "specs": [
+      "Ширина, мм:: 2000 мм",
+      "Глибина, мм:: 606 мм",
+      "Висота, мм:: 2150 мм",
+      "Вага: 186 кг",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП + МДФ + Дзеркало",
+      "Двері: Розсувні",
+      "Дзеркало: Є",
+      "Полиці: Є",
+      "Штанга для одягу: Є"
+    ]
+  },
+  {
+    "name": "Шафа-купе 2Д Аляска Венге Темний - Мебель Сервіс",
+    "desc": "• Дві розсувні двері з великими дзеркальними вставками.\n• Виконана з ДСП.\n• Зручні довгасті ручки.\n• Декоративні вставки на фасаді з МДФ.\n• За лівими дверцятами дев’ять полиць.\n• За правими дверцятами — штанга для одягу та верхня полиця.\nУ магазині Ви можете купити Шафа-купе 2Д Аляска Венге Темний за доступною ціною та доставкою по всій Україні. Обирайте  Шафа (пенал)  від фабрики Мебель Сервіс  для облаштування передпокою, вітальні, спальні в інтернет магазині меблів.",
+    "images": [
+      "/static/img/catalogue/msn000046.jpg",
+      "/static/img/catalogue/msn000036a.jpg",
+      "/static/img/catalogue/msn000046a.jpg",
+      "/static/img/catalogue/mservice_alyaska_3.jpg"
+    ],
+    "price": "15236 грн",
+    "specs": [
+      "Ширина, мм:: 2000 мм",
+      "Глибина, мм:: 606 мм",
+      "Висота, мм:: 2150 мм",
+      "Вага: 186 кг",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП + МДФ + Дзеркало",
+      "Двері: Розсувні",
+      "Дзеркало: Є",
+      "Полиці: Є",
+      "Штанга для одягу: Є"
+    ]
+  },
+  {
+    "name": "Шафа-купе Фієста Дуб Апріл - Мебель Сервіс",
+    "desc": "• Виконаний з ДСП.\n• Двоє розсувних дверцят.\n• За правими дверцятами п’ять відділень для зберігання.\n• За лівими дверцятами штанга для одягу, дві висувні шухляди та полиця.\n• Фасад з частковим лакуванням.\nУ магазині Ви можете купити Шафа-купе Фієста Дуб Апріл за доступною ціною та доставкою по всій Україні. Обирайте  Шафа (пенал)  від фабрики Мебель Сервіс  для облаштування передпокою, вітальні, спальні в інтернет магазині меблів.",
+    "images": [
+      "/static/img/catalogue/msn000146.jpg",
+      "/static/img/catalogue/msn000146a.jpg",
+      "/static/img/catalogue/mservice_fiesta_1.jpg"
+    ],
+    "price": "19718 грн",
+    "specs": [
+      "Ширина, мм:: 2256 мм",
+      "Глибина, мм:: 622 мм",
+      "Висота, мм:: 2173 мм",
+      "Вага: 188 кг",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Двері: Розсувні",
+      "Дзеркало: Нема",
+      "Полиці: Є",
+      "Штанга для одягу: Є"
+    ]
+  },
+  {
+    "name": "Шафа-купе Кантрі - Мебель Сервіс",
+    "desc": "• Виготовлена з ДСП.\n• Дві розсувні дверки.\n• За одними дверцятами чотири полиці.\n• За другими — штанга для одягу, верхня полиця та дві висувні шухляди.\n• Шухляди на телескопічних напрямних.\n• За бажанням можна замовити карниз для шафи.\nУ магазині Ви можете купити Шафа-купе Кантрі за доступною ціною та доставкою по всій Україні. Обирайте  Шафа (пенал)  від фабрики Мебель Сервіс  для облаштування передпокою, вітальні, спальні в інтернет магазині меблів.",
+    "images": [
+      "/static/img/catalogue/msn000676.jpg",
+      "/static/img/catalogue/msn000676a.jpg",
+      "/static/img/catalogue/mservice_kantri_1.jpg"
+    ],
+    "price": "13615 грн",
+    "specs": [
+      "Ширина, мм:: 1784 мм",
+      "Глибина, мм:: 622 мм",
+      "Висота, мм:: 2173 мм",
+      "Вага: 162 кг",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Двері: Розсувні",
+      "Дзеркало: Нема",
+      "Полиці: Є",
+      "Штанга для одягу: Є"
+    ]
+  },
+  {
+    "name": "Шафа-купе Кім - Мебель Сервіс",
+    "desc": "• Виконана з ДСП.\n• Дві розсувні двери.\n• За одними дверцятами п’ять полиць.\n• За другими — штанга для одягу, верхня полиця та шухляди.\n• Дві висувні шухляди.\n• За бажанням можна замовити карниз для шафи.\nУ магазині Ви можете купити Шафа-купе Кім за доступною ціною та доставкою по всій Україні. Обирайте  Шафа (пенал)  від фабрики Мебель Сервіс  для облаштування передпокою, вітальні, спальні в інтернет магазині меблів.",
+    "images": [
+      "/static/img/catalogue/msrv000806a.jpg",
+      "/static/img/catalogue/msrv000806b.jpg",
+      "/static/img/catalogue/msrv000806c.jpg",
+      "/static/img/catalogue/msrv000806d.jpg",
+      "/static/img/catalogue/msrv000806e.jpg",
+      "/static/img/catalogue/mservice_kim_1.jpg",
+      "/static/img/catalogue/mservice_kim_2.jpg"
+    ],
+    "price": "16880 грн",
+    "specs": [
+      "Ширина, мм:: 1784 мм",
+      "Глибина, мм:: 622 мм",
+      "Висота, мм:: 2173 мм",
+      "Вага: 16 кг",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Двері: Розсувні",
+      "Дзеркало: Нема",
+      "Полиці: Є",
+      "Штанга для одягу: Є"
+    ]
+  },
+  {
+    "name": "Шафа-купе Лондон Сірий + Білий - Мебель Сервіс",
+    "desc": "• Виконана з ДСП.\n• Лаковані фасади.\n• Двоє розсувних дверцят.\n• За одними дверцятами п’ять полиць.\n• За другими— штанга для одягу та верхня полиця.\n• Дві висувні шухляди.\nУ магазині Ви можете купити Шафа-купе Лондон Сірий + Білий за доступною ціною та доставкою по всій Україні. Обирайте  Шафа (пенал)  від фабрики Мебель Сервіс  для облаштування передпокою, вітальні, спальні в інтернет магазині меблів.",
+    "images": [
+      "/static/img/catalogue/msn000449.jpg",
+      "/static/img/catalogue/msrv000781a.jpg",
+      "/static/img/catalogue/mservice_london_1.jpg"
+    ],
+    "price": "18322 грн",
+    "specs": [
+      "Ширина, мм:: 1784 мм",
+      "Глибина, мм:: 622 мм",
+      "Висота, мм:: 2173 мм",
+      "Матеріал корпусу: ДСП",
+      "Матеріал фасаду: ДСП",
+      "Двері: Розсувні",
+      "Дзеркало: Нема",
+      "Полиці: Є",
+      "Штанга для одягу: Є"
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

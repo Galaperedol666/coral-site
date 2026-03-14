@@ -1,0 +1,84 @@
+C:\USERS\VINNI\ONEDRIVE\Документи\Сайт Корал
+|   .gitignore
+|   .htaccess
+|   catalogue.html
+|   CNAME
+|   contacts.html
+|   delivery.html
+|   googled5c9e9ebaf472c0d.html
+|   index.html
+|   interior.html
+|   kids.html
+|   kitchens.html
+|   portfolio.html
+|   robots.txt
+|   sitemap.xml
+|   wardrobes.html
+|
++---catalogue
+|       beds.html
+|       chairs.html
+|       commodes.html
+|       hallway.html
+|       kitchens.html
+|       living.html
+|       mattresses.html
+|       shelves.html
+|       sofas.html
+|       tables.html
+|       wardrobes.html
+|
+\---static
+    +---css
+    |       catalogue.css
+    |       contacts.css
+    |       delivery.css
+    |       index.css
+    |       interior.css
+    |       kids.css
+    |       kitchens.css
+    |       portfolio.css
+    |       style.css
+    |       wardrobes.css
+    |
+    +---data
+    |       beds.json
+    |       chairs.json
+    |       commodes.json
+    |       hallway.json
+    |       kitchens.json
+    |       living.json
+    |       mattresses.json
+    |       shelves.json
+    |       sofas.json
+    |       tables.json
+    |       wardrobes.json
+    |
+    +---img
+    |   |
+    |   +---catalogue
+    |   |       
+    |   +---portfolio
+    |   |   +---interior
+    |   |   |
+    |   |   +---kids
+    |   |   |
+    |   |   +---kitchens
+    |   |   |
+    |   |   \---wardrobes
+    |   |
+    |   \---textures
+    |
+    \---js
+            beds.js
+            chairs.js
+            commodes.js
+            hallway.js
+            kitchens.js
+            living.js
+            main.js
+            mattresses.js
+            shelves.js
+            sofas.js
+            tables.js
+            wardrobes.js

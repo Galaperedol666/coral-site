@@ -1,0 +1,2475 @@
+[
+  {
+    "name": "Стіл-книжка-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b161.jpg",
+      "/static/img/catalogue/bg5398.jpg",
+      "/static/img/catalogue/bg2187.jpg",
+      "/static/img/catalogue/bg4907.jpg",
+      "/static/img/catalogue/bg1013.jpg",
+      "/static/img/catalogue/bg1014.jpg",
+      "/static/img/catalogue/bg1015.jpg",
+      "/static/img/catalogue/bg1016.jpg",
+      "/static/img/catalogue/bg1017.jpg",
+      "/static/img/catalogue/bg1018.jpg"
+    ],
+    "price": "1642 грн",
+    "specs": [
+      "висота, мм: 716",
+      "ширина, мм: 600",
+      "глибина, мм: 800(1280)",
+      "вага, кг: 19,2",
+      "розмір упаковки, мм: 800600х64",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b162.jpg",
+      "/static/img/catalogue/bg5395.jpg",
+      "/static/img/catalogue/bg3257.jpg",
+      "/static/img/catalogue/bg3258.jpg",
+      "/static/img/catalogue/bg3261.jpg",
+      "/static/img/catalogue/bg3260.jpg",
+      "/static/img/catalogue/bg3259.jpg",
+      "/static/img/catalogue/bg3256.jpg",
+      "/static/img/catalogue/bg4908.jpg"
+    ],
+    "price": "4916 грн",
+    "specs": [
+      "висота, мм: 750",
+      "ширина, мм: 800",
+      "глибина, мм: 532",
+      "в розкладеному вигляді, мм: 1900",
+      "вага, кг: 54,8",
+      "розмір упаковки, мм: 810х170х740",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b163.jpg",
+      "/static/img/catalogue/bg5394.jpg",
+      "/static/img/catalogue/bg2189.jpg",
+      "/static/img/catalogue/bg4909.jpg",
+      "/static/img/catalogue/bg1026.jpg",
+      "/static/img/catalogue/bg1027.jpg",
+      "/static/img/catalogue/bg1028.jpg",
+      "/static/img/catalogue/bg1029.jpg",
+      "/static/img/catalogue/bg1030.jpg",
+      "/static/img/catalogue/bg1031.jpg",
+      "/static/img/catalogue/bg1032.jpg"
+    ],
+    "price": "3356 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 810",
+      "глибина, мм: 332",
+      "в розкладеному вигляді, мм: 1700",
+      "вага, кг: 25,2",
+      "розмір упаковки, мм: 765х705х100",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b164.jpg",
+      "/static/img/catalogue/bg5393.jpg",
+      "/static/img/catalogue/bg2190.jpg",
+      "/static/img/catalogue/bg4910.jpg",
+      "/static/img/catalogue/bg1033.jpg",
+      "/static/img/catalogue/bg1034.jpg",
+      "/static/img/catalogue/bg1035.jpg",
+      "/static/img/catalogue/bg1036.jpg",
+      "/static/img/catalogue/bg1037.jpg",
+      "/static/img/catalogue/bg1038.jpg",
+      "/static/img/catalogue/bg1039.jpg"
+    ],
+    "price": "2410 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 760",
+      "глибина, мм: 332",
+      "в розкладеному вигляді, мм: 1700",
+      "вага, кг: 26,6",
+      "розмір упаковки, мм: 765х705х100",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b165.jpg",
+      "/static/img/catalogue/bg5397.jpg",
+      "/static/img/catalogue/bg2191.jpg",
+      "/static/img/catalogue/bg4911.jpg",
+      "/static/img/catalogue/bg1040.jpg",
+      "/static/img/catalogue/bg1041.jpg",
+      "/static/img/catalogue/bg1042.jpg",
+      "/static/img/catalogue/bg1043.jpg",
+      "/static/img/catalogue/bg1044.jpg",
+      "/static/img/catalogue/bg1045.jpg"
+    ],
+    "price": "1168 грн",
+    "specs": [
+      "висота, мм: 500",
+      "ширина, мм: 600",
+      "глибина, мм: 182",
+      "в розкладеному вигляді, мм: 1058",
+      "вага, кг: 10,4",
+      "розмір упаковки, мм: 762х700х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b166.jpg",
+      "/static/img/catalogue/bg5396.jpg",
+      "/static/img/catalogue/bg2192.jpg",
+      "/static/img/catalogue/bg4912.jpg",
+      "/static/img/catalogue/bg1046.jpg",
+      "/static/img/catalogue/bg1047.jpg",
+      "/static/img/catalogue/bg1048.jpg",
+      "/static/img/catalogue/bg1049.jpg",
+      "/static/img/catalogue/bg1050.jpg",
+      "/static/img/catalogue/bg1051.jpg"
+    ],
+    "price": "2124 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 760",
+      "глибина, мм: 332",
+      "в розкладеному вигляді, мм: 1700",
+      "вага, кг: 22",
+      "розмір упаковки, мм: 762х700х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b219.jpg",
+      "/static/img/catalogue/bg5475.jpg",
+      "/static/img/catalogue/bg5174.jpg",
+      "/static/img/catalogue/bg3599.jpg",
+      "/static/img/catalogue/bg3596.jpg",
+      "/static/img/catalogue/bg3597.jpg",
+      "/static/img/catalogue/bg3595.jpg",
+      "/static/img/catalogue/bg3598.jpg",
+      "/static/img/catalogue/bg3600.jpg"
+    ],
+    "price": "4833 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1500",
+      "глибина, мм: 1250",
+      "вага, кг: 54,8",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b223.jpg",
+      "/static/img/catalogue/bg5474.jpg",
+      "/static/img/catalogue/bg3592.jpg",
+      "/static/img/catalogue/bg3593.jpg",
+      "/static/img/catalogue/bg3594.jpg",
+      "/static/img/catalogue/bg5173.jpg",
+      "/static/img/catalogue/bg3590.jpg",
+      "/static/img/catalogue/bg3591.jpg",
+      "/static/img/catalogue/bg3589.jpg"
+    ],
+    "price": "6131 грн",
+    "specs": [
+      "висота, мм: 766",
+      "ширина, мм: 1500",
+      "глибина, мм: 1100",
+      "вага, кг: 65,4",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b224.jpg",
+      "/static/img/catalogue/bg5473.jpg",
+      "/static/img/catalogue/bg3583.jpg",
+      "/static/img/catalogue/bg3584.jpg",
+      "/static/img/catalogue/bg3588.jpg",
+      "/static/img/catalogue/bg5172.jpg",
+      "/static/img/catalogue/bg3586.jpg",
+      "/static/img/catalogue/bg3587.jpg",
+      "/static/img/catalogue/bg3585.jpg"
+    ],
+    "price": "5142 грн",
+    "specs": [
+      "висота, мм: 756+116",
+      "ширина, мм: 1600",
+      "глибина, мм: 1100",
+      "вага, кг: 59,2",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b225.jpg",
+      "/static/img/catalogue/bg5468.jpg",
+      "/static/img/catalogue/bg3572.jpg",
+      "/static/img/catalogue/bg3575.jpg",
+      "/static/img/catalogue/bg3571.jpg",
+      "/static/img/catalogue/bg5167.jpg",
+      "/static/img/catalogue/bg3573.jpg",
+      "/static/img/catalogue/bg3574.jpg",
+      "/static/img/catalogue/bg3576.jpg"
+    ],
+    "price": "2750 грн",
+    "specs": [
+      "висота, мм: 749+116",
+      "ширина, мм: 1200",
+      "глибина, мм: 900",
+      "вага, кг: 38,4",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний Менеджер",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b226.jpg",
+      "/static/img/catalogue/bg5455.jpg",
+      "/static/img/catalogue/bg3533.jpg",
+      "/static/img/catalogue/bg3530.jpg",
+      "/static/img/catalogue/bg3529.jpg",
+      "/static/img/catalogue/bg5153.jpg",
+      "/static/img/catalogue/bg3534.jpg",
+      "/static/img/catalogue/bg3532.jpg",
+      "/static/img/catalogue/bg3531.jpg"
+    ],
+    "price": "6014 грн",
+    "specs": [
+      "висота, мм: 756+666",
+      "ширина, мм: 1400",
+      "глибина, мм: 598",
+      "вага, кг: 81,4",
+      "розмір упаковки, мм: 1400х600х170",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний Комфорт-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b227.jpg",
+      "/static/img/catalogue/bg5454.jpg",
+      "/static/img/catalogue/bg3527.jpg",
+      "/static/img/catalogue/bg3528.jpg",
+      "/static/img/catalogue/bg3526.jpg",
+      "/static/img/catalogue/bg3524.jpg",
+      "/static/img/catalogue/bg3523.jpg",
+      "/static/img/catalogue/bg3525.jpg",
+      "/static/img/catalogue/bg5152.jpg"
+    ],
+    "price": "4548 грн",
+    "specs": [
+      "висота, мм: 756+282",
+      "ширина, мм: 1268",
+      "глибина, мм: 650",
+      "вага, кг: 64",
+      "розмір упаковки, мм: 1310х625х135",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b233.jpg",
+      "/static/img/catalogue/bg5466.jpg",
+      "/static/img/catalogue/bg3553.jpg",
+      "/static/img/catalogue/bg3555.jpg",
+      "/static/img/catalogue/bg3554.jpg",
+      "/static/img/catalogue/bg5165.jpg",
+      "/static/img/catalogue/bg3556.jpg",
+      "/static/img/catalogue/bg3557.jpg",
+      "/static/img/catalogue/bg3558.jpg"
+    ],
+    "price": "3799 грн",
+    "specs": [
+      "висота, мм: 766",
+      "ширина, мм: 1000",
+      "глибина, мм: 550",
+      "вага, кг: 35",
+      "розмір упаковки, мм: 1010х555х120",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b234.jpg",
+      "/static/img/catalogue/bg5465.jpg",
+      "/static/img/catalogue/bg2367.jpg",
+      "/static/img/catalogue/bg5164.jpg",
+      "/static/img/catalogue/bg1484.jpg",
+      "/static/img/catalogue/bg1485.jpg",
+      "/static/img/catalogue/bg1486.jpg",
+      "/static/img/catalogue/bg1487.jpg",
+      "/static/img/catalogue/bg1488.jpg",
+      "/static/img/catalogue/bg1489.jpg",
+      "/static/img/catalogue/bg1490.jpg"
+    ],
+    "price": "2963 грн",
+    "specs": [
+      "висота, мм: 756+686",
+      "ширина, мм: 1000",
+      "глибина, мм: 598",
+      "вага, кг: 41,8",
+      "розмір упаковки, мм: 1020х640х125",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b237.jpg",
+      "/static/img/catalogue/bg5463.jpg",
+      "/static/img/catalogue/bg3547.jpg",
+      "/static/img/catalogue/bg3549.jpg",
+      "/static/img/catalogue/bg3548.jpg",
+      "/static/img/catalogue/bg3551.jpg",
+      "/static/img/catalogue/bg3550.jpg",
+      "/static/img/catalogue/bg3552.jpg",
+      "/static/img/catalogue/bg5162.jpg"
+    ],
+    "price": "2484 грн",
+    "specs": [
+      "висота, мм: 751+116",
+      "ширина, мм: 1418",
+      "глибина, мм: 600",
+      "вага, кг: 36,1",
+      "розмір упаковки, мм: 1205х605х100",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b238.jpg",
+      "/static/img/catalogue/bg5462.jpg",
+      "/static/img/catalogue/bg3543.jpg",
+      "/static/img/catalogue/bg3545.jpg",
+      "/static/img/catalogue/bg3546.jpg",
+      "/static/img/catalogue/bg3544.jpg",
+      "/static/img/catalogue/bg3541.jpg",
+      "/static/img/catalogue/bg3542.jpg",
+      "/static/img/catalogue/bg5161.jpg"
+    ],
+    "price": "2391 грн",
+    "specs": [
+      "висота, мм: 750+116",
+      "ширина, мм: 1102",
+      "глибина, мм: 600",
+      "вага, кг: 35,6",
+      "розмір упаковки, мм: 930х600х130",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b239.jpg",
+      "/static/img/catalogue/bg5458.jpg",
+      "/static/img/catalogue/bg2372.jpg",
+      "/static/img/catalogue/bg5157.jpg",
+      "/static/img/catalogue/bg1519.jpg",
+      "/static/img/catalogue/bg1520.jpg",
+      "/static/img/catalogue/bg1521.jpg",
+      "/static/img/catalogue/bg1522.jpg",
+      "/static/img/catalogue/bg1523.jpg",
+      "/static/img/catalogue/bg1524.jpg",
+      "/static/img/catalogue/bg1525.jpg"
+    ],
+    "price": "1756 грн",
+    "specs": [
+      "висота, мм: 736+96",
+      "ширина, мм: 820",
+      "глибина, мм: 600",
+      "вага, кг: 26",
+      "розмір упаковки, мм: 825х605х110",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний МП-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b241.jpg",
+      "/static/img/catalogue/bg5337.jpg",
+      "/static/img/catalogue/bg3217.jpg",
+      "/static/img/catalogue/bg3214.jpg",
+      "/static/img/catalogue/bg3219.jpg",
+      "/static/img/catalogue/bg3215.jpg",
+      "/static/img/catalogue/bg3218.jpg",
+      "/static/img/catalogue/bg3216.jpg",
+      "/static/img/catalogue/bg5154.jpg"
+    ],
+    "price": "1651 грн",
+    "specs": [
+      "висота, мм: 535",
+      "ширина, мм: 402",
+      "глибина, мм: 487",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний ПІ-ПІ-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b242.jpg",
+      "/static/img/catalogue/bg5457.jpg",
+      "/static/img/catalogue/bg2374.jpg",
+      "/static/img/catalogue/bg5156.jpg",
+      "/static/img/catalogue/bg1540.jpg",
+      "/static/img/catalogue/bg1541.jpg",
+      "/static/img/catalogue/bg1542.jpg",
+      "/static/img/catalogue/bg1543.jpg",
+      "/static/img/catalogue/bg1544.jpg",
+      "/static/img/catalogue/bg1545.jpg",
+      "/static/img/catalogue/bg1546.jpg"
+    ],
+    "price": "3125 грн",
+    "specs": [
+      "висота, мм: 736+220",
+      "ширина, мм: 1175",
+      "глибина, мм: 600",
+      "вага, кг: 40,6",
+      "розмір упаковки, мм: 960х605х150",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний ПІ-ПІ-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b243.jpg",
+      "/static/img/catalogue/bg5456.jpg",
+      "/static/img/catalogue/bg3535.jpg",
+      "/static/img/catalogue/bg3540.jpg",
+      "/static/img/catalogue/bg3536.jpg",
+      "/static/img/catalogue/bg3539.jpg",
+      "/static/img/catalogue/bg3537.jpg",
+      "/static/img/catalogue/bg3538.jpg",
+      "/static/img/catalogue/bg5155.jpg"
+    ],
+    "price": "2588 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1175",
+      "глибина, мм: 550",
+      "вага, кг: 36",
+      "розмір упаковки, мм: 955х555х150",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП",
+      "тумба, мм: 956 (высота)"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-15",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b244.jpg",
+      "/static/img/catalogue/bg5471.jpg",
+      "/static/img/catalogue/bg2376.jpg",
+      "/static/img/catalogue/bg5170.jpg",
+      "/static/img/catalogue/bg1554.jpg",
+      "/static/img/catalogue/bg1555.jpg",
+      "/static/img/catalogue/bg1556.jpg",
+      "/static/img/catalogue/bg1557.jpg",
+      "/static/img/catalogue/bg1558.jpg",
+      "/static/img/catalogue/bg1559.jpg",
+      "/static/img/catalogue/bg1560.jpg"
+    ],
+    "price": "1614 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 757",
+      "глибина, мм: 757",
+      "вага, кг: 23",
+      "розмір упаковки, мм: 767х762х65",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-14",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b245.jpg",
+      "/static/img/catalogue/bg5470.jpg",
+      "/static/img/catalogue/bg3607.jpg",
+      "/static/img/catalogue/bg3610.jpg",
+      "/static/img/catalogue/bg3608.jpg",
+      "/static/img/catalogue/bg5169.jpg",
+      "/static/img/catalogue/bg3609.jpg",
+      "/static/img/catalogue/bg3611.jpg",
+      "/static/img/catalogue/bg3612.jpg"
+    ],
+    "price": "2843 грн",
+    "specs": [
+      "висота, мм: 749",
+      "ширина, мм: 1200",
+      "глибина, мм: 900",
+      "вага, кг: 35",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-13",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b246.jpg",
+      "/static/img/catalogue/bg5469.jpg",
+      "/static/img/catalogue/bg5221.jpg",
+      "/static/img/catalogue/bg5222.jpg",
+      "/static/img/catalogue/bg5225.jpg",
+      "/static/img/catalogue/bg5226.jpg",
+      "/static/img/catalogue/bg5223.jpg",
+      "/static/img/catalogue/bg5224.jpg",
+      "/static/img/catalogue/bg5168.jpg"
+    ],
+    "price": "2816 грн",
+    "specs": [
+      "висота, мм: 749",
+      "ширина, мм: 1200",
+      "глибина, мм: 900",
+      "розмір упаковки, мм: 1200х900х110",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СУ-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b247.jpg",
+      "/static/img/catalogue/bg5472.jpg",
+      "/static/img/catalogue/bg3578.jpg",
+      "/static/img/catalogue/bg3579.jpg",
+      "/static/img/catalogue/bg3577.jpg",
+      "/static/img/catalogue/bg5171.jpg",
+      "/static/img/catalogue/bg3581.jpg",
+      "/static/img/catalogue/bg3580.jpg",
+      "/static/img/catalogue/bg3582.jpg"
+    ],
+    "price": "4171 грн",
+    "specs": [
+      "висота, мм: 736+116",
+      "ширина, мм: 1200",
+      "глибина, мм: 1000",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-13",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b248.jpg",
+      "/static/img/catalogue/bg5461.jpg",
+      "/static/img/catalogue/bg2380.jpg",
+      "/static/img/catalogue/bg5160.jpg",
+      "/static/img/catalogue/bg1581.jpg",
+      "/static/img/catalogue/bg1582.jpg",
+      "/static/img/catalogue/bg1583.jpg",
+      "/static/img/catalogue/bg1584.jpg",
+      "/static/img/catalogue/bg1585.jpg",
+      "/static/img/catalogue/bg1587.jpg",
+      "/static/img/catalogue/bg1586.jpg"
+    ],
+    "price": "1322 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 604",
+      "глибина, мм: 500",
+      "вага, кг: 23",
+      "розмір упаковки, мм: 722х505х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-12",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b249.jpg",
+      "/static/img/catalogue/bg5460.jpg",
+      "/static/img/catalogue/bg2381.jpg",
+      "/static/img/catalogue/bg5159.jpg",
+      "/static/img/catalogue/bg1589.jpg",
+      "/static/img/catalogue/bg1588.jpg",
+      "/static/img/catalogue/bg1590.jpg",
+      "/static/img/catalogue/bg1591.jpg",
+      "/static/img/catalogue/bg1592.jpg",
+      "/static/img/catalogue/bg1593.jpg",
+      "/static/img/catalogue/bg1594.jpg"
+    ],
+    "price": "1635 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 820",
+      "глибина, мм: 600",
+      "вага, кг: 27",
+      "розмір упаковки, мм: 885х727х70",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-11",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b250.jpg",
+      "/static/img/catalogue/bg5459.jpg",
+      "/static/img/catalogue/bg3565.jpg",
+      "/static/img/catalogue/bg3566.jpg",
+      "/static/img/catalogue/bg3567.jpg",
+      "/static/img/catalogue/bg5158.jpg",
+      "/static/img/catalogue/bg3568.jpg",
+      "/static/img/catalogue/bg3570.jpg",
+      "/static/img/catalogue/bg3569.jpg"
+    ],
+    "price": "4394 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1400",
+      "глибина, мм: 600",
+      "вага, кг: 56",
+      "розмір упаковки, мм: 1400х615х110",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний СКМ-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b252.jpg",
+      "/static/img/catalogue/bg5467.jpg",
+      "/static/img/catalogue/bg3560.jpg",
+      "/static/img/catalogue/bg3559.jpg",
+      "/static/img/catalogue/bg3561.jpg",
+      "/static/img/catalogue/bg5166.jpg",
+      "/static/img/catalogue/bg3563.jpg",
+      "/static/img/catalogue/bg3564.jpg",
+      "/static/img/catalogue/bg3562.jpg"
+    ],
+    "price": "3463 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1200",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Учень-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b253.jpg",
+      "/static/img/catalogue/bg5491.jpg",
+      "/static/img/catalogue/bg2391.jpg",
+      "/static/img/catalogue/bg5134.jpg",
+      "/static/img/catalogue/bg1616.jpg",
+      "/static/img/catalogue/bg1617.jpg",
+      "/static/img/catalogue/bg1618.jpg",
+      "/static/img/catalogue/bg1619.jpg",
+      "/static/img/catalogue/bg1620.jpg",
+      "/static/img/catalogue/bg1621.jpg"
+    ],
+    "price": "1493 грн",
+    "specs": [
+      "висота, мм: 750",
+      "ширина, мм: 900",
+      "глибина, мм: 900",
+      "вага, кг: 23,4",
+      "розмір упаковки, мм: 900х900х48",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Школьнік-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b254.jpg",
+      "/static/img/catalogue/bg5498.jpg",
+      "/static/img/catalogue/bg3276.jpg",
+      "/static/img/catalogue/bg3275.jpg",
+      "/static/img/catalogue/bg5132.jpg",
+      "/static/img/catalogue/bg3279.jpg",
+      "/static/img/catalogue/bg3274.jpg",
+      "/static/img/catalogue/bg3277.jpg",
+      "/static/img/catalogue/bg3278.jpg"
+    ],
+    "price": "2283 грн",
+    "specs": [
+      "висота, мм: 750+298",
+      "ширина, мм: 1100",
+      "глибина, мм: 570",
+      "вага, кг: 27,4",
+      "розмір упаковки, мм: 900х590х100",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Вчитель",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b255.jpg",
+      "/static/img/catalogue/bg5493.jpg",
+      "/static/img/catalogue/bg3299.jpg",
+      "/static/img/catalogue/bg3298.jpg",
+      "/static/img/catalogue/bg3300.jpg",
+      "/static/img/catalogue/bg3303.jpg",
+      "/static/img/catalogue/bg3301.jpg",
+      "/static/img/catalogue/bg3302.jpg",
+      "/static/img/catalogue/bg5133.jpg"
+    ],
+    "price": "3066 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1300",
+      "глибина, мм: 600",
+      "вага, кг: 38,4",
+      "розмір упаковки, мм: 1315х605х100",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Учень",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b256.jpg",
+      "/static/img/catalogue/bg5490.jpg",
+      "/static/img/catalogue/bg3293.jpg",
+      "/static/img/catalogue/bg3292.jpg",
+      "/static/img/catalogue/bg3294.jpg",
+      "/static/img/catalogue/bg3296.jpg",
+      "/static/img/catalogue/bg3297.jpg",
+      "/static/img/catalogue/bg3295.jpg",
+      "/static/img/catalogue/bg5135.jpg"
+    ],
+    "price": "1910 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1150",
+      "глибина, мм: 550",
+      "вага, кг: 28,8",
+      "розмір упаковки, мм: 1155х555х90",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Школьнік",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b257.jpg",
+      "/static/img/catalogue/bg5496.jpg",
+      "/static/img/catalogue/bg3262.jpg",
+      "/static/img/catalogue/bg3263.jpg",
+      "/static/img/catalogue/bg3267.jpg",
+      "/static/img/catalogue/bg5136.jpg",
+      "/static/img/catalogue/bg3266.jpg",
+      "/static/img/catalogue/bg3265.jpg",
+      "/static/img/catalogue/bg3264.jpg"
+    ],
+    "price": "1910 грн",
+    "specs": [
+      "висота, мм: 735",
+      "ширина, мм: 1000",
+      "глибина, мм: 545",
+      "вага, кг: 27,4",
+      "розмір упаковки, мм: 1055х555х85",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Вчитель-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b258.jpg",
+      "/static/img/catalogue/bg5495.jpg",
+      "/static/img/catalogue/bg3315.jpg",
+      "/static/img/catalogue/bg3314.jpg",
+      "/static/img/catalogue/bg3310.jpg",
+      "/static/img/catalogue/bg3313.jpg",
+      "/static/img/catalogue/bg3312.jpg",
+      "/static/img/catalogue/bg3311.jpg",
+      "/static/img/catalogue/bg5137.jpg"
+    ],
+    "price": "6026 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1400",
+      "глибина, мм: 600",
+      "вага, кг: 59",
+      "розмір упаковки, мм: 1405х610х105",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Студент-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b259.jpg",
+      "/static/img/catalogue/bg5489.jpg",
+      "/static/img/catalogue/bg3289.jpg",
+      "/static/img/catalogue/bg3288.jpg",
+      "/static/img/catalogue/bg3286.jpg",
+      "/static/img/catalogue/bg3291.jpg",
+      "/static/img/catalogue/bg3290.jpg",
+      "/static/img/catalogue/bg3287.jpg",
+      "/static/img/catalogue/bg5138.jpg"
+    ],
+    "price": "3648 грн",
+    "specs": [
+      "висота, мм: 750",
+      "ширина, мм: 1200",
+      "глибина, мм: 600",
+      "вага, кг: 48",
+      "розмір упаковки, мм: 1202х608х105",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Вчитель-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b260.jpg",
+      "/static/img/catalogue/bg5494.jpg",
+      "/static/img/catalogue/bg3304.jpg",
+      "/static/img/catalogue/bg3305.jpg",
+      "/static/img/catalogue/bg3306.jpg",
+      "/static/img/catalogue/bg3308.jpg",
+      "/static/img/catalogue/bg3309.jpg",
+      "/static/img/catalogue/bg3307.jpg",
+      "/static/img/catalogue/bg5139.jpg"
+    ],
+    "price": "4507 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1400",
+      "глибина, мм: 600",
+      "вага, кг: 54",
+      "розмір упаковки, мм: 1410х730х85",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Школьнік-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b261.jpg",
+      "/static/img/catalogue/bg5497.jpg",
+      "/static/img/catalogue/bg3272.jpg",
+      "/static/img/catalogue/bg3268.jpg",
+      "/static/img/catalogue/bg3269.jpg",
+      "/static/img/catalogue/bg5140.jpg",
+      "/static/img/catalogue/bg3270.jpg",
+      "/static/img/catalogue/bg3271.jpg",
+      "/static/img/catalogue/bg3273.jpg"
+    ],
+    "price": "2096 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1000",
+      "глибина, мм: 545",
+      "вага, кг: 28,2",
+      "розмір упаковки, мм: 1025х725х70",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий МО-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b262.jpg",
+      "/static/img/catalogue/bg5483.jpg",
+      "/static/img/catalogue/bg2400.jpg",
+      "/static/img/catalogue/bg5141.jpg",
+      "/static/img/catalogue/bg1677.jpg",
+      "/static/img/catalogue/bg1678.jpg",
+      "/static/img/catalogue/bg1679.jpg",
+      "/static/img/catalogue/bg1680.jpg",
+      "/static/img/catalogue/bg1681.jpg",
+      "/static/img/catalogue/bg1682.jpg",
+      "/static/img/catalogue/bg1683.jpg"
+    ],
+    "price": "876 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 600",
+      "глибина, мм: 600",
+      "вага, кг: 13",
+      "розмір упаковки, мм: 725х620х50",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий МО-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b263.jpg",
+      "/static/img/catalogue/bg5482.jpg",
+      "/static/img/catalogue/bg2401.jpg",
+      "/static/img/catalogue/bg5142.jpg",
+      "/static/img/catalogue/bg1684.jpg",
+      "/static/img/catalogue/bg1685.jpg",
+      "/static/img/catalogue/bg1686.jpg",
+      "/static/img/catalogue/bg1687.jpg",
+      "/static/img/catalogue/bg1688.jpg",
+      "/static/img/catalogue/bg1689.jpg",
+      "/static/img/catalogue/bg1690.jpg"
+    ],
+    "price": "1288 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1000",
+      "глибина, мм: 600",
+      "вага, кг: 22,4",
+      "розмір упаковки, мм: 1010х725х50",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Студент",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b264.jpg",
+      "/static/img/catalogue/bg5487.jpg",
+      "/static/img/catalogue/bg3280.jpg",
+      "/static/img/catalogue/bg3281.jpg",
+      "/static/img/catalogue/bg3282.jpg",
+      "/static/img/catalogue/bg5143.jpg",
+      "/static/img/catalogue/bg3284.jpg",
+      "/static/img/catalogue/bg3283.jpg",
+      "/static/img/catalogue/bg3285.jpg"
+    ],
+    "price": "3261 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1155",
+      "глибина, мм: 550",
+      "вага, кг: 38,6",
+      "розмір упаковки, мм: 1160х555х100",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Юніор",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b265.jpg",
+      "/static/img/catalogue/bg5499.jpg",
+      "/static/img/catalogue/bg2403.jpg",
+      "/static/img/catalogue/bg5144.jpg",
+      "/static/img/catalogue/bg1698.jpg",
+      "/static/img/catalogue/bg1699.jpg",
+      "/static/img/catalogue/bg1700.jpg",
+      "/static/img/catalogue/bg1701.jpg",
+      "/static/img/catalogue/bg1702.jpg",
+      "/static/img/catalogue/bg1703.jpg",
+      "/static/img/catalogue/bg1704.jpg"
+    ],
+    "price": "947 грн",
+    "specs": [
+      "висота, мм: 750",
+      "ширина, мм: 640",
+      "глибина, мм: 440",
+      "вага, кг: 13,8",
+      "розмір упаковки, мм: 742х462х64",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Малюк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b266.jpg",
+      "/static/img/catalogue/bg5479.jpg",
+      "/static/img/catalogue/bg2404.jpg",
+      "/static/img/catalogue/bg5145.jpg",
+      "/static/img/catalogue/bg1705.jpg",
+      "/static/img/catalogue/bg1706.jpg",
+      "/static/img/catalogue/bg1707.jpg",
+      "/static/img/catalogue/bg1708.jpg",
+      "/static/img/catalogue/bg1709.jpg",
+      "/static/img/catalogue/bg1710.jpg",
+      "/static/img/catalogue/bg1711.jpg"
+    ],
+    "price": "968 грн",
+    "specs": [
+      "висота, мм: от 511 до 700",
+      "ширина, мм: 660",
+      "глибина, мм: 430",
+      "вага, кг: 11",
+      "розмір упаковки, мм: 660х430х65",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-6",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b285.jpg",
+      "/static/img/catalogue/bg5346.jpg",
+      "/static/img/catalogue/bg2385.jpg",
+      "/static/img/catalogue/bg4966.jpg",
+      "/static/img/catalogue/bg1830.jpg",
+      "/static/img/catalogue/bg1832.jpg",
+      "/static/img/catalogue/bg1831.jpg",
+      "/static/img/catalogue/bg1833.jpg",
+      "/static/img/catalogue/bg1834.jpg",
+      "/static/img/catalogue/bg1835.jpg",
+      "/static/img/catalogue/bg1836.jpg"
+    ],
+    "price": "1730 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 600",
+      "глибина, мм: 1000",
+      "вага, кг: 17",
+      "розмір упаковки, мм: 1000х600х48",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b286.jpg",
+      "/static/img/catalogue/bg5343.jpg",
+      "/static/img/catalogue/bg2386.jpg",
+      "/static/img/catalogue/bg4967.jpg",
+      "/static/img/catalogue/bg1837.jpg",
+      "/static/img/catalogue/bg1838.jpg",
+      "/static/img/catalogue/bg1839.jpg",
+      "/static/img/catalogue/bg1840.jpg",
+      "/static/img/catalogue/bg1841.jpg",
+      "/static/img/catalogue/bg1842.jpg",
+      "/static/img/catalogue/bg1843.jpg"
+    ],
+    "price": "1821 грн",
+    "specs": [
+      "висота, мм: 732",
+      "ширина, мм: 900",
+      "глибина, мм: 590",
+      "в розкладеному вигляді, мм: ширина-1180,высота-716,глубина-590",
+      "вага, кг: 22,6",
+      "розмір упаковки, мм: 900х590х85",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b287.jpg",
+      "/static/img/catalogue/bg5342.jpg",
+      "/static/img/catalogue/bg2387.jpg",
+      "/static/img/catalogue/bg4968.jpg",
+      "/static/img/catalogue/bg1844.jpg",
+      "/static/img/catalogue/bg1845.jpg",
+      "/static/img/catalogue/bg1846.jpg",
+      "/static/img/catalogue/bg1847.jpg",
+      "/static/img/catalogue/bg1848.jpg",
+      "/static/img/catalogue/bg1849.jpg",
+      "/static/img/catalogue/bg1850.jpg"
+    ],
+    "price": "1390 грн",
+    "specs": [
+      "висота, мм: 732",
+      "ширина, мм: 900",
+      "глибина, мм: 600",
+      "вага, кг: 15,9",
+      "розмір упаковки, мм: 1000х600х85",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b288.jpg",
+      "/static/img/catalogue/bg5338.jpg",
+      "/static/img/catalogue/bg2388.jpg",
+      "/static/img/catalogue/bg4969.jpg",
+      "/static/img/catalogue/bg1851.jpg",
+      "/static/img/catalogue/bg1852.jpg",
+      "/static/img/catalogue/bg1853.jpg",
+      "/static/img/catalogue/bg1854.jpg",
+      "/static/img/catalogue/bg1855.jpg",
+      "/static/img/catalogue/bg1856.jpg",
+      "/static/img/catalogue/bg1857.jpg"
+    ],
+    "price": "1413 грн",
+    "specs": [
+      "висота, мм: 716",
+      "ширина, мм: 900",
+      "глибина, мм: 598",
+      "вага, кг: 15,4",
+      "розмір упаковки, мм: 905х600х50",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b289.jpg",
+      "/static/img/catalogue/bg5344.jpg",
+      "/static/img/catalogue/bg2389.jpg",
+      "/static/img/catalogue/bg1858.jpg",
+      "/static/img/catalogue/bg1859.jpg",
+      "/static/img/catalogue/bg1860.jpg",
+      "/static/img/catalogue/bg1861.jpg",
+      "/static/img/catalogue/bg1862.jpg",
+      "/static/img/catalogue/bg1863.jpg"
+    ],
+    "price": "2372 грн",
+    "specs": [
+      "висота, мм: 732",
+      "ширина, мм: 590",
+      "глибина, мм: 900",
+      "вага, кг: 26",
+      "розмір упаковки, мм: 910х588х97",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге Венге",
+      "матеріал: ламіноване ДСП",
+      "в развернутому вигляді, мм: ширина-900, высота-716, глубина-1180"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b290.jpg",
+      "/static/img/catalogue/bg5345.jpg",
+      "/static/img/catalogue/bg2390.jpg",
+      "/static/img/catalogue/bg4970.jpg",
+      "/static/img/catalogue/bg1864.jpg",
+      "/static/img/catalogue/bg1865.jpg",
+      "/static/img/catalogue/bg1866.jpg",
+      "/static/img/catalogue/bg1867.jpg",
+      "/static/img/catalogue/bg1868.jpg",
+      "/static/img/catalogue/bg1869.jpg",
+      "/static/img/catalogue/bg1870.jpg"
+    ],
+    "price": "2759 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 700",
+      "глибина, мм: 1200",
+      "в розкладеному вигляді, мм: 1640",
+      "вага, кг: 24,2",
+      "розмір упаковки, мм: 762х700х80",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Учень-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b451.jpg",
+      "/static/img/catalogue/bg5492.jpg",
+      "/static/img/catalogue/bg2593.jpg",
+      "/static/img/catalogue/bg2599.jpg",
+      "/static/img/catalogue/bg2596.jpg",
+      "/static/img/catalogue/bg2598.jpg",
+      "/static/img/catalogue/bg2600.jpg",
+      "/static/img/catalogue/bg2597.jpg",
+      "/static/img/catalogue/bg2594.jpg",
+      "/static/img/catalogue/bg2595.jpg",
+      "/static/img/catalogue/bg5146.jpg"
+    ],
+    "price": "1871 грн",
+    "specs": [
+      "висота, мм: 738",
+      "ширина, мм: 1200",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Студент 3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b452.jpg",
+      "/static/img/catalogue/bg5488.jpg",
+      "/static/img/catalogue/bg2607.jpg",
+      "/static/img/catalogue/bg2603.jpg",
+      "/static/img/catalogue/bg2605.jpg",
+      "/static/img/catalogue/bg2604.jpg",
+      "/static/img/catalogue/bg2606.jpg",
+      "/static/img/catalogue/bg2602.jpg",
+      "/static/img/catalogue/bg2601.jpg",
+      "/static/img/catalogue/bg5147.jpg"
+    ],
+    "price": "1914 грн",
+    "specs": [
+      "висота, мм: 738",
+      "ширина, мм: 1200",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Юніор 2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b453.jpg",
+      "/static/img/catalogue/bg5500.jpg",
+      "/static/img/catalogue/bg2611.jpg",
+      "/static/img/catalogue/bg2612.jpg",
+      "/static/img/catalogue/bg2608.jpg",
+      "/static/img/catalogue/bg2614.jpg",
+      "/static/img/catalogue/bg2610.jpg",
+      "/static/img/catalogue/bg2613.jpg",
+      "/static/img/catalogue/bg5148.jpg",
+      "/static/img/catalogue/bg2609.jpg"
+    ],
+    "price": "1171 грн",
+    "specs": [
+      "висота, мм: 750",
+      "ширина, мм: 900",
+      "глибина, мм: 400",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b469.jpg",
+      "/static/img/catalogue/bg5347.jpg",
+      "/static/img/catalogue/bg2681.jpg",
+      "/static/img/catalogue/bg2682.jpg",
+      "/static/img/catalogue/bg2684.jpg",
+      "/static/img/catalogue/bg2686.jpg",
+      "/static/img/catalogue/bg2687.jpg",
+      "/static/img/catalogue/bg2683.jpg",
+      "/static/img/catalogue/bg2685.jpg",
+      "/static/img/catalogue/bg4971.jpg"
+    ],
+    "price": "1160 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 700",
+      "глибина, мм: 700",
+      "вага, кг: 16",
+      "розмір упаковки, мм: 762х700х80",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-8",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b470.jpg",
+      "/static/img/catalogue/bg5348.jpg",
+      "/static/img/catalogue/bg2688.jpg",
+      "/static/img/catalogue/bg2693.jpg",
+      "/static/img/catalogue/bg2689.jpg",
+      "/static/img/catalogue/bg2692.jpg",
+      "/static/img/catalogue/bg2690.jpg",
+      "/static/img/catalogue/bg2694.jpg",
+      "/static/img/catalogue/bg2691.jpg",
+      "/static/img/catalogue/bg4972.jpg"
+    ],
+    "price": "2274 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 700",
+      "глибина, мм: 1400",
+      "вага, кг: 27,8",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b471.jpg",
+      "/static/img/catalogue/bg5349.jpg",
+      "/static/img/catalogue/bg2695.jpg",
+      "/static/img/catalogue/bg2700.jpg",
+      "/static/img/catalogue/bg2696.jpg",
+      "/static/img/catalogue/bg2701.jpg",
+      "/static/img/catalogue/bg2699.jpg",
+      "/static/img/catalogue/bg2698.jpg",
+      "/static/img/catalogue/bg2697.jpg",
+      "/static/img/catalogue/bg4973.jpg"
+    ],
+    "price": "1933 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 550",
+      "глибина, мм: 900",
+      "вага, кг: 11",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Декан",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b489.jpg",
+      "/static/img/catalogue/bg5476.jpg",
+      "/static/img/catalogue/bg2821.jpg",
+      "/static/img/catalogue/bg5123.jpg",
+      "/static/img/catalogue/bg2822.jpg",
+      "/static/img/catalogue/bg2824.jpg",
+      "/static/img/catalogue/bg2825.jpg",
+      "/static/img/catalogue/bg2827.jpg",
+      "/static/img/catalogue/bg2828.jpg",
+      "/static/img/catalogue/bg2823.jpg",
+      "/static/img/catalogue/bg2826.jpg"
+    ],
+    "price": "2910 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1100",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби, Дуб сонома/Нимфея альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Декан-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b490.jpg",
+      "/static/img/catalogue/bg5477.jpg",
+      "/static/img/catalogue/bg2829.jpg",
+      "/static/img/catalogue/bg2833.jpg",
+      "/static/img/catalogue/bg2835.jpg",
+      "/static/img/catalogue/bg2831.jpg",
+      "/static/img/catalogue/bg2830.jpg",
+      "/static/img/catalogue/bg2834.jpg",
+      "/static/img/catalogue/bg2836.jpg",
+      "/static/img/catalogue/bg2832.jpg",
+      "/static/img/catalogue/bg5124.jpg"
+    ],
+    "price": "3766 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1300",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби, Дуб сонома/Нимфея альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Декан-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b491.jpg",
+      "/static/img/catalogue/bg5478.jpg",
+      "/static/img/catalogue/bg2837.jpg",
+      "/static/img/catalogue/bg2838.jpg",
+      "/static/img/catalogue/bg2839.jpg",
+      "/static/img/catalogue/bg2842.jpg",
+      "/static/img/catalogue/bg2841.jpg",
+      "/static/img/catalogue/bg2840.jpg",
+      "/static/img/catalogue/bg2843.jpg",
+      "/static/img/catalogue/bg2844.jpg",
+      "/static/img/catalogue/bg5125.jpg"
+    ],
+    "price": "4366 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1400",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби, Дуб сонома/Нимфея альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-10",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b526.jpg",
+      "/static/img/catalogue/bg5339.jpg",
+      "/static/img/catalogue/bg3804.jpg",
+      "/static/img/catalogue/bg3803.jpg",
+      "/static/img/catalogue/bg3807.jpg",
+      "/static/img/catalogue/bg3809.jpg",
+      "/static/img/catalogue/bg3806.jpg",
+      "/static/img/catalogue/bg3808.jpg",
+      "/static/img/catalogue/bg3805.jpg",
+      "/static/img/catalogue/bg4974.jpg"
+    ],
+    "price": "1523 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 1100",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: Ламинированное ДСП/Столешница торцована кромкой АВС - 2 мм"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-11",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b527.jpg",
+      "/static/img/catalogue/bg5340.jpg",
+      "/static/img/catalogue/bg3810.jpg",
+      "/static/img/catalogue/bg3814.jpg",
+      "/static/img/catalogue/bg3811.jpg",
+      "/static/img/catalogue/bg3813.jpg",
+      "/static/img/catalogue/bg3812.jpg",
+      "/static/img/catalogue/bg3815.jpg",
+      "/static/img/catalogue/bg3816.jpg",
+      "/static/img/catalogue/bg4975.jpg"
+    ],
+    "price": "1446 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 1100",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: Ламинированное ДСП/Столешница торцована кромкой АВС - 2 мм"
+    ]
+  },
+  {
+    "name": "Кухонний стіл КС-12",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b528.jpg",
+      "/static/img/catalogue/bg5341.jpg",
+      "/static/img/catalogue/bg3817.jpg",
+      "/static/img/catalogue/bg3823.jpg",
+      "/static/img/catalogue/bg3821.jpg",
+      "/static/img/catalogue/bg3818.jpg",
+      "/static/img/catalogue/bg3819.jpg",
+      "/static/img/catalogue/bg3822.jpg",
+      "/static/img/catalogue/bg3820.jpg",
+      "/static/img/catalogue/bg4976.jpg"
+    ],
+    "price": "1665 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 1100",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: Ламинированное ДСП/Столешница торцована кромкой АВС - 2 мм"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-7",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b529.jpg",
+      "/static/img/catalogue/bg5399.jpg",
+      "/static/img/catalogue/bg3824.jpg",
+      "/static/img/catalogue/bg3825.jpg",
+      "/static/img/catalogue/bg4913.jpg",
+      "/static/img/catalogue/bg3827.jpg",
+      "/static/img/catalogue/bg3830.jpg",
+      "/static/img/catalogue/bg3828.jpg",
+      "/static/img/catalogue/bg3826.jpg",
+      "/static/img/catalogue/bg3829.jpg"
+    ],
+    "price": "1829 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 600",
+      "глибина, мм: 252/1520",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-8",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b530.jpg",
+      "/static/img/catalogue/bg5400.jpg",
+      "/static/img/catalogue/bg3837.jpg",
+      "/static/img/catalogue/bg3831.jpg",
+      "/static/img/catalogue/bg4914.jpg",
+      "/static/img/catalogue/bg3835.jpg",
+      "/static/img/catalogue/bg3832.jpg",
+      "/static/img/catalogue/bg3833.jpg",
+      "/static/img/catalogue/bg3834.jpg",
+      "/static/img/catalogue/bg3836.jpg"
+    ],
+    "price": "1741 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 600",
+      "глибина, мм: 932/1622",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий МО-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b553.jpg",
+      "/static/img/catalogue/bg5484.jpg",
+      "/static/img/catalogue/bg5149.jpg",
+      "/static/img/catalogue/bg4063.jpg",
+      "/static/img/catalogue/bg4067.jpg",
+      "/static/img/catalogue/bg4064.jpg",
+      "/static/img/catalogue/bg4069.jpg",
+      "/static/img/catalogue/bg4065.jpg",
+      "/static/img/catalogue/bg4066.jpg",
+      "/static/img/catalogue/bg4068.jpg"
+    ],
+    "price": "1237 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 900",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий МО-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b554.jpg",
+      "/static/img/catalogue/bg5485.jpg",
+      "/static/img/catalogue/bg5150.jpg",
+      "/static/img/catalogue/bg4070.jpg",
+      "/static/img/catalogue/bg4071.jpg",
+      "/static/img/catalogue/bg4075.jpg",
+      "/static/img/catalogue/bg4073.jpg",
+      "/static/img/catalogue/bg4072.jpg",
+      "/static/img/catalogue/bg4074.jpg",
+      "/static/img/catalogue/bg4076.jpg"
+    ],
+    "price": "1353 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 900",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий МО-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b555.jpg",
+      "/static/img/catalogue/bg5486.jpg",
+      "/static/img/catalogue/bg4083.jpg",
+      "/static/img/catalogue/bg4077.jpg",
+      "/static/img/catalogue/bg5151.jpg",
+      "/static/img/catalogue/bg4081.jpg",
+      "/static/img/catalogue/bg4078.jpg",
+      "/static/img/catalogue/bg4080.jpg",
+      "/static/img/catalogue/bg4079.jpg",
+      "/static/img/catalogue/bg4082.jpg"
+    ],
+    "price": "1324 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 1000",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт\"-1",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b561.jpg",
+      "/static/img/catalogue/bg5330.jpg",
+      "/static/img/catalogue/bg4132.jpg",
+      "/static/img/catalogue/bg4131.jpg",
+      "/static/img/catalogue/bg4127.jpg",
+      "/static/img/catalogue/bg4126.jpg",
+      "/static/img/catalogue/bg5126.jpg",
+      "/static/img/catalogue/bg4128.jpg",
+      "/static/img/catalogue/bg4129.jpg",
+      "/static/img/catalogue/bg4130.jpg"
+    ],
+    "price": "2372 грн",
+    "specs": [
+      "висота, мм: 728",
+      "ширина, мм: 1000",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Венге темный, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт\"-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b562.jpg",
+      "/static/img/catalogue/bg5331.jpg",
+      "/static/img/catalogue/bg4138.jpg",
+      "/static/img/catalogue/bg4134.jpg",
+      "/static/img/catalogue/bg4139.jpg",
+      "/static/img/catalogue/bg5127.jpg",
+      "/static/img/catalogue/bg4133.jpg",
+      "/static/img/catalogue/bg4135.jpg",
+      "/static/img/catalogue/bg4136.jpg",
+      "/static/img/catalogue/bg4137.jpg"
+    ],
+    "price": "4136 грн",
+    "specs": [
+      "висота, мм: 728",
+      "ширина, мм: 1200",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт\"-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b563.jpg",
+      "/static/img/catalogue/bg5332.jpg",
+      "/static/img/catalogue/bg4146.jpg",
+      "/static/img/catalogue/bg4140.jpg",
+      "/static/img/catalogue/bg4142.jpg",
+      "/static/img/catalogue/bg4141.jpg",
+      "/static/img/catalogue/bg5128.jpg",
+      "/static/img/catalogue/bg4144.jpg",
+      "/static/img/catalogue/bg4143.jpg",
+      "/static/img/catalogue/bg4145.jpg"
+    ],
+    "price": "3713 грн",
+    "specs": [
+      "висота, мм: 728",
+      "ширина, мм: 1200",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт\"-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b564.jpg",
+      "/static/img/catalogue/bg5333.jpg",
+      "/static/img/catalogue/bg4153.jpg",
+      "/static/img/catalogue/bg4152.jpg",
+      "/static/img/catalogue/bg4148.jpg",
+      "/static/img/catalogue/bg5129.jpg",
+      "/static/img/catalogue/bg4147.jpg",
+      "/static/img/catalogue/bg4149.jpg",
+      "/static/img/catalogue/bg4150.jpg",
+      "/static/img/catalogue/bg4151.jpg"
+    ],
+    "price": "4150 грн",
+    "specs": [
+      "висота, мм: 728",
+      "ширина, мм: 1300",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт\"-5",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b565.jpg",
+      "/static/img/catalogue/bg5334.jpg",
+      "/static/img/catalogue/bg4154.jpg",
+      "/static/img/catalogue/bg4156.jpg",
+      "/static/img/catalogue/bg4155.jpg",
+      "/static/img/catalogue/bg4157.jpg",
+      "/static/img/catalogue/bg5130.jpg",
+      "/static/img/catalogue/bg4158.jpg",
+      "/static/img/catalogue/bg4159.jpg",
+      "/static/img/catalogue/bg4160.jpg"
+    ],
+    "price": "3089 грн",
+    "specs": [
+      "висота, мм: 728",
+      "ширина, мм: 1200",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт-6\"",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b680.jpg",
+      "/static/img/catalogue/bg5335.jpg",
+      "/static/img/catalogue/bg4642.jpg",
+      "/static/img/catalogue/bg4645.jpg",
+      "/static/img/catalogue/bg4643.jpg",
+      "/static/img/catalogue/bg4647.jpg",
+      "/static/img/catalogue/bg4644.jpg",
+      "/static/img/catalogue/bg4648.jpg",
+      "/static/img/catalogue/bg4646.jpg"
+    ],
+    "price": "2260 грн",
+    "specs": [
+      "висота, мм: 728",
+      "ширина, мм: 1000",
+      "глибина, мм: 550",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт-7\"",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b681.jpg",
+      "/static/img/catalogue/bg5336.jpg",
+      "/static/img/catalogue/bg4649.jpg"
+    ],
+    "price": "2430 грн",
+    "specs": [
+      "висота, мм: 728",
+      "ширина, мм: 1200",
+      "глибина, мм: 600",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге темный",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Малюк-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b682.jpg",
+      "/static/img/catalogue/bg5480.jpg",
+      "/static/img/catalogue/bg4652.jpg",
+      "/static/img/catalogue/bg4650.jpg",
+      "/static/img/catalogue/bg4653.jpg",
+      "/static/img/catalogue/bg4651.jpg",
+      "/static/img/catalogue/bg4656.jpg",
+      "/static/img/catalogue/bg4654.jpg",
+      "/static/img/catalogue/bg4655.jpg"
+    ],
+    "price": "1865 грн",
+    "specs": [
+      "висота, мм: от 847 до 1036",
+      "ширина, мм: 700",
+      "глибина, мм: 580",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Малюк-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b683.jpg",
+      "/static/img/catalogue/bg5481.jpg",
+      "/static/img/catalogue/bg4668.jpg",
+      "/static/img/catalogue/bg4658.jpg",
+      "/static/img/catalogue/bg4657.jpg",
+      "/static/img/catalogue/bg4660.jpg",
+      "/static/img/catalogue/bg4659.jpg",
+      "/static/img/catalogue/bg4664.jpg",
+      "/static/img/catalogue/bg4661.jpg",
+      "/static/img/catalogue/bg4669.jpg",
+      "/static/img/catalogue/bg4665.jpg",
+      "/static/img/catalogue/bg4666.jpg",
+      "/static/img/catalogue/bg4662.jpg",
+      "/static/img/catalogue/bg4667.jpg",
+      "/static/img/catalogue/bg4663.jpg"
+    ],
+    "price": "1584 грн",
+    "specs": [
+      "висота, мм: от 547 до 736",
+      "ширина, мм: 700",
+      "глибина, мм: 580",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Юніор 3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b684.jpg",
+      "/static/img/catalogue/bg5501.jpg",
+      "/static/img/catalogue/bg4670.jpg",
+      "/static/img/catalogue/bg4671.jpg",
+      "/static/img/catalogue/bg4672.jpg",
+      "/static/img/catalogue/bg4677.jpg",
+      "/static/img/catalogue/bg4673.jpg",
+      "/static/img/catalogue/bg4674.jpg",
+      "/static/img/catalogue/bg4675.jpg",
+      "/static/img/catalogue/bg4676.jpg"
+    ],
+    "price": "1617 грн",
+    "specs": [
+      "висота, мм: 800",
+      "ширина, мм: 1000",
+      "глибина, мм: 500",
+      "колір ДСП: Бук Бук, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Нимфея Альба, Венге комби, Дуб сонома/Нимфея альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Аспірант",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b725.jpg",
+      "/static/img/catalogue/bg5772.jpg",
+      "/static/img/catalogue/bg5774.jpg",
+      "/static/img/catalogue/bg5777.jpg",
+      "/static/img/catalogue/bg5780.jpg",
+      "/static/img/catalogue/bg5778.jpg",
+      "/static/img/catalogue/bg5779.jpg",
+      "/static/img/catalogue/bg5773.jpg",
+      "/static/img/catalogue/bg5781.jpg",
+      "/static/img/catalogue/bg5775.jpg",
+      "/static/img/catalogue/bg5776.jpg",
+      "/static/img/catalogue/bg5782.jpg"
+    ],
+    "price": "2464 грн",
+    "specs": [
+      "висота, мм: 754",
+      "ширина, мм: 1204",
+      "глибина, мм: 534",
+      "вага, кг: 31",
+      "розмір упаковки, мм: 1200х530х80",
+      "колір ДСП: Дуб сонома Дуб сонома, Крафт комби, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл комп'ютерний ПІ-ПІ-3",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b739.jpg",
+      "/static/img/catalogue/bg5943.jpg",
+      "/static/img/catalogue/bg5951.jpg",
+      "/static/img/catalogue/bg5942.jpg",
+      "/static/img/catalogue/bg5950.jpg",
+      "/static/img/catalogue/bg5936.jpg",
+      "/static/img/catalogue/bg5934.jpg",
+      "/static/img/catalogue/bg5948.jpg",
+      "/static/img/catalogue/bg5940.jpg",
+      "/static/img/catalogue/bg5944.jpg",
+      "/static/img/catalogue/bg5933.jpg",
+      "/static/img/catalogue/bg5945.jpg",
+      "/static/img/catalogue/bg5937.jpg",
+      "/static/img/catalogue/bg5946.jpg",
+      "/static/img/catalogue/bg5941.jpg",
+      "/static/img/catalogue/bg5939.jpg",
+      "/static/img/catalogue/bg5947.jpg",
+      "/static/img/catalogue/bg5935.jpg",
+      "/static/img/catalogue/bg5949.jpg",
+      "/static/img/catalogue/bg5938.jpg"
+    ],
+    "price": "2654 грн",
+    "specs": [
+      "висота, мм: 740 + 214",
+      "ширина, мм: 1175",
+      "глибина, мм: 550",
+      "вага, кг: 31",
+      "колір ДСП: Бук Бук, Венге Венге, Вільха Вільха, Горіх Горіх, Яблуня Яблуня, Дуб сонома Дуб сонома, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 820х550х48",
+      "размер упаковки ч.2, мм: 938х350х64"
+    ]
+  },
+  {
+    "name": "Стіл письмовий Школьнік-4",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b744.jpg",
+      "/static/img/catalogue/bg5978.jpg",
+      "/static/img/catalogue/bg5984.jpg",
+      "/static/img/catalogue/bg5990.jpg",
+      "/static/img/catalogue/bg5982.jpg",
+      "/static/img/catalogue/bg5981.jpg",
+      "/static/img/catalogue/bg5985.jpg",
+      "/static/img/catalogue/bg5983.jpg",
+      "/static/img/catalogue/bg5988.jpg",
+      "/static/img/catalogue/bg5979.jpg",
+      "/static/img/catalogue/bg5980.jpg",
+      "/static/img/catalogue/bg5989.jpg",
+      "/static/img/catalogue/bg5987.jpg",
+      "/static/img/catalogue/bg5986.jpg"
+    ],
+    "price": "2310 грн",
+    "specs": [
+      "висота, мм: 760",
+      "ширина, мм: 1004",
+      "глибина, мм: 534",
+      "вага, кг: 25",
+      "розмір упаковки, мм: 1000х530х80",
+      "колір ДСП: Дуб сонома Дуб сонома, Ателье светлый, Дуб крафт золотой, Нимфея Альба",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл-книжка-9",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b747.jpg",
+      "/static/img/catalogue/bg6021.jpg",
+      "/static/img/catalogue/bg6023.jpg",
+      "/static/img/catalogue/bg6022.jpg",
+      "/static/img/catalogue/bg6024.jpg"
+    ],
+    "price": "2155 грн",
+    "specs": [
+      "висота, мм: 736",
+      "ширина, мм: 760",
+      "глибина, мм: 80/1400",
+      "вага, кг: 21",
+      "розмір упаковки, мм: 760х700х64",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт-8\"",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b748.jpg",
+      "/static/img/catalogue/bg6025.jpg",
+      "/static/img/catalogue/bg6026.jpg",
+      "/static/img/catalogue/bg6027.jpg",
+      "/static/img/catalogue/bg6028.jpg"
+    ],
+    "price": "3572 грн",
+    "specs": [
+      "висота, мм: 728",
+      "ширина, мм: 1204",
+      "глибина, мм: 504",
+      "вага, кг: 31",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП",
+      "размер упаковки ч.1, мм: 1202х502х83",
+      "размер упаковки ч.2, мм: 715х410х80"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт-9\"",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b749.jpg",
+      "/static/img/catalogue/bg6030.jpg",
+      "/static/img/catalogue/bg6031.jpg",
+      "/static/img/catalogue/bg6029.jpg",
+      "/static/img/catalogue/bg6032.jpg"
+    ],
+    "price": "2182 грн",
+    "specs": [
+      "висота, мм: 726",
+      "ширина, мм: 954",
+      "глибина, мм: 484",
+      "вага, кг: 8.5",
+      "розмір упаковки, мм: 950х490х64",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл письмовий \"Лофт-10\"",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b750.jpg",
+      "/static/img/catalogue/bg6033.jpg",
+      "/static/img/catalogue/bg6035.jpg",
+      "/static/img/catalogue/bg6034.jpg",
+      "/static/img/catalogue/bg6036.jpg"
+    ],
+    "price": "2879 грн",
+    "specs": [
+      "висота, мм: 763",
+      "ширина, мм: 950",
+      "глибина, мм: 480",
+      "вага, кг: 18",
+      "розмір упаковки, мм: 950х490х98",
+      "колір ДСП: Нимфея Альба, Ателье светлый, Дуб крафт золотой, Дуб комби",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл трансформер",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b751.jpg",
+      "/static/img/catalogue/bg6038.jpg",
+      "/static/img/catalogue/bg6037.jpg",
+      "/static/img/catalogue/bg6041.jpg",
+      "/static/img/catalogue/bg6047.jpg",
+      "/static/img/catalogue/bg6039.jpg",
+      "/static/img/catalogue/bg6044.jpg",
+      "/static/img/catalogue/bg6045.jpg",
+      "/static/img/catalogue/bg6043.jpg",
+      "/static/img/catalogue/bg6048.jpg",
+      "/static/img/catalogue/bg6046.jpg",
+      "/static/img/catalogue/bg6042.jpg",
+      "/static/img/catalogue/bg6040.jpg"
+    ],
+    "price": "2641 грн",
+    "specs": [
+      "висота, мм: 754",
+      "ширина, мм: 600",
+      "глибина, мм: 367/1280",
+      "вага, кг: 33",
+      "розмір упаковки, мм: 740х600х128",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+  {
+    "name": "Стіл трансформер-2",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/b752.jpg",
+      "/static/img/catalogue/bg6050.jpg",
+      "/static/img/catalogue/bg6049.jpg",
+      "/static/img/catalogue/bg6051.jpg",
+      "/static/img/catalogue/bg6053.jpg",
+      "/static/img/catalogue/bg6056.jpg",
+      "/static/img/catalogue/bg6052.jpg",
+      "/static/img/catalogue/bg6054.jpg",
+      "/static/img/catalogue/bg6055.jpg"
+    ],
+    "price": "3525 грн",
+    "specs": [
+      "висота, мм: 754",
+      "ширина, мм: 600",
+      "глибина, мм: 367/1280",
+      "вага, кг: 40",
+      "розмір упаковки, мм: 734х600х146",
+      "колір ДСП: Дуб сонома Дуб сонома, Нимфея Альба, Ателье светлый, Дуб крафт золотой",
+      "матеріал: ламіноване ДСП"
+    ]
+  },
+
+  {
+    "name": "Стіл журнальний Каліста",
+    "desc": "",
+    "images": ["/static/img/catalogue/calista-stol-700x700.jpg"],
+    "price": "2342 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 120 см",
+      "Висота: 53 см",
+      "Глибина: 60 см",
+      "Корпус: Дуб Аппалачі / Антрацит",
+      "Фасад: Дуб Аппалачі",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Туалетка Кім Дуб артизан / Білий",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tualetka-spalnya-kim-dub-sonoma-bilyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/tualetka-spalnya-kim-dub-sonoma-bilyy-2-700x700.jpg",
+      "/static/img/catalogue/spalnya-kim-dub-sonoma-bilyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-kim-svit-mebliv-prais-700x700.png"
+    ],
+    "price": "1736 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 93 см",
+      "Висота: 141,5 см",
+      "Глибина: 41 см",
+      "Корпус: Дуб артизан",
+      "Фасад: Дуб артизан / Білий",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Кількість шухляд: 1 шт (висувна)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Туалетка Кім Венге Магія / Дуб молочний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tualetka-kim-venge-700x700.jpg",
+      "/static/img/catalogue/tualetka-spalnya-kim-dub-molochnyy-venhe-mahiya-1-700x700.jpeg",
+      "/static/img/catalogue/spalnya-kim-dub-molochnyy-venhe-mahiya-svit-mebliv-1-700x700.jpg"
+    ],
+    "price": "1916 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 93 см",
+      "Висота: 141,5 см",
+      "Глибина: 41 см",
+      "Корпус: Венге магія",
+      "Фасад: Венге магія / Дуб молочний",
+      "Комплектація: Модель обладнана висувними ящиками на роликових направляючих",
+      "Кількість шухляд: 1 шт (висувна)",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл обідній Лаціо Каштан / Прованс темний з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/obidniy-stil-latsio-kashtan-provans-temnyy-patyna-700x700.jpeg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-3-700x700.jpg"
+    ],
+    "price": "8277 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 80 см",
+      "Глибина: 76,4 см",
+      "Корпус: Каштан",
+      "Фасад: Прованс темний, патина",
+      "Форма: Прямокутна",
+      "Механізм трансформації: Не розкладний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл обідній Лаціо Сатин",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/stil-obidniy-lazio-satin-700x700.jpg",
+      "/static/img/catalogue/17397861941810424-scaled-1-700x700.jpg"
+    ],
+    "price": "8277 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 80 см",
+      "Глибина: 76,4 см",
+      "Корпус: Сатин",
+      "Фасад: Сатин",
+      "Форма: Прямокутна",
+      "Механізм трансформації: Не розкладний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Лаціо Каштан / Прованс темний з патиною",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/stil-zhurnalnyy-latsio-provans-temnyy-patyna-700x700.jpeg",
+      "/static/img/catalogue/vitalnya-latsio-kashtan-provans-temnyy-svit-mebliv-3-700x700.jpg"
+    ],
+    "price": "3930 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 100 см",
+      "Висота: 41,9 см",
+      "Глибина: 70 см",
+      "Корпус: Каштан",
+      "Фасад: Прованс темний, патина",
+      "Форма: Прямокутна",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Лаціо Сатин",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/stil-journal-lazio-satin-700x700.jpg",
+      "/static/img/catalogue/17397862053306975-scaled-700x700.jpg"
+    ],
+    "price": "3930 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, МДФ",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 100 см",
+      "Висота: 41,9 см",
+      "Глибина: 70 см",
+      "Корпус: Сатин",
+      "Фасад: Сатин",
+      "Форма: Прямокутна",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Туалетка Соня Артвуд світлий / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tualetka-sonya-antratsyt-artvud-svitlyy-700x700.jpeg",
+      "/static/img/catalogue/tualetka-sonya-artvud-antratsyt-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/tualetka-sonya-artvud-antratsyt-svit-mebliv-1-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sonya-artvud-svitlyy-antratsyt-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sona-artwood-antracit-svit-mebliv-700x700.jpg"
+    ],
+    "price": "1528 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 81,5 см",
+      "Висота: 127 см",
+      "Глибина: 40 см",
+      "Корпус: Артвуд світлий",
+      "Фасад: Артвуд світлий / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Туалетка Соня Венге магія / Дуб молочний",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tualetka-sonya-venge-700x700.jpg",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-sonya-venhe-mahiya-dub-molochnyy-700x700.png"
+    ],
+    "price": "1694 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 81,5 см",
+      "Висота: 127 см",
+      "Глибина: 40 см",
+      "Корпус: Венге магія",
+      "Фасад: Венге магія / Дуб молочний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл 1Т Фріда Дуб ліворно/Чорний",
+    "desc": "",
+    "images": ["/static/img/catalogue/stol-1t-frida-livorno-700x700.jpg"],
+    "price": "2942 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 128 см",
+      "Висота: 75 см",
+      "Глибина: 60 см",
+      "Корпус: Чорний",
+      "Фасад: Дуб ліворно",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл 1ТН Фріда Дуб ліворно/Чорний",
+    "desc": "",
+    "images": ["/static/img/catalogue/stol-1tn-frida-livorno-700x700.jpg"],
+    "price": "3436 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 140 см",
+      "Висота: 75 см",
+      "Глибина: 55 см",
+      "Корпус: Чорний",
+      "Фасад: Дуб ліворно",
+      "Комплектація: Висувні шухляди на направляючих повного висування",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Туалетка Лотос Дуб гранж колоніальний / Антрацит",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/tualetka-lostos-svit-mebliv-700x700.jpg",
+      "/static/img/catalogue/tualetnyy-stolyk-lotos-svit-mebliv-1-700x700.jpg",
+      "/static/img/catalogue/spalnya-lotos-dsp-dub-hranzh-antratsyt-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lotos-svit-mebliv-700x700.jpeg",
+      "/static/img/catalogue/spalnya-lotos-dsp-dub-hranzh-antratsyt-700x700.png"
+    ],
+    "price": "2651 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП, дзеркало",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 130 см",
+      "Висота: 150 см",
+      "Глибина: 39 см",
+      "Корпус: Дуб гранж колоніальний",
+      "Фасад: Дуб гранж колоніальний / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/stil-ne-rozsuvnyy-vyvaldy-700x700.jpg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/stil-obidniy-ne-rozkladnyy-ms-vivaldi-700x700.jpg",
+      "/static/img/catalogue/stil-obidniy-ne-rozkladnyy-vivaldi-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-vivaldi-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/stol-vivaldi-neraskladnoy-pasport_-700x700.jpg"
+    ],
+    "price": "15210 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 200 см",
+      "Висота: 82 см",
+      "Глибина: 101 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Форма: Овальна",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл розсувний Вівальді Піно Лак / Піно Лак, художній друк",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/stil-rozsuvnyy-vivaldi-700x700.jpeg",
+      "/static/img/catalogue/vivaldi-cvet-fasad-corpus-700x700.jpg",
+      "/static/img/catalogue/modulna-systema-vivaldi-svit-mebliv-3-700x700.jpeg",
+      "/static/img/catalogue/modulnaya-systema-vivaldi-prais-700x700.jpg"
+    ],
+    "price": "18742 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 240 см (200 см у складеному вигляді)",
+      "Висота: 82 см",
+      "Глибина: 101 см",
+      "Корпус: Піно Лак",
+      "Фасад: Піно Лак, художній друк",
+      "Форма: Овальна",
+      "Кількість персон: 10 і більше",
+      "Механізм трансформації: Розкладний",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  },
+  {
+    "name": "Стіл журнальний Зара",
+    "desc": "",
+    "images": [
+      "/static/img/catalogue/zara-stol-1-700x700.jpg",
+      "/static/img/catalogue/zara-stol-2-700x700.jpg"
+    ],
+    "price": "1899 грн",
+    "specs": [
+      "Корпус: ДСП",
+      "Фасад: ДСП",
+      "Товщина ДСП: 1,6 см",
+      "Довжина: 87 см",
+      "Висота: 45 см",
+      "Глибина: 55 см",
+      "Накладки: Шовкографія",
+      "Корпус: Дуб артизан / Антрацит",
+      "Фасад: Дуб артизан / Антрацит",
+      "Гарантія: 18 місяців",
+      "Країна виробник: Україна"
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

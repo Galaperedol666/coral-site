@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Передпокої — Корал | Меблі на замовлення</title>
+    <meta
+      name="description"
+      content="Каталог меблів для передпокоїв від Корал. Оберіть меблі для вашого коридору та передпокою."
+    />
+    <meta name="robots" content="index, follow" />
+    <link
+      rel="canonical"
+      href="https://mebel-koral.dp.ua/catalogue/hallway.html"
+    />
+    <meta
+      property="og:url"
+      content="https://mebel-koral.dp.ua/catalogue/hallway.html"
+    />
+    <meta
+      property="og:image"
+      content="https://mebel-koral.dp.ua/static/img/og-image.jpg"
+    />
+
+    <link rel="icon" href="../static/img/favicon.ico" type="image/x-icon" />
+    <link
+      rel="preload"
+      href="../static/css/style.css"
+      as="style"
+      onload="this.rel = 'stylesheet'"
+    />
+    <noscript
+      ><link rel="stylesheet" href="../static/css/style.css"
+    /></noscript>
+    <link rel="stylesheet" href="../static/css/catalogue.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#maincontent">Пропустити до контенту</a>
+
+    <!-- Навігація -->
+    <header>
+      <nav class="navbar" role="navigation" aria-label="Головна навігація">
+        <div class="logo">
+          <a href="../index.html" aria-label="Перейти на головну сторінку">
+            <img
+              src="../static/img/Logo.png"
+              alt="Корал — логотип"
+              decoding="async"
+            />
+          </a>
+          <div id="work-schedule">
+            <span class="toggle-icon">🕒</span>
+            <span class="base-text"></span>
+            <span class="status-text"></span>
+          </div>
+        </div>
+        <!-- бургер -->
+        <button
+          class="burger"
+          aria-expanded="false"
+          aria-label="Меню"
+          aria-controls="nav-links"
+          aria-haspopup="true"
+          type="button"
+        >
+          ☰
+        </button>
+
+        <ul class="nav-links" id="nav-links">
+          <li><a href="../index.html">Головна</a></li>
+          <li class="dropdown">
+            <a href="../catalogue.html" class="active" aria-current="page"
+              >Каталог ▾</a
+            >
+            <ul class="dropdown-menu">
+              <li><a href="../catalogue/kitchens.html">Кухні</a></li>
+              <li><a href="../catalogue/wardrobes.html">Шафи</a></li>
+              <li><a href="../catalogue/commodes.html">Комоди</a></li>
+              <li><a href="../catalogue/living.html">Вітальні</a></li>
+              <li><a href="../catalogue/shelves.html">Полки</a></li>
+              <li><a href="../catalogue/beds.html">Ліжка</a></li>
+              <li><a href="../catalogue/sofas.html">Дивани</a></li>
+              <li><a href="../catalogue/mattresses.html">Матраци</a></li>
+              <li><a href="../catalogue/tables.html">Столи</a></li>
+              <li><a href="../catalogue/chairs.html">Стільці та крісла</a></li>
+              <li>
+                <a
+                  href="../catalogue/hallway.html"
+                  class="active"
+                  aria-current="page"
+                  >Передпокої</a
+                >
+              </li>
+            </ul>
+          </li>
+          <li><a href="../portfolio.html">Галерея</a></li>
+          <li><a href="../contacts.html">Контакти</a></li>
+          <li><a href="../delivery.html">Доставка і оплата</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Основний контент -->
+    <main id="maincontent">
+      <section class="catalogue-header">
+        <h1>Передпокої</h1>
+        <p>Оберіть меблі для передпокою та коридору</p>
+      </section>
+
+      <!-- Фільтр по ціні -->
+      <section class="filter-row">
+        <div class="product-count-box">
+          Знайдено: <span id="productCount"></span
+          ><span class="pc-word"> товарів</span>
+        </div>
+
+        <div class="filters-right">
+          <div class="filter">
+            <label for="sortPrice">Сортувати за ціною:</label>
+            <select id="sortPrice" onchange="sortByPrice()">
+              <option value="asc">За зростанням</option>
+              <option value="desc">За зменшенням</option>
+            </select>
+          </div>
+
+          <div class="filter">
+            <label for="sortName">По алфавіту:</label>
+            <select id="sortName" onchange="sortByName()">
+              <option value="asc">A → Я</option>
+              <option value="desc">Я → A</option>
+            </select>
+          </div>
+        </div>
+      </section>
+      <!-- Контейнер для карток -->
+      <section class="product-grid" id="productGrid"></section>
+
+      <!-- Модальне вікно -->
+      <div id="productModal" class="modal" onclick="closeModal(event)">
+        <div class="modal-content" onclick="event.stopPropagation()">
+          <span class="close" onclick="closeModal()">&times;</span>
+          <div class="modal-body">
+            <img id="modalImg" alt="" />
+            <h3 id="modalName"></h3>
+            <p id="modalDesc"></p>
+            <ul id="modalSpecs"></ul>
+            <div id="modalColors"></div>
+            <button class="btn-accent" onclick="contactManager()">
+              Зв’язок з менеджером
+            </button>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Кнопка "Вгору" -->
+    <button
+      id="scrollTopBtn"
+      class="scroll-top"
+      aria-label="Повернутись нагору"
+      type="button"
+    >
+      ↑
+    </button>
+
+    <footer>
+      <p>© <span id="year">2026</span> Корал. Всі права захищені.</p>
+    </footer>
+
+    <script src="../static/js/main.js" defer></script>
+    <script src="../static/js/hallway.js" defer></script>
+  </body>
+</html>
